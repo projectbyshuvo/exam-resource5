@@ -1,0 +1,10 @@
+1 | H₂SO₄-এর কনজুগেট (অনুবন্ধী) ক্ষার কোনটি? | SO₄²⁻ | H₃O⁺ | HSO₄⁻ | H₃SO₄ | 
+2 | SO₄²⁻ এবং PO₄³⁻ অনুবন্ধী এসিড হচ্ছে— | H₂SO₄, H₂PO₄⁻ | HSO₄⁻, HPO₄²⁻ | HSO₄⁻, H₂PO₄⁻ | H₂SO₄, H₃PO₄ | 
+3 | কোনটি HCO₃⁻ এর অনুবন্ধী ক্ষারক? [রা.বো.'২৩; ঢা.বো.'১৭; কু.বো.'১৫] | H₂CO₃ | CO | CO₃²⁻ | CO₂ | 
+4 | (i) HCl + HCO₃⁻ ⇌ H₂CO₃ + Cl⁻ | (ii) HCO₃⁻ + H₂O ⇌ H₃O⁺ + CO₃²⁻ | উদ্দীপক অনুসারে উভধর্মী পদার্থ কোনটি? [সম্মিলিত বোর্ড-২০১৮] | HCl | H₂O | 
+5 | (i) HNO₃ + HCO₃⁻ ⇌ H₂CO₃ + NO₃⁻ | (ii) HCO₃⁻ + H₂O ⇌ H₃O⁺ + CO₃²⁻ | উদ্দীপক অনুসারে উভধর্মী পদার্থ কোনটি? [সি.বো.'২১] | HCl | HCO₃⁻ | 
+6 | OH⁻ এর অনুবন্ধী অম্ল কোনটি? [রা.বো.'১৯] | O²⁻ | H₂O | H₃O⁺ | OH | 
+7 | OH⁻ আয়নের অনুবন্ধী এসিড? [রা.বো.'১৭] | H₂O | O₂ | H₃O⁺ | H⁺ | 
+8 | OH⁻ এর অনুবন্ধী ক্ষারক কোনটি? [ঢা.বো.'২৩; ব.বো.] | H₂O | O²⁻ | O₂ | H₃O⁺ | 
+9 | নিচের কোনটি HCl এর অনুবন্ধী ক্ষারক? | HClO⁻ | H₂O | Cl⁻ | Cl₂ | 
+10 | নিম্নের কোনটি অসত্য? | NH₄⁺ is the conjugate acid of base NH₃ | NH₃ and H₂O are conjugate pair | OH⁻ is the conjugate base of acid H₂O | OH⁻ is the conjugate pair | 

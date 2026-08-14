@@ -1,0 +1,10 @@
+1 | কোনটি সবচেয়ে বেশি আয়নিক? [য.বো. '২৩] | AlF₃ | AlCl₃ | AlBr₃ | AlI₃ | 
+2 | N³⁻, O²⁻ ও F⁻ এর পোলারিত হওয়ার প্রবণতা: | F⁻ > O²⁻ > N³⁻ | O²⁻ > N³⁻ > F⁻ | N³⁻ > O²⁻ > F⁻ | N³⁻ > F⁻ > O²⁻ | 
+3 | কোন যৌগটিতে অধিক পোলারায়ন ঘটে? [ব.বো. '২২] | MgO | Na₂O | Al₂O₃ | CaO | 
+4 | পোলারাইজেশন ধর্ম কোনটির সবচেয়ে বেশি? [রা.বো. '২২; য.বো. '২২] | Be²⁺ | Mg²⁺ | Ca²⁺ | Ba²⁺ | 
+5 | নিচের কোনটির গলনাংক কম? [চ.বো. '১৫] | NaCl | AlCl₃ | KCl | CaCl₂ | 
+6 | নিচের কোন যৌগটির গলনাংক ও স্ফুটনাংকের মান সবচেয়ে বেশি? [দি.বো. '১৭] | CaCl₂ | FeCl₂ | CuCl₂ | ZnCl₂ | 
+7 | NaCl, MgCl₂, AlCl₃ ও SiCl₄-এর স্ফুটনাংকের ক্রম? | NaCl > MgCl₂ > AlCl₃ > SiCl₄ | SiCl₄ > AlCl₃ > MgCl₂ > NaCl | NaCl > SiCl₄ > AlCl₃ > MgCl₂ | SiCl₄ > MgCl₂ > AlCl₃ > NaCl | 
+8 | পানির দ্রাব্যতার সঠিক ক্রম কোনটি? [ম.বো. '২৩] | NaCl > MgCl₂ > SiCl₄ > AlCl₃ | AlCl₃ > MgCl₂ > NaCl > SiCl₄ | SiCl₄ > AlCl₃ > MgCl₂ > NaCl | NaCl > MgCl₂ > AlCl₃ > SiCl₄ | 
+9 | পোলার দ্রাবকে দ্রাব্যতার সঠিক ক্রম কোনটি? [দি.বো. '১৯] | SiCl₄ > AlCl₃ > MgCl₂ > NaCl | NaCl > MgCl₂ > AlCl₃ > SiCl₄ | MgCl₂ > AlCl₃ > NaCl > SiCl₄ | AlCl₃ > SiCl₄ > MgCl₂ > NaCl | 
+10 | কোন যৌগটির গলনাংক সবচেয়ে বেশি? [রা.বো. '২১, '১৬; ব.বো. '১৪] | CaCl₂ | CaBr₂ | CaF₂ | CaI₂ | 
