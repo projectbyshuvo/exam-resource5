@@ -1,0 +1,10 @@
+1 | হেডার ফাইল হলো— [কু. বো.-১৭] i. stdio.h ii. math.h iii. printf.h নিচের কোনটি সঠিক? | i ও ii | i ও iii | ii ও iii | i, ii ও iii | 
+2 | সি ভাষার হেডার ফাইল হচ্ছে— [ঢা. বো.-২০১৬] i. প্রোগ্রামের আবশ্যকীয় অংশ ii. ডেটাটাইপ ধারণকারী ফাইল iii. ফাংশনের বর্ণনা ধারণকারী ফাইল নিচের কোনটি সঠিক? | i | i ও iii | ii ও iii | i, ii ও iii | 
+3 | সি-প্রোগ্রামের ক্ষেত্রে— [রা. বো.-১৬] i. প্রোগ্রাম কম্পাইলার করার জন্য Alt এবং F9 কী-দ্বয় একত্রে চাপতে হবে ii. প্রোগ্রাম সেভ করার জন্য Alt এবং S কী-দ্বয় একত্রে চাপতে হবে iii. প্রোগ্রাম রান করার জন্য Ctrl এবং F9 কী-দ্বয় একত্রে চাপতে হবে নিচের কোনটি সঠিক? | i ও ii | i ও iii | ii ও iii | i, ii ও iii | 
+4 | হেডার ফাইল হলো— i. stdio.h ii. math.h iii. input.h নিচের কোনটি সঠিক? | i ও ii | i ও iii | ii ও iii | i, ii ও iii | 
+5 | উদ্দীপকের প্রোগ্রামটি রান করলে i ও j এর মান কত হবে? [ঢা. বো. ২৫] | void main () | { | int i = 15, j; | j = j++; | 
+6 | উদ্দীপকের প্রোগ্রামটির আউটপুট কত হবে? [রা. বো. ২৫] | # include <stdio.h> | main () { | int x, y; | X = 20; | 
+7 | উদ্দীপকের প্রোগ্রামটির আউটপুট কত? [ব. বো. ২৫] | #include<stdio.h> | main () | in + a, b; | b = 125 | 
+8 | উদ্দীপকে ব্যবহৃত প্রোগ্রামিং ভাষাটি হচ্ছে— [ব. বো. ২৫] i. general purpose language ii. mid-level language iii. case sensitive language নিচের কোনটি সঠিক? | i ও ii | ii ও iii | i ও iii | i, ii ও iii | 
+9 | উদ্দীপকের প্রোগ্রামটির আউটপুট কত? [দি. বো. ২৫] | # include <stdio.h> | main () | int a, b; | b = 125 | 
+10 | উদ্দীপকে ব্যবহৃত প্রোগ্রামিং ভাষাটি হচ্ছে— [দি. বো. ২৫] i. general purpose language ii. mid level language iii. case-sensitive language নিচের কোনটি সঠিক? | i ও ii | ii ও iii | i ও iii | i, ii ও iii | 

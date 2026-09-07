@@ -1,0 +1,10 @@
+1 | C ভাষায় সঠিক চলক কোনটি? [ব. বো.-১৭] | st_name | $stname | 1 stname | 1 st-name | 
+2 | নিচের কোনটি সঠিক? [য. বো.-১৭] | int number-1 | int number 1 | int1number | int number_1 | 
+3 | কোনটি সি ভাষায় বৈধ চলক? [ব. বো.-১৯] | main | char | my & Roll | My_Roll | 
+4 | সি ভাষায় && কে কোন ধরনের অপারেটর বলা হয়? [রা. বো.-১৭] | Arithmetic | Relation | Logical | Assignment | 
+5 | C ভাষায় || কে কোন ধরনের অপারেটর বলা হয়? [অবি (গ)-২১] | Arithmetic | Relational | Logical | Assignment | 
+6 | double ডেটা টাইপের জন্য ফরম্যাট স্পেসিফায়ার কোনটি? [রা. বো.-১৭] | %d | %f | %lf | %s | 
+7 | নিচের কোনটি সংরক্ষিত শব্দ নয়? [চ.বো.-১৭] | break | if | else | function | 
+8 | নিচের কোনগুলো সঠিক Keyword? [য. বো. ২৫] i. scan ii. double iii. float নিচের কোনটি সঠিক? | i ও ii | i ও iii | ii ও iii | i, ii ও iii | 
+9 | ফরম্যাট স্পেসিফায়ার হলো— [ব. বো. ২৫] i. %d ii. %if iii. %c নিচের কোনটি সঠিক? | i ও ii | ii ও iii | i ও iii | i, ii ও iii | 
+10 | সি-ভাষার চলকগুলো লক্ষ্য কর— i. student_name ii. student name iii. student@name নিচের কোনটি সঠিক? [বোর্ড-১৮] | i | iii | i ও iii | i, ii ও iii | 

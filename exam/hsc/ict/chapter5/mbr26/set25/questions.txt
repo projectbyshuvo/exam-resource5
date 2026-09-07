@@ -1,0 +1,10 @@
+1 | কোন ফাংশনটি সি প্রোগ্রামের জন্য অত্যাবশ্যকীয়? | printf() | main() | getch() | scanf() | 
+2 | getch () এর জন্য প্রয়োজনীয় Header file কোনটি? [য. বো.-১৭] | stdio.h | conio.h | math.h | graphics.h | 
+3 | সি-তে কোন ফাংশন দ্বারা প্রোগ্রামের ফলাফল প্রকাশ করা যায়? | printf() | sqrt() | main() | scanf() | 
+4 | সি ভাষায় নতুন লাইন তৈরির ব্যাকস্ল্যাশ ক্যারেক্টার কোনটি? | \a | \b | \n | \r | 
+5 | C ভাষায় (1/2+pow(8,0)+5%2+10) এর মান পূর্ণ সংখ্যায় কত? [অভি(ক)-২১] | 12 | 13 | 19 | 20 | 
+6 | সি প্রোগ্রামিং-এ কোন স্টেটমেন্টটি নির্বাহযোগ্য নয়? | #include<stdio.h> | main() | /*its a program*/ | printf(); | 
+7 | আউটপুট স্টেটমেন্ট হলো— i. printf () ii. gets () iii. puts () নিচের কোনটি সঠিক? | i ও ii | i ও iii | ii ও iii | i, ii ও iii | 
+8 | কন্ডিশনাল কন্ট্রোল স্টেটমেন্ট হলো— i. if ii. switch iii. else....if নিচের কোনটি সঠিক? | i ও ii | i ও iii | ii ও iii | i, ii ও iii | 
+9 | "Hello World!" লেখাটি 5 বার প্রদর্শনের ক্ষেত্রে C স্টেটমেন্ট i. for(n = 1; n < 6; n++) printf("Hello World"); [রা-১৭] ii. n = 3; do {printf("Hello World!") n++;} while (n <= 8); iii. n = 5; while (n<10) (printf ("Hello World!"); n++;) নিচের কোনটি সঠিক? | i ও ii | i ও iii | ii ও iii | i, ii ও iii | 
+10 | '%f' কাজ করে— i. ইন্টিজার ii. ফ্লোট iii. রিয়েল নিচের কোনটি সঠিক? [য. বো.-১৬] | i ও ii | i ও iii | ii ও iii | i, ii ও iii | 
