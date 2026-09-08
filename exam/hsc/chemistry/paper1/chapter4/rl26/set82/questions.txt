@@ -1,0 +1,10 @@
+1 | একটি শূন্য ক্রম বিক্রিয়ায় 100 মিনিটে বিক্রিয়কের ঘনমাত্রা 0.2M থেকে 0.1M এ নেমে আসে। ঐ বিক্রিয়কের ঘনমাত্রা 0.1M থেকে 0.05M এ নেমে আসতে কত মিনিট সময় লাগবে? | 50 | 100 | 150 | 200 | 
+2 | A এবং B দুটি বিক্রিয়কের প্রত্যেকটির প্রারম্ভিক ঘনমাত্রা 0.20 mol/dm³। বিক্রিয়াটির প্রারম্ভিক গতির হার 1.6 × 10⁻⁴ mol.dm⁻³.s⁻¹। বিক্রিয়াটির গতির হার ধ্রুবক নির্ণয় কর। | 4.0 × 10⁻³ dm³.mol⁻¹.s⁻¹ | 8.0 × 10⁻⁶ dm³.mol⁻¹.s⁻¹ | 4.0 × 10⁻³ dm⁶.mol⁻².s⁻¹ | 8.0 × 10⁻⁶ dm⁶.mol⁻².s⁻¹ | 
+3 | শূন্য ক্রম বিক্রিয়ার বেগ ধ্রুবকের একক কোনটি? | time⁻¹ | L.mol⁻¹.time⁻¹ | mol.L.time⁻¹ | mol.L⁻¹.time⁻¹ | 
+4 | 2A → B একটি 2য় ক্রম রাসায়নিক বিক্রিয়া। কোন নির্দিষ্ট সময়ে বিক্রিয়ার হার প্রারম্ভিক হারের 1/16 ভাগ। এই সময়ে কত শতাংশে বিক্রিয়া সম্পূর্ণ হয়েছে? | 16 | 25 | 50 | 75 | 
+5 | কোন বিক্রিয়ার ঘনমাত্রা-সময় লেখচিত্র অন্যান্যগুলো থেকে আলাদা? | First order | Zero order | Second order | Fractional order | 
+6 | প্রথম ক্রম বিক্রিয়া, A → উৎপাদ-এর ক্ষেত্রে নিম্নের লেখচিত্রসমূহ দেখানো হল। কোন লেখচিত্রটি অসত্য? | [A] vs t (curved decreasing graph) | ln[A] vs t (straight line with positive slope) | -d[A]/dt vs [A] (straight line with positive slope) | ln([A]₀/[A]) vs t (straight line passing through origin) | 
+7 | A → P বিক্রিয়ার জন্য A এর আদি ঘনমাত্রা [A]₀ এবং t সময়ে ঘনমাত্রা [A]। বিক্রিয়াটির A সাপেক্ষে প্রথমক্রম হলে নিম্নের কোন লেখচিত্রটি সঠিক নয়? | [A] vs t (curved decreasing graph) | ln[A] vs t (straight line with positive slope) | ln[A] vs t (straight line with negative slope) | ln([A]₀/[A]) vs t (straight line passing through origin) | 
+8 | বিক্রিয়ার হার সমীকরণে বিক্রিয়কগুলির ঘনমাত্রার ঘাতের সমষ্টি হচ্ছে— | Molecularity of a reaction | Half-life of a reaction | Order of a reaction | Activation energy of a reaction | 
+9 | A → P প্রথম ক্রমের বিক্রিয়ার ক্ষেত্রে নিম্নের কোন লেখায়ন দ্বারা একটি মূলবিন্দুগামী সরলরেখা পাওয়া যাবে? | [A] vs t | d[A]/dt vs t | log[A] vs t | d[A]/dt vs [A] | 
+10 | কোন বিক্রিয়ার বেগ ধ্রুবক k-এর মাত্রা যদি (Time)⁻¹ হয়, তবে বিক্রিয়াটি ক্রম হবে— | প্রথম ক্রম | দ্বিতীয় ক্রম | শূন্য ক্রম | তৃতীয় ক্রম | 
