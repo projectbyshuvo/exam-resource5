@@ -7,7 +7,7 @@
 7 | দুটি বাইনারি সংখ্যা 1110.11 এবং 101.10 এর গুণফল কোনটি? | 110001.101 | 101000.1001 | 1010001.001 | 1010011.001 |  | 
 8 | $l$ দৈর্ঘ্য ও A প্রস্থচ্ছেদের ক্ষেত্রফল বিশিষ্ট একটি সিলিন্ডার আকৃতির তারের উপাদানের ইয়ং- এর গুণাঙ্ক ও পীড়ন যথাক্রমে Y ও S হলে তারটিতে সঞ্চিত মোট স্থিতিস্থাপক শক্তি কত হবে? | $\mathrm{S}^2 \mathrm{~A} l \mathrm{Y} / 2$ | $\mathrm{Y} l^2 /(2 \mathrm{SA})$ | $\mathrm{S}^2 \mathrm{~A} l /(2 \mathrm{Y})$ | $\mathrm{Y} \mathrm{A} /(2 \mathrm{~S} l)$ |  | 
 9 | যদি $|\overrightarrow{\mathbf{A}}+\overrightarrow{\mathbf{B}}|=\left| \overrightarrow{\mathbf{A}}-\overrightarrow{\mathbf{B}} \right|$ হয়, তবে $\overrightarrow{\mathbf{A}}$ এবং $\overrightarrow{\mathbf{B}}$ এর মধ্যবর্তী কোণ কত? | $90^{\circ}$ | $180^{\circ}$ | $0^{\circ}$ | $45^{\circ}$ |  | 
-10 | <img src="website_images/q10.png"> নিচের কোন লজিক গেটটি ডানদিকে প্রদর্শিত সার্কিটের সমতুল্য? | NOR | OR | AND | NAND |  | 
+10 | নিচের কোন লজিক গেটটি ডানদিকে প্রদর্শিত সার্কিটের সমতুল্য? | NOR | OR | AND | NAND |  | 
 11 | একটি তাপীয় ইঞ্জিন প্রতি চক্রে ধনাত্মক কাজ করে এবং তাপ হারায়, কিন্তু ইঞ্জিনটি কোন তাপ গ্রহণ করেনা। ইঞ্জিনটি তাপগতিবিদ্যার কোন সূত্রকে লঙ্ঘন করে? | তৃতীয় সূত্র | দ্বিতীয় সূত্র | প্রথম সূত্র | শূন্যতম সূত্র |  | 
 12 | $m$ ভরের একটি উপগ্রহ পৃথিবীপৃষ্ঠ থেকে $x$ উচ্চতায় পৃথিবীর চারপাশে ঘুরে যেখানে পৃথিবীর ব্যাসার্ধ $R$। যদি পৃথিবী পৃষ্ঠে অভিকর্ষজ ত্বরণ $g$ হয়, তাহলে উপগ্রহটির কক্ষপথে গতি কত? | $\sqrt{\mathrm{g} \mathrm{R}^2 /(\mathrm{R}+\mathrm{x})^2}$ | $\sqrt{\text { g R R }^2 /(R-x)}$ | $\sqrt{g x /(R-x)}$ | $\sqrt{\operatorname{gx}^2 /(\mathrm{R}+\mathrm{x})^2}$ |  | 
 13 | $\mathrm{m}_1$ ও $\mathrm{m}_2$ ভরের দুটি বস্তুর উপর একটি নির্দিষ্ট বল F প্রয়োগ যথাক্রমে $12 \mathrm{~m} / \mathrm{s}^2$ ও $0.30 \mathrm{~m} / \mathrm{s}^2$ ত্বরণ হলে ( $\mathrm{m}_2-\mathrm{m}_1$ ) ভরের বস্তুর উপর একই বল, F, প্রয়োগের ফলে ত্বরণ কত হবে? | $\frac{\mathrm{m}_2 \times 3.30}{\mathrm{~m}_1-\mathrm{m}_2}$ | $\frac{\mathrm{m}_1 \times 3.30}{\mathrm{~m}_2-\mathrm{m}_1}$ | $\frac{\mathrm{m}_2 \times 12}{\mathrm{~m}_2-\mathrm{m}_1}$ | $\frac{\mathrm{m}_1 \times 12}{\mathrm{~m}_2-\mathrm{m}_1}$ |  | 
@@ -25,7 +25,7 @@
 25 | কোন পরীক্ষা ফেনল সনাক্তকরণে ব্যবহার করা হয়? | লিবারম্যান | কার্বিলঅ্যামিন | লুকাস বিকারক | টলেন বিকারক |  | 
 26 | Zn(s)/Zn ${ }^{2+}(\mathrm{aq}) \| \mathrm{Cu}^{2+}(\mathrm{aq}) / \mathrm{Cu}(\mathrm{s})$-এই গ্যালভানিক কোষটি সম্পর্কে সঠিক উক্তি কোনটি? | Cu-ইলেক্ট্রোডে জারণ ঘটে। | Cu -ইলেক্ট্রোডটি অ্যানোড। | কোষ বিক্রিয়াটি হলো $\mathrm{Zn}^{2+}(\mathrm{aq})+\mathrm{Cu}(\mathrm{s}) \rightarrow \mathrm{Zn}(\mathrm{s})+\mathrm{Cu}^{2+}(\mathrm{aq})$ | ইলেক্ট্রন Zn- থেকে Cu-ইলেক্ট্রোডে প্রবাহিত হয় । |  | 
 27 | $\mathbf{A g}^{+}(\mathbf{a q})+\mathbf{F e}^{2+}(\mathbf{a q}) \rightleftharpoons \mathbf{F e}^{3+}(\mathbf{a q})+\mathbf{A g}(\mathbf{s})$ বিক্রিয়াটির জন্য সাম্যাংক, $\mathbf{K}_{\mathbf{c}}$, এর একক কোনটি? | একক নাই | $\mathrm{molL}^{-1}$ | $\mathrm{Lmol}^{-1}$ | $\mathrm{mol}^2 \mathrm{~L}^{-2}$ |  | 
-28 | নিচের কোনটি অ্যারোমেটিক নয়? <img src="website_images/q28.png"> | A | B | C | D |  | 
+28 | নিচের কোনটি অ্যারোমেটিক নয়? | A | B | C | D |  | 
 29 | নিচের আয়নগুরোর কোনটি ক্ষুদ্রতম? | $\mathrm{Al}^{3+}$ | $\mathrm{Mg}^{2+}$ | $\mathrm{Na}^{+}$ | $\mathrm{K}^{+}$ |  | 
 30 | নিচের কোনটিতে সর্বোচ্চ সংখক অযুগ্ম ইলেকট্রন থাকে? | ${ }_{25} \mathrm{Mn}$ | ${ }_{27} \mathrm{Co}^{3+}$ | ${ }_{26} \mathrm{Fe}^{2+}$ | ${ }_{24} \mathrm{Cr}$ |  | 
 31 | $5 y^2+\sin y=x^2$ হলে, $\frac{d y}{d x}=\text { ? }$ | $\frac{x}{5 y+\cos y}$ | $\frac{2 x}{5 y-\cos y}$ | $\frac{2 y}{5 y-\cos y}$ | $\frac{2 x}{10 y+\cos y}$ |  | 
@@ -35,7 +35,7 @@
 35 | $\int_0^1 f(x) d x=2$ এবং $\int_0^5 f(x) d x=1$ হলে, $\int_1^5 f(x) d x=$ ? | 3 | 1 | -1 | O |  | 
 36 | $\mathbf{x}$ এর কোন মানের জন্য $\mathbf{f}(\mathbf{x})=\sin ^3 \mathbf{x} \cos \mathbf{x}, \mathbf{0}<\mathbf{x}<\pi$ এর মান ক্ষুদ্রতম হবে? | O | $\frac{2 \pi}{3}$ | $\frac{\pi}{3}$ | $\frac{\pi}{4}$ |  | 
 37 | ( $4,-3$ ) বিন্দু হতে $x^2+y^2-8 x-6 y+9=0$ বৃত্তের উপরিস্থিত বিন্দুর সর্বনিম্ন দূরত্ব কত? | 1 | 3 | 4 | 2 |  | 
-38 | যদি $f(x)=x^2-1$ এবং $g(x)=\sqrt{x}$ হয়, তাহলে (gof) (x) এর ডোমেন কোনটি? | $(\mathbb{A}) \mathbb{R}$ | $\mathrm{x} \geq 0$ | $-1 | $\mathrm{x} \leq-1$ or $\mathrm{x} \geq 1$ |  | 
+38 | যদি $f(x)=x^2-1$ এবং $g(x)=\sqrt{x}$ হয়, তাহলে (gof) (x) এর ডোমেন কোনটি? | $(\mathbb{A}) \mathbb{R}$ | $\mathrm{x} \geq 0$ | $-1$ | $\mathrm{x} \leq-1$ or $\mathrm{x} \geq 1$ |  | 
 39 | $\lim _{x \rightarrow 2} \frac{8^x-2^x}{x}$ এর মান কত? | $\ln 4$ | $\ln 16$ | $\ln 2$ | $1$ |  | 
 40 | মূলবিন্দুগামী P ও Q দুটি বলের লব্ধি R। যদি P = Q = R হয়, তবে P ও Q এর মধ্যবর্তী কোণ কত হবে? | $60^{\circ}$ | $120^{\circ}$ | $90^{\circ}$ | $180^{\circ}$ |  | 
 41 | যদি 5 জন বালক ও 4 জন বালিকা দৌড় প্রতিযোগিতায় অংশগ্রহণ করে, তাহলে একজন বালকের ১ম ও একজন বালিকার ২য় হওয়ার সম্ভাবনা কত? | $\frac{5}{18}$ | (B) $\frac{3}{4}$ | $\frac{1}{2}$ | $\frac{1}{4}$ |  | 

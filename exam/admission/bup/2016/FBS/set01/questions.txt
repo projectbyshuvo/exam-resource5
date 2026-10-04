@@ -19,9 +19,9 @@
 19 | Sentence Correction The teacher distributed answer sheet between the studentsof the class. | The teacher distributed answer sheets between | The teacher distributed answer sheets among | The teacher distributed answer sheets in | The teacher had distributed answer sheets between |  | 
 20 | Sentence Correction If any student has a question, they should raise their handand ask. | they should raise their hand and ask. | he should raise this hand and ask. | they should raise their hands and ask. | he should raise his hands and ask. |  | 
 21 | which one has an opposite meaning of the word in CAPITAL INSTIGATE- | Inhibit | Waive | Random Choice | presume |  | 
-22 | which one has an opposite meaning of the word in CAPITAL ﻿ CONTAMINATION | Miserliness | Purification | Forgetfulness | Prejudice |  | 
-23 | which one has an opposite meaning of the word in CAPITAL ﻿ PEAKED- | Tired | Ruddy | Pointy | None of the above |  | 
-24 | which one has an opposite meaning of the word in CAPITAL ﻿ CONCORD- | Harmony | Thrifty | Subtle | Conflict |  | 
+22 | which one has an opposite meaning of the word in CAPITAL  CONTAMINATION | Miserliness | Purification | Forgetfulness | Prejudice |  | 
+23 | which one has an opposite meaning of the word in CAPITAL  PEAKED- | Tired | Ruddy | Pointy | None of the above |  | 
+24 | which one has an opposite meaning of the word in CAPITAL  CONCORD- | Harmony | Thrifty | Subtle | Conflict |  | 
 25 | which one has an opposite meaning of the word in CAPITAL FACILITATE- | Hallow | Hamper | Hurdle | Hide |  | 
 26 | which one has an opposite meaning of the word in CAPITAL TRANSPARENT | Opaque | Manifest | Straight forward | Explicit |  | 
 27 | What is the antonym of the word Monumental ? | Adjacent | Microscopic | Remote | Massive |  | 
@@ -53,7 +53,7 @@
 53 | Analogy WEALTH: LUXURIOUS | Ticket: Admission | Democracy: Communism | Leader: People | Book: Pages |  | 
 54 | Analogy CAUTION: ACCIDENT | Radar: Collision | Police: Criminal | Worry: Disaster | Sanitation: Health |  | 
 55 | Analogy CUSTOMER: SHOPKEPPER | Patron: Concert | Member: Club | Advocate: Policy. | Client: Lawyer |  | 
-56 | Of the following, which is greater than 1/2 | 2/3 | 4/7 | 4/9 | 5/11 | 1/2=0.521​=0.5 (A) 2/5=0.452​=0.4 (B) 4/7=0.5774​=0.57 (C) 4/9=0.4494​=0.44 (D) 5/11=0.45115​=0.45 | 
+56 | Of the following, which is greater than 1/2 | 2/3 | 4/7 | 4/9 | 5/11 | 1/2=0.521=0.5 (A) 2/5=0.452=0.4 (B) 4/7=0.5774=0.57 (C) 4/9=0.4494=0.44 (D) 5/11=0.45115=0.45 | 
 57 | For which of the following lengths of a side of a square would the perimeter be divisible by both 4 and 9 ? | 6 | 7 | 9 | None |  | 
 58 | During a certain chess tournament, each of six players will play with every other player exactly once. Then, how many different matches will be played during the tournament? | 5 | 10 | 15 | 25 | $^6C_2$=$ 6×5 \over 2 $ =15 | 
 59 | If 77:28::55:x, find the value of x- | 20 | 45 | 17 | None |  | 
@@ -68,7 +68,7 @@
 68 | If there of green marbles to red marbles. оrкоt mumentions green are 24 marbles in the box, how in a box is 3:5. mare marbles will be required to make the ration addional (A) 12 to red marbles 1:1? | 6 | 9 | 12 | None |  | 
 69 | In a certain group, 12 of the children average are age 10 and eight are age 15 . What is the average of the ages of all the children in the group? | 9.5 | 10.5 | 11.5 | 12 |  | 
 70 | Three years back, a father was 24 years older than his son. at present the father is 5 times as old as the son. How old will the son be three years from now? | 6 years | 3 years | 9 years | 27 years |  | 
-71 | If the price of an item increases from Tk. 5 to Tk. 8 , the old price is what % of the new price? | 20% | 60$ | 62.50% | 92.50% |  | 
+71 | If the price of an item increases from Tk. 5 to Tk. 8 , the old price is what % of the new price? | 20% | $60$ | 62.50% | 92.50% |  | 
 72 | A trader incurs a loss of 10% from selling an item. If the selling price was Tk. 200 more, he would have made a profit of 15%. What was the cost of the item? | 800 | 720 | 1200 | 900 |  | 
 73 | if x = -1 then ( x$^4$ +x$^3$ +x$^2$ ) = ? | -10 | -4 | zero | 4 |  | 
 74 | How many prime numbers are there between 45 and 72? | 4 | 5 | 6 | 7 |  | 
