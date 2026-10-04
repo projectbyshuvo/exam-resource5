@@ -1,60 +1,60 @@
-1 | DNA প্রতিলিপনে কোন এনজাইম অংশগ্রহণ করে না? | পলিমারেজ | লাইগেজ | লাইপেজ | হেলিকেজ |  | 
-2 | রক্ত তঞ্চনে (blood clotting) কোন ফ্যাক্টরটি ভিটামিন K-এর উপস্থিতিতে যকৃতে সংশ্লোষিত হয়? | ফাইব্রিনোজেন | প্রোথ্রম্বিন | থ্রম্বোপ্লাস্টিন | অ্যাকসেলারিন |  | 
-3 | কৃষ্ণচূড়া (Delonix regia) ফুলে কোন ধরনের এস্টিভেশন (পুষ্পপত্র বিন্যাস) দেখা যায়? | Twisted | Imbricate | Vexillary | Quincuncial |  | 
-4 | অক্সিহিমোগ্লোবিনের সংকেত কোনটি? | $\mathrm{Hb}_3 \mathrm{O}_2$ | $4 \mathrm{HbO}_2$ | $\mathrm{H}_4 \mathrm{bO}$ | $4 \mathrm{Hb}_2 \mathrm{O}_2$ |  | 
-5 | মনোহাইড্রিক অ্যালকোহলের সাথে ফ্যাটি অ্যাসিড এস্টারীভূত কী উৎপন্ন হয়? | অ্যামিনো অ্যাসিড | ফসফোলিপিড | টারপেনটাইন | মোম |  | 
-6 | নিচের কোনটি কোভিড-19 সৃষ্টিকারী করোনা ভাইরাসের আকৃতি? | 27-32 kb | 19-22 kb | 13-16 kb | 7-12 kb |  | 
-7 | কোন কোষ প্যারাইটাল কোষ নামে পরিচিত যা হাইড্রোক্লোরিক অ্যাসিড (HCI) উৎপন্ন করে? | মিউকাস কোষ | অক্সিনটিক কোষ | আর্জেন্টাফিন কোষ | জাইমোজেনিক কোষ |  | 
-8 | বায়োলজিতে সবেচেয়ে শক্তিশালী অক্সিডেন্ট কোনটি? | $\mathrm{P} 700^{+}$ | $\mathrm{P} 780^{+}$ | $\mathrm{P} 680^{+}$ | $\mathrm{P} 600^{+}$ |  | 
-9 | মানুষের মস্তিষ্কের সেরেব্রামে অবস্থিত টেম্পোরাল লোবের কাজ কী? | সাধারণত অনুভূতি | শ্রুতি | দৃষ্টি | খাদ্র গ্রহণ |  | 
-10 | অ্যালার্জি সৃষ্টির দায়ি কোষ কোনটি? | মাস্টকোষ | প্রাকৃতিক ঘাতক কোষ | T-কোষ | ডেনড্রাইটিক কোষ |  | 
-11 | নিচের কোনটি কাইটিন? | অ্যামোনিয়াবিশিষ্ট পলিস্যাকারাইড | ক্যালসিয়ামবিশিষ্ট পলিস্যাকারাইড | ফসফেটবিশিষ্ট পলিস্যাকারাইড | নাইট্রোজেনবিশিষ্ট পলিস্যাকারাইড |  | 
-12 | নিচের কোনটি মায়োসিস-১ এর প্যাকাইটিন উপ-পর্যাযের সাথে তাৎপর্যপূর্ণ নয়? | জেনেটিক ম্যাপ তৈরি হওয়া | ক্রোমোটিডের অংশের বিনিময় ও জিনগত পরিবর্তন ঘটা | জননকোষ উৎপন্ন হওয়া | জেনেটিক ভ্যারিয়েশন সৃষ্টি হওয়া |  | 
-13 | সবাত শ্বসনের তৃতীয় ধাপ 'ক্রেবস্ চক্র' কোথায় সংঘটিত হয়? | মাইটোকন্ড্রিয়‍্যাল মেমব্রেনে | কোষের সাইটোপ্লাজমে | মাইটোকন্ড্রিয়নের ম্যাট্রিক্সে | ক্লোরোপ্লাস্টের রাইবোসোমে |  | 
-14 | রুই মাছের শ্রোণি-পাখনায় রক্ত পরিবহন করে কোন ধমনি? | ইলিয়াক ধমনি | সিলিয়াকো-মেসেন্টেরিক ধমনি | কডাল ধমনি | প্যারাইটাল ধমনি |  | 
-15 | কোন সাইনাসের প্রদাহের কারণে চোখের পেছনে ও মাথার চূড়ায় ব্যাথা হয়? | ম্যাক্সিলারি সাইনাস | এথময়েড সাইনাস | ফ্রন্টাল সাইনাস | স্ফেনয়েড সাইনাস |  | 
-16 | XeF₆ যৌগে কতটি মুক্তজোড় ইলেকট্রন রয়েছে? | 2 | 3 | 1 | 0 |  | 
-17 | তড়িৎ রাসায়নিক কোষের অ্যানোডে কী বিক্রিয়া ঘটে? | বিজারণ বিক্রিয়া | জারণ বিক্রিয়া | প্রশমন বিক্রিয়া | কোনোটিই নয় |  | 
-18 | নিচের কোন মৌলির ইলেক্ট্রন বিন্যাসে হুন্ডের নিয়ম প্রযোজ্য নয়? | Cr | N | P | S |  | 
-19 | IR বর্ণালিতে শোষণ বা নিঃসরণ ব্যান্ডটি 1715 cm⁻¹ কম্পন সংখ্যায় নিচের কোন মূলকটি সনাক্ত করা যায়? | -OH | $-\mathrm{NH}_2$ | $-\mathrm{C} \equiv \mathrm{C}-$ | $=\mathrm{CO}$ |  | 
-20 | জীবাণুনাশে কোন তরঙ্গ দৈর্ঘ্যের রশ্মি ব্যবহৃত হয়? | 240-280 nm | 230-280 nm | 25-1000 μm | 240-380 μm |  | 
-21 | একটি দ্রবণের হাইড্রোক্সাইড আয়ন $\left(\mathrm{OH}^{-}\right)$ এর ঘনমাত্রা $8.2 \times 10^{-4} \mathrm{moL}^{-1}$ হলে উক্ত দ্রবণের pH মান কত? | 3.09 | 4.09 | 10.91 | 10.09 |  | 
-22 | খাদ্যদ্রব্য পচনে অন্যতম সহায়ক কোনটি? | $\mathrm{SO}_2$ | $\mathrm{N}_2 \mathrm{O}$ | $\mathrm{NO}_2$ | $\mathrm{O}_2$ |  | 
-23 | বাংলাদেশে সুপেয় পানির আর্সেনিক-এর গ্রহণযোগ্য মাত্রা কত? | 0.1 ppm | 0.05 ppm | 0.5 ppm | 0.01 ppm |  | 
-24 | $\mathrm{HC} \equiv \mathrm{C}-\mathrm{HC}=\mathrm{CH}-\mathrm{CH}_2-\mathrm{CO}-\mathrm{CH}_2-\mathrm{CO}-\mathrm{OCH}_3$ যৌগটিতে কতটি কার্যকরী মূলক আছে? | 5 | 4 | 3 | 2 |  | 
-25 | কোন যৌগটি সরল রৈখিক নয়? | $\mathrm{CO}_2$ | $\mathrm{H}_2 \mathrm{~S}$ | $\mathrm{C}_2 \mathrm{H}_2$ | $\mathrm{O}_2$ |  | 
-26 | লা-শাতেলিয়ারের নীতি প্রয়োগ করে উৎপাদন বৃদ্ধিতে কিসের পরিবর্তন করা হয়? | তাপমাত্রা | চাপ | ঘনমাত্রা | সবগুলো |  | 
-27 | কোন কোষে তড়িৎ শক্তিকে রাসায়নিক শক্তিতে রূপান্তরিত করা হয়? | তড়িৎ বিশ্লেষ্য কোষ | গ্যালভানিক কোষ | জ্বালানি কোষ | ডেনিয়েল কোষ |  | 
-28 | $\frac{1}{\sin 10^{\circ}}-\frac{\sqrt{3}}{\cos 10^{\circ}}$ এর মান কত? | 2 | 4 | 6 | 8 |  | 
-29 | $\int \frac{\mathrm{xe}^{\mathrm{x}}}{(\mathrm{x}+1)^2} \mathrm{dx}$ এর মান কত? | $\frac{\mathrm{e}^{\mathrm{x}}}{\mathrm{x}-1}+\mathrm{C}$ | $\frac{\mathrm{e}^{\mathrm{x}}}{1-\mathrm{x}}+\mathrm{C}$ | $\frac{e^x}{x}+C$ | $\frac{\mathrm{e}^{\mathrm{x}}}{\mathrm{x}+1}+\mathrm{C}$ |  | 
-30 | $y^2=8 x$ পরাবৃত্তের উপকেন্দ্রের স্থানাঙ্ক কত? | (-2, 0) | (2,0) | (0,-2) | (0, 2) |  | 
-31 | নিশ্চিত ঘটনার সম্ভাবনা কত? | 0 | 0.5 | 1 | 2 |  | 
-32 | 3P ও 2P বলদ্বয়ের লব্ধি R, প্রথম বলটিকে দ্বিগুণ করলে লব্ধির পরিমাণও দ্বিগুণ হয়। বলদ্বয়ের অন্তর্গত কোণের মান কত? | $30^{\circ}$ | $60^{\circ}$ | $120^{\circ}$ | $150^{\circ}$ |  | 
-33 | $\sin ^2 \frac{\pi}{7}+\sin ^2 \frac{5 \pi}{14}+\sin ^2 \frac{8 \pi}{7}+\sin ^2 \frac{9 \pi}{14}$ এর মান কত? | 2 | -2 | -1 | 1 |  | 
-34 | নিচের কোনটি $\left\vert  2 x+5 \right\vert <1$ অসমতাটির সমাধান সেট? | $-3 \leq x<-2$ | $-3 | $-3 | $-3 \leq \mathrm{x} \leq-2$ |  | 
-35 | $\frac{d}{d x}\left(\log _x e\right)=?$ | $\frac{\log _{\mathrm{x}} \mathrm{e}}{\mathrm{x}}$ | $\frac{1}{x \ln x}$ | $-\frac{\ln x}{x}$ | $-\frac{1}{x(\ln x)^2}$ |  | 
-36 | x এর কোন ধনাত্মক মানের জন্য $\mathbf{y}=\mathbf{x}+\mathbf{x}^{-1}$ রেখাটির ঢাল শূন্য হবে? | 2 | 1 | $\sqrt{2}$ | $\frac{1}{2}$ |  | 
-37 | ABCDEF একটি সুষম ষড়ভূজ হলে $\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{AC}}+\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{AE}}+\overrightarrow{\mathrm{AF}}=?$ | $3 \overrightarrow{\mathrm{AD}}$ | $2 \overrightarrow{\mathrm{AD}}$ | $\frac{3}{2} \overrightarrow{\mathrm{AD}}$ | কোনোটিই নয় |  | 
-38 | যদি $\sin \theta+\operatorname{cosec} \theta=2$ হয়, তবে $\sin ^{\mathrm{n} \theta}+\operatorname{cosec}^{\mathrm{n} \theta}$ এর মান কত? | 1 | -1 | 2 | -2 |  | 
-39 | (-1,-1) বিন্দুটির পোলার স্থানাঙ্ক কোনটি? | $\left(\sqrt{2},-45^{\circ}\right)$ | $\left(\sqrt{2}, 45^{\circ}\right)$ | $\left(\sqrt{2}, 135^{\circ}\right)$ | $\left(\sqrt{2}, 225^{\circ}\right)$ |  | 
-40 | যদি 5 kg ভরের একটি বন্দুক হতে 20 g ভরের একটি গুলি 1000 ms⁻¹বেগে ছোঁড়া হয় তবে বন্দুকের পশ্চাৎ বেগ কত? | $4 \mathrm{~ms}^{-1}$ | $4000 \mathrm{~ms}^{-1}$ | $40 \mathrm{~ms}^{-1}$ | $400 \mathrm{~ms}^{-1}$ |  | 
-41 | গ্যাসের অভ্যন্তরীণ শক্তি নির্ভর করে- | চাপের ওপর | তাপমাত্রার ওপর | আয়তনের ওপর | সবগুলোর ওপর |  | 
-42 | একটি ইলেকট্রন 0.99 c দ্রুতিতে গতিশীল হলে এর চলমান ভর কত? | $5.46 \times 10^{-30} \mathrm{~kg}$ | $6.45 \times 10^{-30} \mathrm{~kg}$ | $6.45 \times 10^{-31} \mathrm{~kg}$ | $5.46 \times 10^{-31} \mathrm{~kg}$ |  | 
-43 | একটি মার্বেলকে সুতায় বেঁধে বৃত্তাকার পথে ঘোরালে কাজের পরিমাণ হবে- | ঋণাত্মক | ধনাত্মক | সর্বোচ্চ | শূন্য |  | 
-44 | সূর্য প্রতি সেকেন্ডে কত শক্তি বিকিরণ করে? | $4 \times 10^{26} \mathrm{~J}$ | $4 \times 10^{36} \mathrm{~J}$ | $4 \times 10^{28} \mathrm{~J}$ | $4 \times 10^{29} \mathrm{~J}$ |  | 
-45 | কোন তাপমাত্রায় এবং পারদ স্তম্ভ চাপে বিশুদ্ধ বরফ, পানি এবং জলীয় বাষ্প একটি তাপীয় সাম্যবস্থায় থাকে? | 4° C, 4.58 mm Hg | 0° C, 4.58 mm Hg | 273.16 Κ, 4.85 mm Hg | 273.16 K, 4.58 mm Hg |  | 
-46 | দুইটি সমান ভেক্টর থেকে শূন্য ভেক্টর পেতে হলে এদের মধ্যবর্তী কোণ কত হবে? | 0° | 45° | 90° | 180° |  | 
-47 | একটি বৈদ্যুতিক বাল্বকে "40 W-200 V" এভাবে চিহ্নিত করা আছে। বাল্বটির রোধ কত? | 1000 Ω | 500 Ω | 0 Ω | 100 Ω |  | 
-48 | শূন্য মাধ্যমে আলো 3 বছরে কত দূরত্ব অতিক্রম করবে? | $9.48 \times 10^{13} \mathrm{~km}$ | $2.83 \times 10^{13} \mathrm{~km}$ | $9.48 \times 10^{12} \mathrm{~km}$ | $3.83 \times 10^{13} \mathrm{~km}$ |  | 
-49 | নিচের কোনটি নিউক্লিয়াসে নিউক্লীয় উপাদানসমূহকে একত্রে আবদ্ধ করে রাখে? | মহাকর্ষ বল | তড়িৎ চৌম্বক বল | সবল নিউক্লীয় বল | দূর্বল নিউক্লীয় বল |  | 
-50 | একটি রেফ্রিজারেটরের কর্মসম্পাদন সহগ 2.5, শীতল তাপধারার হতে এটি চক্রে 500 J তাপ গ্রহণ করে। রেফ্রিজারেটর চালানোর জন্য প্রতি চক্রে বাইরে থেকে কী পরিমাণ কাজ সম্পাদন করতে হবে? | 200 J | 250 J | 100 J | 150 J |  | 
-51 | এক্সরে একটি তড়িৎ চৌম্বক তরঙ্গ। এর তরঙ্গ দৈর্ঘ্য প্রায়- | $10^{-8} \mathrm{~m}$ | $10^{-9} \mathrm{~m}$ | $10^{-10} \mathrm{~m}$ | $10^{-12} \mathrm{~m}$ |  | 
-52 | Which of the following can be used as a verb? | Mister | Master | Mistress | Mastery |  | 
-53 | 'At a stretch' means____. | Irregularly | Without break | Decaying | Long way |  | 
-54 | ____a mayor, many city governments employ a city manager. | Beside | Besides | And | Also |  | 
-55 | Choose the correct sentence. | Neither the team nor the coach were happy with the result. | Neither the team nor the coach was happy with the result. | Neither the team nor the coach is happy with the result. | Neither the team nor the coach are happy with the result. |  | 
-56 | Which sentence uses an adverbial clause? | Tell me the place where he lives | Tell me Where he lives. | You may go where you like. | I know why he said so. |  | 
-57 | Which one of the following is the correct passive form of 'They proposed to hold a meeting'? | A meeting was proposed to be held by them. | To hold a meeting was proposed by them. | It was proposed by them to hold a meeting. | A meeting was proposed by them to be held. |  | 
-58 | Which one of the following is the correct indirect speech of 'Have you brought a pen for me? The girl said to her father'? | The girl asked her father if he had brought a pen for her. | The girl asked her father that he had brought a pen for her. | The girl asked her father to bring a pen for her. | The girl said to her father he had bring a pen for her. |  | 
-59 | Select the alternative which best expresses the meaning of the sentence: 'We were no more surprised than Rahman'. | We were less surprised | We were all surprised | Rahman was less surprised than us. | We were as surprised as Rahman. |  | 
-60 | Which one of the following is the correct negative form of the sentence 'He is always on time'? | He is not always on time. | He does not come late. | He is never late. | He does not fail to come on time. |  | 
+1 | DNA প্রতিলিপনে কোন এনজাইম অংশগ্রহণ করে না? | পলিমারেজ | লাইগেজ | লাইপেজ | হেলিকেজ | 
+2 | রক্ত তঞ্চনে (blood clotting) কোন ফ্যাক্টরটি ভিটামিন K-এর উপস্থিতিতে যকৃতে সংশ্লোষিত হয়? | ফাইব্রিনোজেন | প্রোথ্রম্বিন | থ্রম্বোপ্লাস্টিন | অ্যাকসেলারিন | 
+3 | কৃষ্ণচূড়া (Delonix regia) ফুলে কোন ধরনের এস্টিভেশন (পুষ্পপত্র বিন্যাস) দেখা যায়? | Twisted | Imbricate | Vexillary | Quincuncial | 
+4 | অক্সিহিমোগ্লোবিনের সংকেত কোনটি? | $\mathrm{Hb}_3 \mathrm{O}_2$ | $4 \mathrm{HbO}_2$ | $\mathrm{H}_4 \mathrm{bO}$ | $4 \mathrm{Hb}_2 \mathrm{O}_2$ | 
+5 | মনোহাইড্রিক অ্যালকোহলের সাথে ফ্যাটি অ্যাসিড এস্টারীভূত কী উৎপন্ন হয়? | অ্যামিনো অ্যাসিড | ফসফোলিপিড | টারপেনটাইন | মোম | 
+6 | নিচের কোনটি কোভিড-19 সৃষ্টিকারী করোনা ভাইরাসের আকৃতি? | 27-32 kb | 19-22 kb | 13-16 kb | 7-12 kb | 
+7 | কোন কোষ প্যারাইটাল কোষ নামে পরিচিত যা হাইড্রোক্লোরিক অ্যাসিড (HCI) উৎপন্ন করে? | মিউকাস কোষ | অক্সিনটিক কোষ | আর্জেন্টাফিন কোষ | জাইমোজেনিক কোষ | 
+8 | বায়োলজিতে সবেচেয়ে শক্তিশালী অক্সিডেন্ট কোনটি? | $\mathrm{P} 700^{+}$ | $\mathrm{P} 780^{+}$ | $\mathrm{P} 680^{+}$ | $\mathrm{P} 600^{+}$ | 
+9 | মানুষের মস্তিষ্কের সেরেব্রামে অবস্থিত টেম্পোরাল লোবের কাজ কী? | সাধারণত অনুভূতি | শ্রুতি | দৃষ্টি | খাদ্র গ্রহণ | 
+10 | অ্যালার্জি সৃষ্টির দায়ি কোষ কোনটি? | মাস্টকোষ | প্রাকৃতিক ঘাতক কোষ | T-কোষ | ডেনড্রাইটিক কোষ | 
+11 | নিচের কোনটি কাইটিন? | অ্যামোনিয়াবিশিষ্ট পলিস্যাকারাইড | ক্যালসিয়ামবিশিষ্ট পলিস্যাকারাইড | ফসফেটবিশিষ্ট পলিস্যাকারাইড | নাইট্রোজেনবিশিষ্ট পলিস্যাকারাইড | 
+12 | নিচের কোনটি মায়োসিস-১ এর প্যাকাইটিন উপ-পর্যাযের সাথে তাৎপর্যপূর্ণ নয়? | জেনেটিক ম্যাপ তৈরি হওয়া | ক্রোমোটিডের অংশের বিনিময় ও জিনগত পরিবর্তন ঘটা | জননকোষ উৎপন্ন হওয়া | জেনেটিক ভ্যারিয়েশন সৃষ্টি হওয়া | 
+13 | সবাত শ্বসনের তৃতীয় ধাপ 'ক্রেবস্ চক্র' কোথায় সংঘটিত হয়? | মাইটোকন্ড্রিয়‍্যাল মেমব্রেনে | কোষের সাইটোপ্লাজমে | মাইটোকন্ড্রিয়নের ম্যাট্রিক্সে | ক্লোরোপ্লাস্টের রাইবোসোমে | 
+14 | রুই মাছের শ্রোণি-পাখনায় রক্ত পরিবহন করে কোন ধমনি? | ইলিয়াক ধমনি | সিলিয়াকো-মেসেন্টেরিক ধমনি | কডাল ধমনি | প্যারাইটাল ধমনি | 
+15 | কোন সাইনাসের প্রদাহের কারণে চোখের পেছনে ও মাথার চূড়ায় ব্যাথা হয়? | ম্যাক্সিলারি সাইনাস | এথময়েড সাইনাস | ফ্রন্টাল সাইনাস | স্ফেনয়েড সাইনাস | 
+16 | XeF₆ যৌগে কতটি মুক্তজোড় ইলেকট্রন রয়েছে? | 2 | 3 | 1 | 0 | 
+17 | তড়িৎ রাসায়নিক কোষের অ্যানোডে কী বিক্রিয়া ঘটে? | বিজারণ বিক্রিয়া | জারণ বিক্রিয়া | প্রশমন বিক্রিয়া | কোনোটিই নয় | 
+18 | নিচের কোন মৌলির ইলেক্ট্রন বিন্যাসে হুন্ডের নিয়ম প্রযোজ্য নয়? | Cr | N | P | S | 
+19 | IR বর্ণালিতে শোষণ বা নিঃসরণ ব্যান্ডটি 1715 cm⁻¹ কম্পন সংখ্যায় নিচের কোন মূলকটি সনাক্ত করা যায়? | -OH | $-\mathrm{NH}_2$ | $-\mathrm{C} \equiv \mathrm{C}-$ | $=\mathrm{CO}$ | 
+20 | জীবাণুনাশে কোন তরঙ্গ দৈর্ঘ্যের রশ্মি ব্যবহৃত হয়? | 240-280 nm | 230-280 nm | 25-1000 μm | 240-380 μm | 
+21 | একটি দ্রবণের হাইড্রোক্সাইড আয়ন $\left(\mathrm{OH}^{-}\right)$ এর ঘনমাত্রা $8.2 \times 10^{-4} \mathrm{moL}^{-1}$ হলে উক্ত দ্রবণের pH মান কত? | 3.09 | 4.09 | 10.91 | 10.09 | 
+22 | খাদ্যদ্রব্য পচনে অন্যতম সহায়ক কোনটি? | $\mathrm{SO}_2$ | $\mathrm{N}_2 \mathrm{O}$ | $\mathrm{NO}_2$ | $\mathrm{O}_2$ | 
+23 | বাংলাদেশে সুপেয় পানির আর্সেনিক-এর গ্রহণযোগ্য মাত্রা কত? | 0.1 ppm | 0.05 ppm | 0.5 ppm | 0.01 ppm | 
+24 | $\mathrm{HC} \equiv \mathrm{C}-\mathrm{HC}=\mathrm{CH}-\mathrm{CH}_2-\mathrm{CO}-\mathrm{CH}_2-\mathrm{CO}-\mathrm{OCH}_3$ যৌগটিতে কতটি কার্যকরী মূলক আছে? | 5 | 4 | 3 | 2 | 
+25 | কোন যৌগটি সরল রৈখিক নয়? | $\mathrm{CO}_2$ | $\mathrm{H}_2 \mathrm{~S}$ | $\mathrm{C}_2 \mathrm{H}_2$ | $\mathrm{O}_2$ | 
+26 | লা-শাতেলিয়ারের নীতি প্রয়োগ করে উৎপাদন বৃদ্ধিতে কিসের পরিবর্তন করা হয়? | তাপমাত্রা | চাপ | ঘনমাত্রা | সবগুলো | 
+27 | কোন কোষে তড়িৎ শক্তিকে রাসায়নিক শক্তিতে রূপান্তরিত করা হয়? | তড়িৎ বিশ্লেষ্য কোষ | গ্যালভানিক কোষ | জ্বালানি কোষ | ডেনিয়েল কোষ | 
+28 | $\frac{1}{\sin 10^{\circ}}-\frac{\sqrt{3}}{\cos 10^{\circ}}$ এর মান কত? | 2 | 4 | 6 | 8 | 
+29 | $\int \frac{\mathrm{xe}^{\mathrm{x}}}{(\mathrm{x}+1)^2} \mathrm{dx}$ এর মান কত? | $\frac{\mathrm{e}^{\mathrm{x}}}{\mathrm{x}-1}+\mathrm{C}$ | $\frac{\mathrm{e}^{\mathrm{x}}}{1-\mathrm{x}}+\mathrm{C}$ | $\frac{e^x}{x}+C$ | $\frac{\mathrm{e}^{\mathrm{x}}}{\mathrm{x}+1}+\mathrm{C}$ | 
+30 | $y^2=8 x$ পরাবৃত্তের উপকেন্দ্রের স্থানাঙ্ক কত? | (-2, 0) | (2,0) | (0,-2) | (0, 2) | 
+31 | নিশ্চিত ঘটনার সম্ভাবনা কত? | 0 | 0.5 | 1 | 2 | 
+32 | 3P ও 2P বলদ্বয়ের লব্ধি R, প্রথম বলটিকে দ্বিগুণ করলে লব্ধির পরিমাণও দ্বিগুণ হয়। বলদ্বয়ের অন্তর্গত কোণের মান কত? | $30^{\circ}$ | $60^{\circ}$ | $120^{\circ}$ | $150^{\circ}$ | 
+33 | $\sin ^2 \frac{\pi}{7}+\sin ^2 \frac{5 \pi}{14}+\sin ^2 \frac{8 \pi}{7}+\sin ^2 \frac{9 \pi}{14}$ এর মান কত? | 2 | -2 | -1 | 1 | 
+34 | নিচের কোনটি $\left\vert  2 x+5 \right\vert <1$ অসমতাটির সমাধান সেট? | $-3 \leq x<-2$ | $-3 | $-3 | $-3 \leq \mathrm{x} \leq-2$ | 
+35 | $\frac{d}{d x}\left(\log _x e\right)=?$ | $\frac{\log _{\mathrm{x}} \mathrm{e}}{\mathrm{x}}$ | $\frac{1}{x \ln x}$ | $-\frac{\ln x}{x}$ | $-\frac{1}{x(\ln x)^2}$ | 
+36 | x এর কোন ধনাত্মক মানের জন্য $\mathbf{y}=\mathbf{x}+\mathbf{x}^{-1}$ রেখাটির ঢাল শূন্য হবে? | 2 | 1 | $\sqrt{2}$ | $\frac{1}{2}$ | 
+37 | ABCDEF একটি সুষম ষড়ভূজ হলে $\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{AC}}+\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{AE}}+\overrightarrow{\mathrm{AF}}=?$ | $3 \overrightarrow{\mathrm{AD}}$ | $2 \overrightarrow{\mathrm{AD}}$ | $\frac{3}{2} \overrightarrow{\mathrm{AD}}$ | কোনোটিই নয় | 
+38 | যদি $\sin \theta+\operatorname{cosec} \theta=2$ হয়, তবে $\sin ^{\mathrm{n} \theta}+\operatorname{cosec}^{\mathrm{n} \theta}$ এর মান কত? | 1 | -1 | 2 | -2 | 
+39 | (-1,-1) বিন্দুটির পোলার স্থানাঙ্ক কোনটি? | $\left(\sqrt{2},-45^{\circ}\right)$ | $\left(\sqrt{2}, 45^{\circ}\right)$ | $\left(\sqrt{2}, 135^{\circ}\right)$ | $\left(\sqrt{2}, 225^{\circ}\right)$ | 
+40 | যদি 5 kg ভরের একটি বন্দুক হতে 20 g ভরের একটি গুলি 1000 ms⁻¹বেগে ছোঁড়া হয় তবে বন্দুকের পশ্চাৎ বেগ কত? | $4 \mathrm{~ms}^{-1}$ | $4000 \mathrm{~ms}^{-1}$ | $40 \mathrm{~ms}^{-1}$ | $400 \mathrm{~ms}^{-1}$ | 
+41 | গ্যাসের অভ্যন্তরীণ শক্তি নির্ভর করে- | চাপের ওপর | তাপমাত্রার ওপর | আয়তনের ওপর | সবগুলোর ওপর | 
+42 | একটি ইলেকট্রন 0.99 c দ্রুতিতে গতিশীল হলে এর চলমান ভর কত? | $5.46 \times 10^{-30} \mathrm{~kg}$ | $6.45 \times 10^{-30} \mathrm{~kg}$ | $6.45 \times 10^{-31} \mathrm{~kg}$ | $5.46 \times 10^{-31} \mathrm{~kg}$ | 
+43 | একটি মার্বেলকে সুতায় বেঁধে বৃত্তাকার পথে ঘোরালে কাজের পরিমাণ হবে- | ঋণাত্মক | ধনাত্মক | সর্বোচ্চ | শূন্য | 
+44 | সূর্য প্রতি সেকেন্ডে কত শক্তি বিকিরণ করে? | $4 \times 10^{26} \mathrm{~J}$ | $4 \times 10^{36} \mathrm{~J}$ | $4 \times 10^{28} \mathrm{~J}$ | $4 \times 10^{29} \mathrm{~J}$ | 
+45 | কোন তাপমাত্রায় এবং পারদ স্তম্ভ চাপে বিশুদ্ধ বরফ, পানি এবং জলীয় বাষ্প একটি তাপীয় সাম্যবস্থায় থাকে? | 4° C, 4.58 mm Hg | 0° C, 4.58 mm Hg | 273.16 Κ, 4.85 mm Hg | 273.16 K, 4.58 mm Hg | 
+46 | দুইটি সমান ভেক্টর থেকে শূন্য ভেক্টর পেতে হলে এদের মধ্যবর্তী কোণ কত হবে? | 0° | 45° | 90° | 180° | 
+47 | একটি বৈদ্যুতিক বাল্বকে "40 W-200 V" এভাবে চিহ্নিত করা আছে। বাল্বটির রোধ কত? | 1000 Ω | 500 Ω | 0 Ω | 100 Ω | 
+48 | শূন্য মাধ্যমে আলো 3 বছরে কত দূরত্ব অতিক্রম করবে? | $9.48 \times 10^{13} \mathrm{~km}$ | $2.83 \times 10^{13} \mathrm{~km}$ | $9.48 \times 10^{12} \mathrm{~km}$ | $3.83 \times 10^{13} \mathrm{~km}$ | 
+49 | নিচের কোনটি নিউক্লিয়াসে নিউক্লীয় উপাদানসমূহকে একত্রে আবদ্ধ করে রাখে? | মহাকর্ষ বল | তড়িৎ চৌম্বক বল | সবল নিউক্লীয় বল | দূর্বল নিউক্লীয় বল | 
+50 | একটি রেফ্রিজারেটরের কর্মসম্পাদন সহগ 2.5, শীতল তাপধারার হতে এটি চক্রে 500 J তাপ গ্রহণ করে। রেফ্রিজারেটর চালানোর জন্য প্রতি চক্রে বাইরে থেকে কী পরিমাণ কাজ সম্পাদন করতে হবে? | 200 J | 250 J | 100 J | 150 J | 
+51 | এক্সরে একটি তড়িৎ চৌম্বক তরঙ্গ। এর তরঙ্গ দৈর্ঘ্য প্রায়- | $10^{-8} \mathrm{~m}$ | $10^{-9} \mathrm{~m}$ | $10^{-10} \mathrm{~m}$ | $10^{-12} \mathrm{~m}$ | 
+52 | Which of the following can be used as a verb? | Mister | Master | Mistress | Mastery | 
+53 | 'At a stretch' means____. | Irregularly | Without break | Decaying | Long way | 
+54 | ____a mayor, many city governments employ a city manager. | Beside | Besides | And | Also | 
+55 | Choose the correct sentence. | Neither the team nor the coach were happy with the result. | Neither the team nor the coach was happy with the result. | Neither the team nor the coach is happy with the result. | Neither the team nor the coach are happy with the result. | 
+56 | Which sentence uses an adverbial clause? | Tell me the place where he lives | Tell me Where he lives. | You may go where you like. | I know why he said so. | 
+57 | Which one of the following is the correct passive form of 'They proposed to hold a meeting'? | A meeting was proposed to be held by them. | To hold a meeting was proposed by them. | It was proposed by them to hold a meeting. | A meeting was proposed by them to be held. | 
+58 | Which one of the following is the correct indirect speech of 'Have you brought a pen for me? The girl said to her father'? | The girl asked her father if he had brought a pen for her. | The girl asked her father that he had brought a pen for her. | The girl asked her father to bring a pen for her. | The girl said to her father he had bring a pen for her. | 
+59 | Select the alternative which best expresses the meaning of the sentence: 'We were no more surprised than Rahman'. | We were less surprised | We were all surprised | Rahman was less surprised than us. | We were as surprised as Rahman. | 
+60 | Which one of the following is the correct negative form of the sentence 'He is always on time'? | He is not always on time. | He does not come late. | He is never late. | He does not fail to come on time. | 

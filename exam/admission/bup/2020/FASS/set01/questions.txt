@@ -1,100 +1,100 @@
-1 | সাধিত শব্দ কত প্রকার? | ৫ প্রকার | ৩ প্রকার | ২ প্রকার | ৬ প্রকার |  | 
-2 | 'নীল দর্পণ' নাটকটিকে ইংরেজিতে অনুবাদ করেন কে? | দীনবন্ধু মিত্র | শেলী | এস ওয়াজেদ আলী | মাইকেল মধুসুদন দত্ত |  | 
-3 | 'গোবর গণেশ' বাগধারাটির অর্থ কী? | চালাক | মূর্খ | গোবরের মত আবর্জনা | বোকা |  | 
-4 | 'রেইনকোট' গল্পটি কোন গ্রন্থ থেকে নেওয়া হয়েছে? | খোঁয়ারি | জাল স্বপ্ন স্বপ্নের জাল | দুধভাতে উৎপাত | দোজখের ওম |  | 
-5 | 'সমুদ্রের স্বাদ' রচনা করেন কে? | মুনীর চৌধুরী | জহির রায়হান | সমরেশ মজুমদার | মানিক বন্দ্যোপাধ্যায় |  | 
-6 | 'ওকালতি করিয়া প্রচুর টাকা রোজগার করেছেন' উদ্ধৃত অংশটি কোন রচনার অংশ? | কমলাকান্তের উইল | অপরিচিতা | বিড়াল | আহ্বান |  | 
-7 | 'কেন খুঁজে ফের দেবতা-ঠাকুর .... অন্তরালে চরণটি কোন কবিতার অংশ? | সেই অৱ | ঐকতান | সাম্যবাদী | আঠারো বছর বয়স |  | 
-8 | ‘ মাথায়পাগড়ি' কোন সমাসের উদাহরণ? | অলুক দ্বন্দ্ব ® ©© | দ্বিগু | কর্মধারয় | অলুক বহুব্রীহি |  | 
-9 | নিচের কোনটি ভুল নয়? | ষট্ + দশ = ষোড়শ | বাচ + পতি = বাচস্পতি | মনস + ইষা = মনীষা | তপ + বন = তপোবন |  | 
-10 | ধীর ধীরে যায় ফিরে ফিরে চায়। বাক্যটি কোন অর্থ প্রকাশ করে? | ক্রিয়া বিশেষণের দ্বিরুক্তি | পদাত্মক দ্বিরুক্তি | যুগ্মরীতিতে গঠিত দ্বিরুক্তি | কোনোটিই নয়। |  | 
-11 | বাস্তবিকই আজ আমাদের কঠিন পরিশ্রম প্রয়োজন। বাক্যে বাস্তবিকই কোন ধরনের বিশেষণের প্রয়োগ হয়েছে? | ক্রিয়া বিশেষণ | বাক্যের বিশেষণ | বিশেষণীয় বিশেষণ | অব্যয়ের বিশেষণ |  | 
-12 | 'নিরানব্বুইয়ের ধাক্কা' বাগধারার অর্থ কী? | মুমূর্ষু অবস্থা | তীরে পৌঁছার ঝক্কি | সঞ্চয়ের প্রবৃত্তি | আসন্ন বিপদ |  | 
-13 | নাটা কী? | লতাকরঞ্চ | ছোট নাটিকা | বড় বৃক্ষ | শীতকালীন ফল |  | 
-14 | 'বাংলার মুখ আমি দেখিয়াছি' কবিতাটির ইংরেজি অনুবাদ করেন কে? | জীবনানন্দ দাশ | ক্লিনটন বি শেলী | সৈয়দ আলী আহসান | ফখরুল আলম |  | 
-15 | 'অমল' কোন নাটকের চরিত্র? | ডাকঘর | রক্তকরবী | বিসর্জন | তাসের দেশ |  | 
-16 | সুলতানার স্বপ্ন 'কী ধরনের রচনা? | উপন্যাস | কাব্যগ্রন্থ | নাটক | মহাকাব্য |  | 
-17 | ' ধূমকেতু 'পত্রিকার সম্পাদক কে? | মোহাম্মদ নাসির উদ্দিন | দীনেশচন্দ্র সেন | কাজী নজরুল ইসলাম | মোজাম্মেল হক |  | 
-18 | শেখ মুজিবুর রহমান রচিত' অসমাপ্ত আত্মজীবনী 'গ্রন্থটির প্রকাশক কে? | @ বঙ্গবন্ধু ফাউন্ডেশন | বাংলা একাডেমি | ইউনিভার্সিটি প্রেস লিমিটেড | জাতীয় সাহিত্য প্রকাশন |  | 
-19 | পুরোনো বাংলা গদ্য' গ্রন্থের রচিয়তা কে? | শামসুর রাহমান | আনিসুজ্জামান | নির্মলেন্দু গুণ | রফিক আজাদ |  | 
-20 | জীবনানন্দ দাশ রচিত উপন্যাস নিচের কোনটি? | কবিতার কথা | মহাপৃথিবী | ধূসর পাণ্ডুলিপি | মাল্যবান |  | 
-21 | নিচের কোন শব্দটির প্রয়োগ শুদ্ধ? | সৌন্দর্যতা | সুন্দৰ্য | আধিক্যতা | সৌন্দর্য |  | 
-22 | ‘ পায়ের আওয়াজ পাওয়া যায় 'কাব্যনাট্যের বিষয়বস্তু কী? | ভাষা আন্দোলন | মুক্তিযুদ্ধ | স্বৈরশাসনবিরোধী আন্দোলন | ছাত্র আন্দোলন |  | 
-23 | আল মাহমুদের কাব্যগ্রন্থ নয় কোনটি? | সোনালী কাবিন | লোক লোকান্তর | উপমহাদেশ | কালের কলস |  | 
-24 | লাপাত্তা শব্দের' লা 'উপসর্গ কোন ভাষার? | আরবি | ফারসি | সংস্কৃত | বাংলা |  | 
-25 | সাংবাদিক কোন ধরনের শব্দ? | প্রত্যয়ান্ত | উপসর্গযুক্ত | মৌলিক | বিভক্তিযুক্ত |  | 
-26 | একটি আদর্শ বাক্যে কয়টি গুণ থাকা আবশ্যক? | ২ টি | ৫ টি | ৩ টি | ৪ টি |  | 
-27 | মৌলিক স্বরধ্বনি কোনটি? | ঈ | ঐ | ঔ | ও |  | 
-28 | ‘ দুই শব্দের সন্ধিবিচ্ছেদ কর? | দুস্ + হ | দুস্ + থ | দুঃ + থ | দুঃ + স্থ |  | 
-29 | ' সত্য> সইত্য 'কোন ধ্বনি পরিবর্তনের উদাহরণ? | অপিনিহিতি | সম্পকর্ষ | বিপ্রকর্ষ | অসমীকরণ |  | 
-30 | ঘরেতে ভ্রমর এলো গুনগুনিয়ে কোন কারকে কোন বিভক্তি? | কর্তায় ৭ মী | কৰ্মে শূন্য | অধিকরণে শূন্য | অধিকরণে ৭ মী |  | 
-31 | What is the meaning of Cat's Paw? | The dupe of another | Ruled by another | Heavy rain | None |  | 
-32 | Medicine: Illness | Hunger: Thirst | Etiquette: Discipline | Love: Treason | Law: Anarchy |  | 
-33 | The book reads well (Change the voice) | He reads the book | The book is well to read | The book is read well | None |  | 
-34 | 'A drowning man catches at a straw'- the tanslated meaning is- | যতক্ষণ শ্বাস, ততক্ষণ আশ | কইমাছের প্রাণ বড় শক্ত | চোরে চোরে মাসতুতো ভাই | ধর্মের কল বাতাসে নড়ে |  | 
-35 | No other man in the village is as good as he (Superlative) | He is better than anyother man in the village | He is best man | He is the best man in the village | He is good man |  | 
-36 | Who wrote the poem" Out, Out ”? | John Keats | Robert Frost | William Wordsworth | William Blake |  | 
-37 | Who is the writer of ' The Luncheon '? | William Somerset Maugham | Charles Dickens | Jane Austen | John Milton |  | 
-38 | What is the meaning of Appartheid? | Assimilationism | Non-discrimination | Race-hatred | Anti-racism |  | 
-39 | The meaning of Shackles is- | Secure | Freedom | Fetter | Chain |  | 
-40 | It was so hot that we --- change our date to travel. | had better | then | rather | better |  | 
-41 | Let me do this work"... | shall we | do I | will you | don't I |  | 
-42 | The Antonym of Opaque is- | Hazy | Grimy | Transparent | Cloudy |  | 
-43 | What is the synonym of Abrogate? | Institute | Introduce | Repeal | None |  | 
-44 | Mother loves me. Here "loves" is a ---- | Auxulary verb | Causative verb | Intransative verb | Transitive verb |  | 
-45 | 'All men dream but not equally'- the famous quotes by- | T.E. Lawrence | John Milton | Aristotle | Abdul Kalam |  | 
-46 | Find out the modifier ... " My dream is to be a doctor came out successful at last. " | come out | successful | at last | dream |  | 
-47 | WH Auden is a- | Politician | Scientist | Poet | Leader |  | 
-48 | The noun form of 'Universal' is- | Universalty | University | Universiality | Universality |  | 
-49 | The correct plural form of 'spectrum' is- | Spectrum | Spectra | Species | None |  | 
-50 | The feminine gender of 'stag' is- | Staggess | Ewe | Hind | Deer |  | 
-51 | Technology is not always-to humans. | benefit | benefited | beneficial | beneficiary |  | 
-52 | 'Fire burns' what kind of verb 'burn' is? | Factative | Copulative | Intransitive | Causative |  | 
-53 | The great scholar and poet -- dead. | is | been | are | has been |  | 
-54 | Era is indifferent -- her study. | after | about | from | to |  | 
-55 | His appeal -- mercy was rejected. | to | for | on | with |  | 
-56 | ----- his becoming a teacher he does not have any moral. | Although | In spite of | Despite of | Instead of |  | 
-57 | Which one of the following is a simple sentence? | He is poor but honest | Though he is poor, he is honest | In spite of his proverty he is honest | He is poor and honest. |  | 
-58 | When I was a child --- pictures. | I was a drawing | I am drawing | I draw | I drew |  | 
-59 | This is --- unique opportunity. | an | a | the | no article |  | 
-60 | If you have a headache, stop --- TV. | watched | watch | watching | to watch |  | 
-61 | Choose the correct sentence: | I earned nearly a hundred dollars last week. | I earned nearly hundred dollars last week. | I earned hundred dollars nearly last week. | I earned a hundred dollars last week nearly. |  | 
-62 | I must not condemn her --- knowing. | Properly | about | without | confusedly |  | 
-63 | SHIP: HARBOUR | Flower: Garden | Village: People | Nest: Bird | Car: Garage |  | 
-64 | Choose the correct spelling. | Pnemonia | Nemonia | Nemonea | Pneumonia |  | 
-65 | During my study time, I came --- this beautiful poem. | past | over | onto | upon |  | 
-66 | What is the meaning of 'soft soap' | To flatter for some end | To speak ill of others | To speak high of others | None of the above |  | 
-67 | An 'adept' person is one who is- | capable | inefficient | kind | caring |  | 
-68 | He made --- few mistakes. | an | the | no article | a |  | 
-69 | He said to me, "Let's go outside". | He proposed me go outside | He proposed me that we should go outside | He told me go outside | None |  | 
-70 | Choose the correct spelling | Disscipate | Dissipat | Dissipatee | Dissipate |  | 
-71 | একদিনে পান্ডা কী পরিমাণ বাঁশ খায়? (How much bambo does a panda digest in one day?) | 26-84 pounds | 100-140 pounds | 10-20 pounds | 150-200 pounds |  | 
-72 | পাতা ও ফুলের রং এর জন্য দায়ী নিচের কোনটি? (Which one of the following is not resposible for the color of flowers & fruits?) | Choloplast | Leucoplast | Chromoplast | Neutrophil |  | 
-73 | সেক্টর -২ এর অন্তর্ভুক্ত ছিলোনা নিচের কোনটি? (Which one of the following was not included in Sector-2) | Dhaka | Cumilla | Faridpur | Dinajpur |  | 
-74 | বাংলাদেশের জাতীয় প্রতীকে কয়টি তারকা রয়েছে? (How many stars are there in the National Emblem of Bangladesh?) | 3 | 4 | 5 | 6 |  | 
-75 | বঙ্গবন্ধুকে ‘ Poet of Politices 'বলে অভিহিত করে নিচের কোন পত্রিকা? (Which of the following daily entitled Bangabandhu as the ' Poet of Politics '?) | New York Times | Times of India | Dawn | Newsweek |  | 
-76 | মস্তিষ্কে রক্ত সংবহন ব্যাহত হলে কী ঘটে? (What is the after effect if the blood circulation is disrupted on brain?) | Pain | Stroke | Brain Tumer | Brain Cancer |  | 
-77 | সর্বপ্রথম কবে কমনওয়েলথ CSTEPT শুরু হয়? (When was Commonwealth games first started?) | 1935 | 1932 | 1930 | 1940 |  | 
-78 | মুক্তিযুদ্ধ মন্ত্রণালয় প্রতিষ্ঠিত হয় কবে? (When was the Ministry of Liberation War Affairs formed?) | 2001 | 2003 | 2009 | 1997 |  | 
-79 | কোন তারিখে জাতিসংঘ দিবস পালিত হয়? (On which date is the United Nations day observed?) | 24 September | 24 October | 25 October | 24 November |  | 
-80 | জুম অ্যাপের উদ্ভাবক কে? (Who is the founder of the Zoom App?) | Eric Yuan | Jeff Bezos | Jenser Huang | Subra Lyar |  | 
-81 | বীর উত্তম খেতাব পায় কতজন? (How many individuals are entitled with the Bir Uttam Appellation?) | 62 | 7 | 426 | 67 |  | 
-82 | হাকালুকি একটি -(Hakaluki is a-) | River | Fountain | Haor | Waterfall |  | 
-83 | ২০২০ সালের বর্ষসেরা ফুটবলার কে? (Who is the Footballer of the Year for the year 2020?) | Robert Lewandowski | Karim Ben Zema | Thomas Muller | Ronaldo |  | 
-84 | ২০২০ সালে কোন দেশ প্লাস্টিকের ব্যবহার বাতিল করে? Which country has banned the use of plastic in 2020?) | Thailand | Bangladesh | UK | Malaysia |  | 
-85 | ICC টেস্ট র‍্যাংকিং এর ১ নম্বর ব্যাটসম্যান কে? (Who is ranked as the 'number 1 Batsman' in ICC Test Ranking?) | Kene William | Marnus Labuschagne. | Steven Smith | Rohit Sharma |  | 
-86 | INTERPOL এর পূর্ণরূপ কি? (What is the full form of the acronym INTERPOL?) | The International Criminal Police Organization. | International Police Organization. | International Criminal Organization. | International Police Security Organization. |  | 
-87 | BRICS এর সভাপতি কে ? (Who is the president of BRICS?) | India B | China | South Africa | Russia |  | 
-88 | বাংলাদেশের বাজেট ঘোষণা করা হয় কোন সময়ে? (When is the National Annual Budget of Bangladesh announced?) | June-July | May-June | July-August | December |  | 
-89 | ফোর্বস ম্যাগাজিন এ বিশ্বের এক নম্বর ক্ষমতাধর নারী কে? (Who is the most powerful women according to the Forbes Magazine?) | Sheikh Hasina | Cristine Lergarde | Maelxenzie Scott. | Kamala Harris |  | 
-90 | মুজিৰ বৰ্ষ উদ্‌যাপনের জন্য কোন দেশ নতুন ডাকটিকিট প্রকাশ করেছে? (Which country has published new stamp to celebrate the "Mujib Barsha"?) | Kongo | Sierra Leone | Nigeria | Ghana |  | 
-91 | বিশ্ব নদী হেরিটেজ ঘোষণা করা হয়েছে কোন নদীকে? (Which river has been declared as a World River Heritage?) | Buriganga | Karnafuli | Halda | Meghna |  | 
-92 | নিচের কোনটির মান সর্বোচ্চ? (Which of the following has the highest value?) | 1/3 | 4 C | 11/12 | 5 10/9 |  | 
-93 | বাংলাদেশ ব্যাংকের বর্তমান গভর্নর কে? (Who is the present Governor of Bangladesh Bank?) | Fazle Kabir | Abdur Rouf Talukdar | Salehuddin Ahmed | Dr. Mohammed Farashuddin |  | 
-94 | ২০২১-২২ অর্থবছরে বাংলাদেশের বাজেটের পরিমাণ কত? (What is the budget for Bangladesh in the 2021-22 fiscal year?) | 603,681 crore | 609,861 crore | 609,168 crore | 605,881 crore | 2023-24 অর্থবছরে বাংলাদেশের বাজেটের মোট পরিমাণ ৭,৬১,৭৮৫ কোটি টাকা। | 
-95 | বাংলাদেশ ওয়ানডে দলের বর্তমান ক্যাপ্টেন কে? (Who is the current captain of Bangladesh ODI Team?) | Tamim Iqbal | Mahamudulla Riad | Mushfiqur Rahim | Mashrafe Mortaza |  | 
-96 | সম্প্রতি 5G ইন্টারনেট ব্যবস্থা চালু করেছে কোন দেশ? (Recently which country has introduced 6G internet service?) | Japan | Taiwan | South Korea | UK |  | 
-97 | দেশের প্রথম রেল জাদুঘর কোথায় অবস্থিত? (Where is the first Railway Museum of Bangladesh situated?) | Ishawardi | Chattogram | Saidpur | Komolapur |  | 
-98 | ২০২০ সালের বর্ষ পণ্য নিচের কোনটি? (Which of the following is the 'Product of the year' for the year 2020?) | Jute | Medicine | Light Engineering goods | Tea |  | 
-99 | ২০২০ সালে চালু হওয়া EFD কার্যক্রমটি কীসের সাথে জড়িত? (The EFD program initiated in the year 2020 is related to which of the following?) | License | Withdraw money | Bank account | Tax |  | 
-100 | e-TIN প্রবর্তন হয়- (e-TIN was introduced in-) | 2020 | 2003 | 1992 | 2013 |  | 
+1 | সাধিত শব্দ কত প্রকার? | ৫ প্রকার | ৩ প্রকার | ২ প্রকার | ৬ প্রকার | 
+2 | 'নীল দর্পণ' নাটকটিকে ইংরেজিতে অনুবাদ করেন কে? | দীনবন্ধু মিত্র | শেলী | এস ওয়াজেদ আলী | মাইকেল মধুসুদন দত্ত | 
+3 | 'গোবর গণেশ' বাগধারাটির অর্থ কী? | চালাক | মূর্খ | গোবরের মত আবর্জনা | বোকা | 
+4 | 'রেইনকোট' গল্পটি কোন গ্রন্থ থেকে নেওয়া হয়েছে? | খোঁয়ারি | জাল স্বপ্ন স্বপ্নের জাল | দুধভাতে উৎপাত | দোজখের ওম | 
+5 | 'সমুদ্রের স্বাদ' রচনা করেন কে? | মুনীর চৌধুরী | জহির রায়হান | সমরেশ মজুমদার | মানিক বন্দ্যোপাধ্যায় | 
+6 | 'ওকালতি করিয়া প্রচুর টাকা রোজগার করেছেন' উদ্ধৃত অংশটি কোন রচনার অংশ? | কমলাকান্তের উইল | অপরিচিতা | বিড়াল | আহ্বান | 
+7 | 'কেন খুঁজে ফের দেবতা-ঠাকুর .... অন্তরালে চরণটি কোন কবিতার অংশ? | সেই অৱ | ঐকতান | সাম্যবাদী | আঠারো বছর বয়স | 
+8 | ‘ মাথায়পাগড়ি' কোন সমাসের উদাহরণ? | অলুক দ্বন্দ্ব ® ©© | দ্বিগু | কর্মধারয় | অলুক বহুব্রীহি | 
+9 | নিচের কোনটি ভুল নয়? | ষট্ + দশ = ষোড়শ | বাচ + পতি = বাচস্পতি | মনস + ইষা = মনীষা | তপ + বন = তপোবন | 
+10 | ধীর ধীরে যায় ফিরে ফিরে চায়। বাক্যটি কোন অর্থ প্রকাশ করে? | ক্রিয়া বিশেষণের দ্বিরুক্তি | পদাত্মক দ্বিরুক্তি | যুগ্মরীতিতে গঠিত দ্বিরুক্তি | কোনোটিই নয়। | 
+11 | বাস্তবিকই আজ আমাদের কঠিন পরিশ্রম প্রয়োজন। বাক্যে বাস্তবিকই কোন ধরনের বিশেষণের প্রয়োগ হয়েছে? | ক্রিয়া বিশেষণ | বাক্যের বিশেষণ | বিশেষণীয় বিশেষণ | অব্যয়ের বিশেষণ | 
+12 | 'নিরানব্বুইয়ের ধাক্কা' বাগধারার অর্থ কী? | মুমূর্ষু অবস্থা | তীরে পৌঁছার ঝক্কি | সঞ্চয়ের প্রবৃত্তি | আসন্ন বিপদ | 
+13 | নাটা কী? | লতাকরঞ্চ | ছোট নাটিকা | বড় বৃক্ষ | শীতকালীন ফল | 
+14 | 'বাংলার মুখ আমি দেখিয়াছি' কবিতাটির ইংরেজি অনুবাদ করেন কে? | জীবনানন্দ দাশ | ক্লিনটন বি শেলী | সৈয়দ আলী আহসান | ফখরুল আলম | 
+15 | 'অমল' কোন নাটকের চরিত্র? | ডাকঘর | রক্তকরবী | বিসর্জন | তাসের দেশ | 
+16 | সুলতানার স্বপ্ন 'কী ধরনের রচনা? | উপন্যাস | কাব্যগ্রন্থ | নাটক | মহাকাব্য | 
+17 | ' ধূমকেতু 'পত্রিকার সম্পাদক কে? | মোহাম্মদ নাসির উদ্দিন | দীনেশচন্দ্র সেন | কাজী নজরুল ইসলাম | মোজাম্মেল হক | 
+18 | শেখ মুজিবুর রহমান রচিত' অসমাপ্ত আত্মজীবনী 'গ্রন্থটির প্রকাশক কে? | @ বঙ্গবন্ধু ফাউন্ডেশন | বাংলা একাডেমি | ইউনিভার্সিটি প্রেস লিমিটেড | জাতীয় সাহিত্য প্রকাশন | 
+19 | পুরোনো বাংলা গদ্য' গ্রন্থের রচিয়তা কে? | শামসুর রাহমান | আনিসুজ্জামান | নির্মলেন্দু গুণ | রফিক আজাদ | 
+20 | জীবনানন্দ দাশ রচিত উপন্যাস নিচের কোনটি? | কবিতার কথা | মহাপৃথিবী | ধূসর পাণ্ডুলিপি | মাল্যবান | 
+21 | নিচের কোন শব্দটির প্রয়োগ শুদ্ধ? | সৌন্দর্যতা | সুন্দৰ্য | আধিক্যতা | সৌন্দর্য | 
+22 | ‘ পায়ের আওয়াজ পাওয়া যায় 'কাব্যনাট্যের বিষয়বস্তু কী? | ভাষা আন্দোলন | মুক্তিযুদ্ধ | স্বৈরশাসনবিরোধী আন্দোলন | ছাত্র আন্দোলন | 
+23 | আল মাহমুদের কাব্যগ্রন্থ নয় কোনটি? | সোনালী কাবিন | লোক লোকান্তর | উপমহাদেশ | কালের কলস | 
+24 | লাপাত্তা শব্দের' লা 'উপসর্গ কোন ভাষার? | আরবি | ফারসি | সংস্কৃত | বাংলা | 
+25 | সাংবাদিক কোন ধরনের শব্দ? | প্রত্যয়ান্ত | উপসর্গযুক্ত | মৌলিক | বিভক্তিযুক্ত | 
+26 | একটি আদর্শ বাক্যে কয়টি গুণ থাকা আবশ্যক? | ২ টি | ৫ টি | ৩ টি | ৪ টি | 
+27 | মৌলিক স্বরধ্বনি কোনটি? | ঈ | ঐ | ঔ | ও | 
+28 | ‘ দুই শব্দের সন্ধিবিচ্ছেদ কর? | দুস্ + হ | দুস্ + থ | দুঃ + থ | দুঃ + স্থ | 
+29 | ' সত্য> সইত্য 'কোন ধ্বনি পরিবর্তনের উদাহরণ? | অপিনিহিতি | সম্পকর্ষ | বিপ্রকর্ষ | অসমীকরণ | 
+30 | ঘরেতে ভ্রমর এলো গুনগুনিয়ে কোন কারকে কোন বিভক্তি? | কর্তায় ৭ মী | কৰ্মে শূন্য | অধিকরণে শূন্য | অধিকরণে ৭ মী | 
+31 | What is the meaning of Cat's Paw? | The dupe of another | Ruled by another | Heavy rain | None | 
+32 | Medicine: Illness | Hunger: Thirst | Etiquette: Discipline | Love: Treason | Law: Anarchy | 
+33 | The book reads well (Change the voice) | He reads the book | The book is well to read | The book is read well | None | 
+34 | 'A drowning man catches at a straw'- the tanslated meaning is- | যতক্ষণ শ্বাস, ততক্ষণ আশ | কইমাছের প্রাণ বড় শক্ত | চোরে চোরে মাসতুতো ভাই | ধর্মের কল বাতাসে নড়ে | 
+35 | No other man in the village is as good as he (Superlative) | He is better than anyother man in the village | He is best man | He is the best man in the village | He is good man | 
+36 | Who wrote the poem" Out, Out ”? | John Keats | Robert Frost | William Wordsworth | William Blake | 
+37 | Who is the writer of ' The Luncheon '? | William Somerset Maugham | Charles Dickens | Jane Austen | John Milton | 
+38 | What is the meaning of Appartheid? | Assimilationism | Non-discrimination | Race-hatred | Anti-racism | 
+39 | The meaning of Shackles is- | Secure | Freedom | Fetter | Chain | 
+40 | It was so hot that we --- change our date to travel. | had better | then | rather | better | 
+41 | Let me do this work"... | shall we | do I | will you | don't I | 
+42 | The Antonym of Opaque is- | Hazy | Grimy | Transparent | Cloudy | 
+43 | What is the synonym of Abrogate? | Institute | Introduce | Repeal | None | 
+44 | Mother loves me. Here "loves" is a ---- | Auxulary verb | Causative verb | Intransative verb | Transitive verb | 
+45 | 'All men dream but not equally'- the famous quotes by- | T.E. Lawrence | John Milton | Aristotle | Abdul Kalam | 
+46 | Find out the modifier ... " My dream is to be a doctor came out successful at last. " | come out | successful | at last | dream | 
+47 | WH Auden is a- | Politician | Scientist | Poet | Leader | 
+48 | The noun form of 'Universal' is- | Universalty | University | Universiality | Universality | 
+49 | The correct plural form of 'spectrum' is- | Spectrum | Spectra | Species | None | 
+50 | The feminine gender of 'stag' is- | Staggess | Ewe | Hind | Deer | 
+51 | Technology is not always-to humans. | benefit | benefited | beneficial | beneficiary | 
+52 | 'Fire burns' what kind of verb 'burn' is? | Factative | Copulative | Intransitive | Causative | 
+53 | The great scholar and poet -- dead. | is | been | are | has been | 
+54 | Era is indifferent -- her study. | after | about | from | to | 
+55 | His appeal -- mercy was rejected. | to | for | on | with | 
+56 | ----- his becoming a teacher he does not have any moral. | Although | In spite of | Despite of | Instead of | 
+57 | Which one of the following is a simple sentence? | He is poor but honest | Though he is poor, he is honest | In spite of his proverty he is honest | He is poor and honest. | 
+58 | When I was a child --- pictures. | I was a drawing | I am drawing | I draw | I drew | 
+59 | This is --- unique opportunity. | an | a | the | no article | 
+60 | If you have a headache, stop --- TV. | watched | watch | watching | to watch | 
+61 | Choose the correct sentence: | I earned nearly a hundred dollars last week. | I earned nearly hundred dollars last week. | I earned hundred dollars nearly last week. | I earned a hundred dollars last week nearly. | 
+62 | I must not condemn her --- knowing. | Properly | about | without | confusedly | 
+63 | SHIP: HARBOUR | Flower: Garden | Village: People | Nest: Bird | Car: Garage | 
+64 | Choose the correct spelling. | Pnemonia | Nemonia | Nemonea | Pneumonia | 
+65 | During my study time, I came --- this beautiful poem. | past | over | onto | upon | 
+66 | What is the meaning of 'soft soap' | To flatter for some end | To speak ill of others | To speak high of others | None of the above | 
+67 | An 'adept' person is one who is- | capable | inefficient | kind | caring | 
+68 | He made --- few mistakes. | an | the | no article | a | 
+69 | He said to me, "Let's go outside". | He proposed me go outside | He proposed me that we should go outside | He told me go outside | None | 
+70 | Choose the correct spelling | Disscipate | Dissipat | Dissipatee | Dissipate | 
+71 | একদিনে পান্ডা কী পরিমাণ বাঁশ খায়? (How much bambo does a panda digest in one day?) | 26-84 pounds | 100-140 pounds | 10-20 pounds | 150-200 pounds | 
+72 | পাতা ও ফুলের রং এর জন্য দায়ী নিচের কোনটি? (Which one of the following is not resposible for the color of flowers & fruits?) | Choloplast | Leucoplast | Chromoplast | Neutrophil | 
+73 | সেক্টর -২ এর অন্তর্ভুক্ত ছিলোনা নিচের কোনটি? (Which one of the following was not included in Sector-2) | Dhaka | Cumilla | Faridpur | Dinajpur | 
+74 | বাংলাদেশের জাতীয় প্রতীকে কয়টি তারকা রয়েছে? (How many stars are there in the National Emblem of Bangladesh?) | 3 | 4 | 5 | 6 | 
+75 | বঙ্গবন্ধুকে ‘ Poet of Politices 'বলে অভিহিত করে নিচের কোন পত্রিকা? (Which of the following daily entitled Bangabandhu as the ' Poet of Politics '?) | New York Times | Times of India | Dawn | Newsweek | 
+76 | মস্তিষ্কে রক্ত সংবহন ব্যাহত হলে কী ঘটে? (What is the after effect if the blood circulation is disrupted on brain?) | Pain | Stroke | Brain Tumer | Brain Cancer | 
+77 | সর্বপ্রথম কবে কমনওয়েলথ CSTEPT শুরু হয়? (When was Commonwealth games first started?) | 1935 | 1932 | 1930 | 1940 | 
+78 | মুক্তিযুদ্ধ মন্ত্রণালয় প্রতিষ্ঠিত হয় কবে? (When was the Ministry of Liberation War Affairs formed?) | 2001 | 2003 | 2009 | 1997 | 
+79 | কোন তারিখে জাতিসংঘ দিবস পালিত হয়? (On which date is the United Nations day observed?) | 24 September | 24 October | 25 October | 24 November | 
+80 | জুম অ্যাপের উদ্ভাবক কে? (Who is the founder of the Zoom App?) | Eric Yuan | Jeff Bezos | Jenser Huang | Subra Lyar | 
+81 | বীর উত্তম খেতাব পায় কতজন? (How many individuals are entitled with the Bir Uttam Appellation?) | 62 | 7 | 426 | 67 | 
+82 | হাকালুকি একটি -(Hakaluki is a-) | River | Fountain | Haor | Waterfall | 
+83 | ২০২০ সালের বর্ষসেরা ফুটবলার কে? (Who is the Footballer of the Year for the year 2020?) | Robert Lewandowski | Karim Ben Zema | Thomas Muller | Ronaldo | 
+84 | ২০২০ সালে কোন দেশ প্লাস্টিকের ব্যবহার বাতিল করে? Which country has banned the use of plastic in 2020?) | Thailand | Bangladesh | UK | Malaysia | 
+85 | ICC টেস্ট র‍্যাংকিং এর ১ নম্বর ব্যাটসম্যান কে? (Who is ranked as the 'number 1 Batsman' in ICC Test Ranking?) | Kene William | Marnus Labuschagne. | Steven Smith | Rohit Sharma | 
+86 | INTERPOL এর পূর্ণরূপ কি? (What is the full form of the acronym INTERPOL?) | The International Criminal Police Organization. | International Police Organization. | International Criminal Organization. | International Police Security Organization. | 
+87 | BRICS এর সভাপতি কে ? (Who is the president of BRICS?) | India B | China | South Africa | Russia | 
+88 | বাংলাদেশের বাজেট ঘোষণা করা হয় কোন সময়ে? (When is the National Annual Budget of Bangladesh announced?) | June-July | May-June | July-August | December | 
+89 | ফোর্বস ম্যাগাজিন এ বিশ্বের এক নম্বর ক্ষমতাধর নারী কে? (Who is the most powerful women according to the Forbes Magazine?) | Sheikh Hasina | Cristine Lergarde | Maelxenzie Scott. | Kamala Harris | 
+90 | মুজিৰ বৰ্ষ উদ্‌যাপনের জন্য কোন দেশ নতুন ডাকটিকিট প্রকাশ করেছে? (Which country has published new stamp to celebrate the "Mujib Barsha"?) | Kongo | Sierra Leone | Nigeria | Ghana | 
+91 | বিশ্ব নদী হেরিটেজ ঘোষণা করা হয়েছে কোন নদীকে? (Which river has been declared as a World River Heritage?) | Buriganga | Karnafuli | Halda | Meghna | 
+92 | নিচের কোনটির মান সর্বোচ্চ? (Which of the following has the highest value?) | 1/3 | 4 C | 11/12 | 5 10/9 | 
+93 | বাংলাদেশ ব্যাংকের বর্তমান গভর্নর কে? (Who is the present Governor of Bangladesh Bank?) | Fazle Kabir | Abdur Rouf Talukdar | Salehuddin Ahmed | Dr. Mohammed Farashuddin | 
+94 | ২০২১-২২ অর্থবছরে বাংলাদেশের বাজেটের পরিমাণ কত? (What is the budget for Bangladesh in the 2021-22 fiscal year?) | 603,681 crore | 609,861 crore | 609,168 crore | 605,881 crore | 2023-24 অর্থবছরে বাংলাদেশের বাজেটের মোট পরিমাণ ৭,৬১,৭৮৫ কোটি টাকা
+95 | বাংলাদেশ ওয়ানডে দলের বর্তমান ক্যাপ্টেন কে? (Who is the current captain of Bangladesh ODI Team?) | Tamim Iqbal | Mahamudulla Riad | Mushfiqur Rahim | Mashrafe Mortaza | 
+96 | সম্প্রতি 5G ইন্টারনেট ব্যবস্থা চালু করেছে কোন দেশ? (Recently which country has introduced 6G internet service?) | Japan | Taiwan | South Korea | UK | 
+97 | দেশের প্রথম রেল জাদুঘর কোথায় অবস্থিত? (Where is the first Railway Museum of Bangladesh situated?) | Ishawardi | Chattogram | Saidpur | Komolapur | 
+98 | ২০২০ সালের বর্ষ পণ্য নিচের কোনটি? (Which of the following is the 'Product of the year' for the year 2020?) | Jute | Medicine | Light Engineering goods | Tea | 
+99 | ২০২০ সালে চালু হওয়া EFD কার্যক্রমটি কীসের সাথে জড়িত? (The EFD program initiated in the year 2020 is related to which of the following?) | License | Withdraw money | Bank account | Tax | 
+100 | e-TIN প্রবর্তন হয়- (e-TIN was introduced in-) | 2020 | 2003 | 1992 | 2013 | 

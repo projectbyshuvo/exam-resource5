@@ -1,78 +1,78 @@
-1 | FIFA-2018 world cup held at- | Russia | USA | UK | Qutar |  | 
-2 | What is the smallest district in Bangladesh? | Rangpur | Cumilla | Narayangonj | Rangamati |  | 
-3 | Where is the 'Shalbon Bihar' located? | Mohastanghar | Comilla | Nogaon | Dinajpur |  | 
-4 | Which of the following country is not landlocked? | Pakistan | Bhutan | Belarus | Andorra |  | 
-5 | Bangladesh ranking in the world for culturing fish is - | 1st | 2nd | 3th | 5th |  | 
-6 | Who is the present captain of National Women Cricket team! | Mirhaj Chawdhury | Salma Akther | Sinthia Chakma | Rumana Ahmed |  | 
-7 | When did Rohingyas first come to Bangladesh? | 1978 | 2016 | 2015 | 2017 |  | 
-8 | Total budget of Bangladesh in 2020- | 5.68000 crore | 564,573 crore | 364,573 crore | 64,573 crore |  | 
-9 | Which is the largest nationalised Commercial Bank in Bangladesh | Sonali Bank | Janata Bank | Rupali Bank | Bangladesh Bank. |  | 
-10 | Where is the rose garden palace? | Dhaka | Kolkata | London | Peris |  | 
-11 | Where did Trump and Kim meet first time? | Peris | London | Beijing | Singapore |  | 
-12 | Who is awaerded 'Man of Booker' prize in 2018? | Dozen | Athens | Frelen | Woatta |  | 
-13 | How many 'Bir Proticks' are there? | 177 | 176 | 68 | 426 |  | 
-14 | How many schedule Bank in Bangladesh? | 56 | 57 | 58 | 61 |  | 
-15 | Which is the highest waterfall in Africa? | Bridal veil | Howick Fall | Victoria Fall | Tugela Fall |  | 
-16 | BRICS Headquarter located at- | China | India | Finland | USA |  | 
-17 | Which of the following line divides USA and Mexico? | Sonora line | Durand line | Line of control | Line of actual control |  | 
-18 | Which of the following country has the lowest ranking in government Development point? | Somalia | Niger | Chad | Sudan |  | 
-19 | "The Earth's climate changes. It is vastly different now from what it was 100 million years ago when dinosaurs dominated the planet and tropical plants thrived in high latitudes. It is different from what it was even 18,000 years ago, when ice- sheets covered much more of the northern hemisphere. In the future it will surely continue to evolve. In part the evolution will be driven by natural causes, such as slow changes in the Earth's orbit over many thousands of years. But further climatic change, unlike that of the past, will probably have another important source as well: human activities." The writer says that-. | The Earth will continue to change. | The Earth changed more in the past than it will in future. | The Earth will change less in the future than it did in the past. | The Earth will change less in the future than it did in the past. |  | 
-20 | Which of the following titles is suitable for this paragraph? | When Tropical Plants Thrived | Climatic changes | When the Dinosaurs Ruled | Evolution |  | 
-21 | The world was... | to survive | to exist | to do well | to die |  | 
-22 | The writer says that-.---- | The changes in the past were caused by natural causes as well as human activity. | The changes in the future will be caused as much by human activity as by natural causes. | The changes in the future will be caused less by human activity than by natural causes. | The cahnges in the future will be caused less by human activity than by natural causes |  | 
-23 | The horse went berserk. Here 'berserk' means? | To go crazy | To go cry | To become speepy | None of these |  | 
-24 | Sky' is to bird as 'Water is to ___ | feather | fish | boat | louts |  | 
-25 | Redeem Antonym is? | Reduce | Forfeit | Revenge | Injure |  | 
-26 | Choose the Correctly Spelt word- | Superceed | Supercede | Superseed | Supersede |  | 
-27 | What is the synonym of 'deleterious'? | Harmless | Injurious | Bereficial | Docile |  | 
-28 | Antonym of gratify is- | Displease | Waste | Stupefy | Argue |  | 
-29 | Stocking are ___ socks. | long | small | big | short |  | 
-30 | What is the synonym of Instigate? | Ambit | Random | Impel | Presure |  | 
-31 | What is the synonym of exit? | Back step | Exile | Entry | Exodus |  | 
-32 | Choose the correct sentence- | He is used to work hard | He is used to working hard | He used to workinh hard | He has used toworking hard |  | 
-33 | What is the antonym of Monopoly? | Moderate | Oligopoly | Noisy | Control |  | 
-34 | What is the synonym for Tedious' | Interesting | Tiring | Exciting | Pealsing |  | 
-35 | What is the correct spelling of accommodation? | accomodation | acommodation | accomodetion | accommodation |  | 
-36 | Antonym of gracious is? | Gorgeous | Haughty | Grand | Counters |  | 
-37 | What is the synonym of conviction? | Convenience | Cooperate | Belief | Ceased |  | 
-38 | The police is looking ____ the case. | after | on | up | into |  | 
-39 | What does fortify mean? | To make something stronger | To make something new | To make something weake | To repain something |  | 
-40 | Synonym of Abate is- | embarass | tolerate | Assists | Decrease |  | 
-41 | What is the synonym of Ingredient? | Component | Ingenious | Perfect | Able |  | 
-42 | If $\frac{x}{4}-\frac{8}{x}=1, x=?$ | -2,4 | -4,8 | -8,4 | None |  | 
-43 | If 9 men or 15 women can do a work in 16 days, how long it take 3 men and 7 women to complete the job? | 12 | 15 | 18 | 20 |  | 
-44 | You can can now purchase 5 more bananas with Tk 75 due to reduction in price by $20 \%$. What is the current price of one dozen of bananas? | 24 | 30 | 32 | 36 |  | 
-45 | If $\frac{x}{2}+3=\frac{x}{3}+4, x=?$ | 4 | 3 | 5 | 6 |  | 
-46 | What is $10 \% \frac{y}{3}$, if $\frac{2 y}{3}$ is $10 \%$ of 600 | 30 | 60 | 3 | 12 |  | 
-47 | If $A: B=1: 2, B: C=4: 3$ and $A+B+C=630$. What is the value of $A$ ? | 140 | 210 | 280 | 180 |  | 
-48 | What is the greatest positive integer n such that $2_{\mathrm{n}}$ is a factor of $12^{10}$ ? | 10 | 30 | 20 | 40 |  | 
-49 | If $\frac{1}{y}=\frac{3}{2}$ then $\frac{1}{y+2}=$ ? | $\frac{6}{7}$ | $\frac{3}{8}$ | $\frac{7}{6}$ | $\frac{7}{6}$ |  | 
-50 | If $n$ is an even integer which of the following must be an odd integer? | n+1 | n+2 | n+4 | n |  | 
-51 | If $\frac{a}{x}+\frac{x}{a}=\frac{x}{b}+\frac{b}{x}$ then $x=$ ? | ab | $\pm \sqrt{a b}$ | $(a b)^2$ | None |  | 
-52 | 90 taka has been collected due to donation from each student by N 10 paisa, where N is the total number of students in a class. The number of student in that class- | 90 | 60 | 30 | 15 |  | 
-53 | A piece of rope is cut into three section so that the first section is three times so long as the third. What fraction of the entire piece is the smallest section? | 1/5 | 1/7 | 1/9 | 1/13 |  | 
-54 | The average age of a group of 12 students is 20 years, If 4 more students join the group, the average age increases by 1 year, the average age of the new student is- | 28 | 26 | 24 | 22 |  | 
-55 | Of 10 consecutive numbers, Sum of the first five is 560 what will be sum of the last 5 numbers? | 585 | 580 | 575 | None |  | 
-56 | If $k$ is the average of 10 and -14 , then the average of $k$ and -8 is- | -24 | -12 | -11 | -5 |  | 
-57 | If 2 men or 3 women can do a piece of work in 42 days, then 6 men and 12 women to gather can finish it in- | 4 days | 6 days | 8 days | 9 days |  | 
-58 | If a copier makes 3 copies every 4 seconds then continues at this rate, how many minutes will it take to make 9,000 copies- | 60 | 100 | 200 | 3000 |  | 
-59 | Three valves when opened individually, can drain the water from certain tank in 3, 4 and 5 minutes respectively, What is the gratest part of the tank that can be drained in one minute by opening just two of values. | 7/12 | 1/2 | 1/4 | 1/5 |  | 
-60 | The averaage of $A, B$ and $C$ is 40 years, Then the sum of the ages of $A$ and $C$ is 85 years. Find the age of $B$. | 30 years | 35 years | 40 years | 45 years |  | 
-61 | A man travel a certain distance at a rate of 20 miles an hour and returns at the rate of 30 miles an hour. What is his average speed? | 26 | 25 | 25.5 | 24 |  | 
-62 | If an apple costs of dollars, how many apples can be brought for X dollars? | $\frac{x}{d}$ | $\frac{d}{x}$ | $\frac{a}{s}$ | None |  | 
-63 | If $x-y=0$ theen $x y=$ ? | 1 | $x$ | $x^2$ | $x^2 y$ |  | 
-64 | If $\frac{a-b}{a+b}=2$ and $b=1$ then $a=$ ? | 1 | -2 | -1 | -3 |  | 
-65 | If $P-\frac{1}{P}=11$, then find the value of $\left(P+\frac{1}{P}\right)^2$ | 115 | 121 | 111 | 125 |  | 
-66 | in figure x=? | $50^{\circ}$ | $60^{\circ}$ | $70^{\circ}$ | $110^{\circ}$ |  | 
-67 | The area of a 2 feet wide wall around the garden that is 30 feet long and 20 feet wide is- | 104 sq ft | 216 sq ft | 704 sq ft | 11516 sq ft |  | 
-68 | A rectangular floor is covered by a rug except for a strip p metes wide along each of the four edges. If the floor is $m$ meters by $\mathbf{n}$ meters, what is the area of the rug, in square meters? | mn-p(m+n) | mn-2p(m+n) | mn-$p_2$ | (m-2p) (n-2p) |  | 
-69 | If 5A+3=3A+5. What the value of A? | -1 | 0 | 1 | 3 |  | 
-70 | Of following which one is greater than $1 / 2$ | 2/5 | 4/7 | 4/9 | 5/11 |  | 
-71 | If $\mathrm{a}>\mathrm{b}>\mathrm{c}$, then which of the following must be true? | $2 a>+c$ | $a-b>a-c$ | $a>b+c$ | $2 a=b-c$ |  | 
-72 | When $1 / 10$ percent of 5000 is subtracted from $1 / 10$ of 5,000 are the difference is- | 0 | 50 | 450 | 495 |  | 
-73 | If $\mathrm{f}(\mathrm{x})=\left.\frac{x+2}{(x-2)}\right.$ for all intergers except $\mathrm{x}=2$ which of the following has the greatest value? | f(-1) | f(0) | f(1) | f(3) |  | 
-74 | If AB is negative, which of the following cannot be negative? | B-A | $\mathrm{A}^2 \mathrm{~B}$ | $\mathrm{AB}^2$ | $A^2 B^2$ |  | 
-75 | Two numbers differ by 7 and their product is 60 . What the two numbers? | 5 and 12 | 2 and 30 | 6 and 10 | 3 and 20 |  | 
-76 | Which fraction is equal to $125 \%$ | 3/2 | 6/5 | 5/4 | 3/4 |  | 
-77 | X and Y are children of $\mathrm{Z} . \mathrm{Z}$ is the father of $X$, but $Y$ is not the sun of $Z$. How $Y$ is realted to Z ? | Son in Law | Daughter in Law | Uncle | Daughter |  | 
-78 | If the radious of a circle is increased by $6 \%$, then the area of the circle is increased by- | $3.6 \pi$ | $6.5 \pi$ | $12.36 \%$ | $36 \pi$ |  | 
+1 | FIFA-2018 world cup held at- | Russia | USA | UK | Qutar | 
+2 | What is the smallest district in Bangladesh? | Rangpur | Cumilla | Narayangonj | Rangamati | 
+3 | Where is the 'Shalbon Bihar' located? | Mohastanghar | Comilla | Nogaon | Dinajpur | 
+4 | Which of the following country is not landlocked? | Pakistan | Bhutan | Belarus | Andorra | 
+5 | Bangladesh ranking in the world for culturing fish is - | 1st | 2nd | 3th | 5th | 
+6 | Who is the present captain of National Women Cricket team! | Mirhaj Chawdhury | Salma Akther | Sinthia Chakma | Rumana Ahmed | 
+7 | When did Rohingyas first come to Bangladesh? | 1978 | 2016 | 2015 | 2017 | 
+8 | Total budget of Bangladesh in 2020- | 5.68000 crore | 564,573 crore | 364,573 crore | 64,573 crore | 
+9 | Which is the largest nationalised Commercial Bank in Bangladesh | Sonali Bank | Janata Bank | Rupali Bank | Bangladesh Bank. | 
+10 | Where is the rose garden palace? | Dhaka | Kolkata | London | Peris | 
+11 | Where did Trump and Kim meet first time? | Peris | London | Beijing | Singapore | 
+12 | Who is awaerded 'Man of Booker' prize in 2018? | Dozen | Athens | Frelen | Woatta | 
+13 | How many 'Bir Proticks' are there? | 177 | 176 | 68 | 426 | 
+14 | How many schedule Bank in Bangladesh? | 56 | 57 | 58 | 61 | 
+15 | Which is the highest waterfall in Africa? | Bridal veil | Howick Fall | Victoria Fall | Tugela Fall | 
+16 | BRICS Headquarter located at- | China | India | Finland | USA | 
+17 | Which of the following line divides USA and Mexico? | Sonora line | Durand line | Line of control | Line of actual control | 
+18 | Which of the following country has the lowest ranking in government Development point? | Somalia | Niger | Chad | Sudan | 
+19 | "The Earth's climate changes. It is vastly different now from what it was 100 million years ago when dinosaurs dominated the planet and tropical plants thrived in high latitudes. It is different from what it was even 18,000 years ago, when ice- sheets covered much more of the northern hemisphere. In the future it will surely continue to evolve. In part the evolution will be driven by natural causes, such as slow changes in the Earth's orbit over many thousands of years. But further climatic change, unlike that of the past, will probably have another important source as well: human activities." The writer says that-. | The Earth will continue to change. | The Earth changed more in the past than it will in future. | The Earth will change less in the future than it did in the past. | The Earth will change less in the future than it did in the past. | 
+20 | Which of the following titles is suitable for this paragraph? | When Tropical Plants Thrived | Climatic changes | When the Dinosaurs Ruled | Evolution | 
+21 | The world was... | to survive | to exist | to do well | to die | 
+22 | The writer says that-.---- | The changes in the past were caused by natural causes as well as human activity. | The changes in the future will be caused as much by human activity as by natural causes. | The changes in the future will be caused less by human activity than by natural causes. | The cahnges in the future will be caused less by human activity than by natural causes | 
+23 | The horse went berserk. Here 'berserk' means? | To go crazy | To go cry | To become speepy | None of these | 
+24 | Sky' is to bird as 'Water is to ___ | feather | fish | boat | louts | 
+25 | Redeem Antonym is? | Reduce | Forfeit | Revenge | Injure | 
+26 | Choose the Correctly Spelt word- | Superceed | Supercede | Superseed | Supersede | 
+27 | What is the synonym of 'deleterious'? | Harmless | Injurious | Bereficial | Docile | 
+28 | Antonym of gratify is- | Displease | Waste | Stupefy | Argue | 
+29 | Stocking are ___ socks. | long | small | big | short | 
+30 | What is the synonym of Instigate? | Ambit | Random | Impel | Presure | 
+31 | What is the synonym of exit? | Back step | Exile | Entry | Exodus | 
+32 | Choose the correct sentence- | He is used to work hard | He is used to working hard | He used to workinh hard | He has used toworking hard | 
+33 | What is the antonym of Monopoly? | Moderate | Oligopoly | Noisy | Control | 
+34 | What is the synonym for Tedious' | Interesting | Tiring | Exciting | Pealsing | 
+35 | What is the correct spelling of accommodation? | accomodation | acommodation | accomodetion | accommodation | 
+36 | Antonym of gracious is? | Gorgeous | Haughty | Grand | Counters | 
+37 | What is the synonym of conviction? | Convenience | Cooperate | Belief | Ceased | 
+38 | The police is looking ____ the case. | after | on | up | into | 
+39 | What does fortify mean? | To make something stronger | To make something new | To make something weake | To repain something | 
+40 | Synonym of Abate is- | embarass | tolerate | Assists | Decrease | 
+41 | What is the synonym of Ingredient? | Component | Ingenious | Perfect | Able | 
+42 | If $\frac{x}{4}-\frac{8}{x}=1, x=?$ | -2,4 | -4,8 | -8,4 | None | 
+43 | If 9 men or 15 women can do a work in 16 days, how long it take 3 men and 7 women to complete the job? | 12 | 15 | 18 | 20 | 
+44 | You can can now purchase 5 more bananas with Tk 75 due to reduction in price by $20 \%$. What is the current price of one dozen of bananas? | 24 | 30 | 32 | 36 | 
+45 | If $\frac{x}{2}+3=\frac{x}{3}+4, x=?$ | 4 | 3 | 5 | 6 | 
+46 | What is $10 \% \frac{y}{3}$, if $\frac{2 y}{3}$ is $10 \%$ of 600 | 30 | 60 | 3 | 12 | 
+47 | If $A: B=1: 2, B: C=4: 3$ and $A+B+C=630$. What is the value of $A$ ? | 140 | 210 | 280 | 180 | 
+48 | What is the greatest positive integer n such that $2_{\mathrm{n}}$ is a factor of $12^{10}$ ? | 10 | 30 | 20 | 40 | 
+49 | If $\frac{1}{y}=\frac{3}{2}$ then $\frac{1}{y+2}=$ ? | $\frac{6}{7}$ | $\frac{3}{8}$ | $\frac{7}{6}$ | $\frac{7}{6}$ | 
+50 | If $n$ is an even integer which of the following must be an odd integer? | n+1 | n+2 | n+4 | n | 
+51 | If $\frac{a}{x}+\frac{x}{a}=\frac{x}{b}+\frac{b}{x}$ then $x=$ ? | ab | $\pm \sqrt{a b}$ | $(a b)^2$ | None | 
+52 | 90 taka has been collected due to donation from each student by N 10 paisa, where N is the total number of students in a class. The number of student in that class- | 90 | 60 | 30 | 15 | 
+53 | A piece of rope is cut into three section so that the first section is three times so long as the third. What fraction of the entire piece is the smallest section? | 1/5 | 1/7 | 1/9 | 1/13 | 
+54 | The average age of a group of 12 students is 20 years, If 4 more students join the group, the average age increases by 1 year, the average age of the new student is- | 28 | 26 | 24 | 22 | 
+55 | Of 10 consecutive numbers, Sum of the first five is 560 what will be sum of the last 5 numbers? | 585 | 580 | 575 | None | 
+56 | If $k$ is the average of 10 and -14 , then the average of $k$ and -8 is- | -24 | -12 | -11 | -5 | 
+57 | If 2 men or 3 women can do a piece of work in 42 days, then 6 men and 12 women to gather can finish it in- | 4 days | 6 days | 8 days | 9 days | 
+58 | If a copier makes 3 copies every 4 seconds then continues at this rate, how many minutes will it take to make 9,000 copies- | 60 | 100 | 200 | 3000 | 
+59 | Three valves when opened individually, can drain the water from certain tank in 3, 4 and 5 minutes respectively, What is the gratest part of the tank that can be drained in one minute by opening just two of values. | 7/12 | 1/2 | 1/4 | 1/5 | 
+60 | The averaage of $A, B$ and $C$ is 40 years, Then the sum of the ages of $A$ and $C$ is 85 years. Find the age of $B$. | 30 years | 35 years | 40 years | 45 years | 
+61 | A man travel a certain distance at a rate of 20 miles an hour and returns at the rate of 30 miles an hour. What is his average speed? | 26 | 25 | 25.5 | 24 | 
+62 | If an apple costs of dollars, how many apples can be brought for X dollars? | $\frac{x}{d}$ | $\frac{d}{x}$ | $\frac{a}{s}$ | None | 
+63 | If $x-y=0$ theen $x y=$ ? | 1 | $x$ | $x^2$ | $x^2 y$ | 
+64 | If $\frac{a-b}{a+b}=2$ and $b=1$ then $a=$ ? | 1 | -2 | -1 | -3 | 
+65 | If $P-\frac{1}{P}=11$, then find the value of $\left(P+\frac{1}{P}\right)^2$ | 115 | 121 | 111 | 125 | 
+66 | in figure x=? | $50^{\circ}$ | $60^{\circ}$ | $70^{\circ}$ | $110^{\circ}$ | 
+67 | The area of a 2 feet wide wall around the garden that is 30 feet long and 20 feet wide is- | 104 sq ft | 216 sq ft | 704 sq ft | 11516 sq ft | 
+68 | A rectangular floor is covered by a rug except for a strip p metes wide along each of the four edges. If the floor is $m$ meters by $\mathbf{n}$ meters, what is the area of the rug, in square meters? | mn-p(m+n) | mn-2p(m+n) | mn-$p_2$ | (m-2p) (n-2p) | 
+69 | If 5A+3=3A+5. What the value of A? | -1 | 0 | 1 | 3 | 
+70 | Of following which one is greater than $1 / 2$ | 2/5 | 4/7 | 4/9 | 5/11 | 
+71 | If $\mathrm{a}>\mathrm{b}>\mathrm{c}$, then which of the following must be true? | $2 a>+c$ | $a-b>a-c$ | $a>b+c$ | $2 a=b-c$ | 
+72 | When $1 / 10$ percent of 5000 is subtracted from $1 / 10$ of 5,000 are the difference is- | 0 | 50 | 450 | 495 | 
+73 | If $\mathrm{f}(\mathrm{x})=\left.\frac{x+2}{(x-2)}\right.$ for all intergers except $\mathrm{x}=2$ which of the following has the greatest value? | f(-1) | f(0) | f(1) | f(3) | 
+74 | If AB is negative, which of the following cannot be negative? | B-A | $\mathrm{A}^2 \mathrm{~B}$ | $\mathrm{AB}^2$ | $A^2 B^2$ | 
+75 | Two numbers differ by 7 and their product is 60 . What the two numbers? | 5 and 12 | 2 and 30 | 6 and 10 | 3 and 20 | 
+76 | Which fraction is equal to $125 \%$ | 3/2 | 6/5 | 5/4 | 3/4 | 
+77 | X and Y are children of $\mathrm{Z} . \mathrm{Z}$ is the father of $X$, but $Y$ is not the sun of $Z$. How $Y$ is realted to Z ? | Son in Law | Daughter in Law | Uncle | Daughter | 
+78 | If the radious of a circle is increased by $6 \%$, then the area of the circle is increased by- | $3.6 \pi$ | $6.5 \pi$ | $12.36 \%$ | $36 \pi$ | 

@@ -1,100 +1,100 @@
-1 | কাজী নজরুল ইসলাম কত সালে 'পদ্মভূষণ' উপাধি লাভ করেন? | ১৯৬৫ | ১৯৫০ | ১৯৬০ | ১৯৫৫ |  | 
-2 | 'দোজখের ওম' আখতারুজ্জমান ইলিয়াসের কোন জাতীয় রচনা? | উপন্যাস | প্ৰবন্ধ | গল্পগ্রন্থ | নাটক |  | 
-3 | কোনটি কৃৎপ্রত্যয়জাত শব্দ? | শারীরিক | ভোজনীয় | জটিল | পৈতৃক |  | 
-4 | রবীন্দ্রনাথ ঠাকুরের 'ডাকঘর' কী জাতীয় রচনা? | নাটক | ছোটগল্প | কাব্য | উপন্যাস |  | 
-5 | কোনগুলো সমাসবদ্ধ পদ? | মেঘলুপ্ত, যৌবনসূর্য | বিদ্যালয়, কীর্তিমান | যৌবনকাল, আকাঙ্ক্ষা | চিরঞ্জীব, প্রত্যুষ |  | 
-6 | কারক-বিভক্তিযুক্ত পদ শব্দের কোথায় বসে? | প্রথমে | শেষে | বিশেষণের পূর্বে | বিশেষণের পরে |  | 
-7 | 'শাস্ত্রজ্ঞ তপস্বী' কে এক কথায় কী বলা হয়? | গুরু | আচার্য | ঋষি | উপাধ্যায় |  | 
-8 | 'প্রশান্তি' শব্দের বিপরীতার্থক শব্দ কোনটি? | শান্তি | নিন্দা | প্রশংসা | অশান্তি |  | 
-9 | নিচের কোন স্বরবর্ণগুলি ওষ্ঠ্যবর্ণ? | ই ঈ | ও ঔ | উ ঊ | এ ঐ |  | 
-10 | 'আম-কুড়ানো' কোন সমাস? | ২ য়া তৎপুরুষ | ৩ য়া তৎপুরুষ | ৪ র্থী তৎপুরুষ | ৬ ষ্ঠী তৎপুরুষ |  | 
-11 | বাংলা লিপির উৎস কী? | সংস্কৃত | চীনা | ব্রাহ্মী | গুহাচিত্র |  | 
-12 | 'খুব ঠকা ঠকেছি' কোন কারকে কোন বিভক্তি? | করণে শূন্য | কর্মে শূন্য | কর্তায় শূন্য | করণে ৭ মী |  | 
-13 | 'সূর্য' এর সমার্থক শব্দ কোনগুলি? | তপন, পৃষণ | দিবাকর, নিশাকর | অরুণ, বরুণ | আদিত্য, প্রচেত |  | 
-14 | ধ্বনি-প্রত্যঙ্গ নয় কোনটি? | মুখ | ঠোঁট | দাঁত | কান |  | 
-15 | দুটি সমবর্ণের পরিবর্তনকে কী বলে? | সমীভবন | বিষমীভবন | স্বরাগম | স্বরলোপ |  | 
-16 | শামসুর রাহমান কোন ধরনের কবি? | নাগরিক কবি | প্রকৃতির কবি | গ্রামবাংলার কবি | বিদ্ৰোহী কবি |  | 
-17 | বাক্যে এক পদের পর অন্য পদ শোনার ইচ্ছাকে কী বলে? | আসত্তি | যোগ্যতা | আকাঙ্ক্ষা | ইচ্ছা |  | 
-18 | ব্যাকরণের কোন অংশে কারক ও সমাস আলোচিত হয়? | অর্থতত্ত্বে | বাক্যতত্ত্বে ও শব্দতত্ত্বে | শব্দতত্ত্বে | ধ্বনিতত্ত্বে | নতুন ব্যাকরণ অনুসারে, 'কারক' আলোচিত হয় বাক্যতত্ত্বে এবং সমাস ' আলোচিত হয় শব্দতত্ত্বে। | 
-19 | ' কবর 'কোন শ্রেণির কবিতা? | এলিজি | ওড | সনেট | এলিগরি |  | 
-20 | অভিশ্রুতির ক্ষেত্রে কোন স্বরধ্বনি পরিবর্তিত হয়? | এ ঐ | ই এ | ই উ | ঈ এ |  | 
-21 | If I were you, I (handle) the situation more carefully. Which of the following verb forms does best complete the above sentence? | Would handle | Handled | Will handle | Would have handled |  | 
-22 | Identify the imperative sentence. | I shall go to college | Stand up | Matin is singing a song | It is raining |  | 
-23 | John Keats is a- | poet | dramatist | singer | none |  | 
-24 | Choose the correct preposition. The police is looking .... the case. | after | up | on | into |  | 
-25 | No one can ....... that he is clear. | deny | denounce | defy | discard |  | 
-26 | A fish out of the water means ---- | aimlessly | in an uneasy state | out of danger | rapidly |  | 
-27 | Which one is correctly spelt? | Barbecue | Barbbecue | Barbeque | Barbique |  | 
-28 | What kind of noun is 'girl'? | Proper | Collective | Common | Material |  | 
-29 | 'To be or not be that is the question' is an extract from- | Hamlet | Macbeth | Antry and cleopatra | None |  | 
-30 | The word 'Wastage' is a/ an ---- | Verb | Adverb | Noun | Adjective |  | 
-31 | Which one is correctly spelt? | Pillar | Pilar | Piller | Piler |  | 
-32 | What is the adjective of the word 'blood"? | Blood | Bloodshed | Bloody | Bleeding |  | 
-33 | She — the dreams of her parents before she passed away. | fulfilled | had fulfilled | fulfilling | fulfills |  | 
-34 | The cow lives --- grass. | with | on | in | at |  | 
-35 | What is the antonym of 'Gentle'? | clear | Rude | Harsh | Modest |  | 
-36 | The idiom 'a hot potato' means- | a current issue | a potato just baked | a burnt potato | an old issue |  | 
-37 | Choose the correct analogy. Seer: Prophecy- | Mentor: Reward | Sage: Wisdom | Pilgrim: Diligence | Diplomat: Flattery |  | 
-38 | I took — walking hoping — lose some weight. | to, to | for, to | in, to | to, at |  | 
-39 | I know the boy who went there. The underlined clause is a/ an- | noun clause | adjective clause | adverbial clause | principal clause |  | 
-40 | Be sure to ---- as many representatives as possible. | contact | contact on | contact to | contact with |  | 
-41 | The website receives only a small --- of traffic. | number | stream | amount | hits |  | 
-42 | She had a child holding on to--- | every hand | both hand | each hands | each hand |  | 
-43 | “মাছ উড়তে পারে না, পারে কি?”-কোন অনুবাদটি সঠিক? | Fished can't fly, do they? | Fishes can't fly, can they? | Fishes cannot fly, are they? | Fishes cannot fly, isn't it? |  | 
-44 | The masculine gender of Duck's- | cob | drank | gander | ducking |  | 
-45 | Choose the correct meaning of the idiom to beg the question- | to refer to | to take for granted | to raise objections | to be discussed |  | 
-46 | What is the synonym of sacred? | evil | secular | profane | divine |  | 
-47 | It was not until she --- home when she remembered her appointment with the doctor. | arrives | arrived | had arrived | have arrived |  | 
-48 | Choose the correct sentence. | Parer is made of wood | Paper is made by wood | Paper is made from wood | Paper is made on wood |  | 
-49 | "Water was drunk by me" | I drink water | I drank water | I drunk water | I am drinking water |  | 
-50 | The man is devoid --- common sense. | of | in | from | about |  | 
-51 | Who has been awarded knighthood title as the only Bangladeshi citizen? | Dr. Muhammad Yunus | Fazle Hasan Abed | Dr. Abdullah Al Muti Sharfuddin | Dr. Zamal Nazrul Islam |  | 
-52 | Which of the following bodies controls the stock markets of our country? | Bangladesh Bank | Securities & Exchange Commission | Ministry of Finance | Ministry of Commerce |  | 
-53 | What portion of the Sundarbans does belong to Bangladesh? | 57 % | 62 % | 66 % | 67 % |  | 
-54 | Who has been elected as the new Secretary General of the United Nations for the next tenure? | Anibal Silva | Vitaly Antonio | Antonio Guterres | Matthew Rycroft |  | 
-55 | Which one is the first EPZ in Bangladesh? | Mongla Export processing Zone | Savar Export Processing Zone | Chittagong Export Processing Zone | Comilla Export Processing Zone |  | 
-56 | Which of the followings is the apex body of the private sector business community in Bangladesh? | DCCI | FBCCI | DSE | BGMEA |  | 
-57 | Which coutry is not a member of European Union? | Italy | Netherlands | Switzerland | Spain |  | 
-58 | What is the name of the political party in Myanmar headed by Aung San Suu Kyi? | National League for Democracy | Democratic Party of Myanmar | Democratic Restoration Party | National Peoples'Democratic League |  | 
-59 | The sector that consumes the most natural gas in Bangladesh is- | Transportation | Power | Fertilizer | Household |  | 
-60 | The first Bangladeshi woman to climb the Mount Everest is- | Nishat Majumder | Wasfia Nazrin | Nishat Nazrin | Wasfia Majumder |  | 
-61 | Who got SAARC literature prize in 2023? | Anisul Haque | Abdullah Al Mamun | Sheikh Mujibur Rahman | Abdullah Abu Syed |  | 
-62 | For last 12 years Bangladesh is consistently among the top five countries in the world for the production of- | Sugarcane | Seafood | Inland fresh water fish | Footware |  | 
-63 | Who is the youngest cricket player of Bangladesh to take 6 wickets in an innings in the debut test match? | Naimur Rahman Durjoy | Shohag Gazi | Mostafizur Rahman | Mehedi Hasan Miraj |  | 
-64 | Crack Platoon in the liberation war of Bangladesh was entrusted for- | Air operation | Commando operation | Artillery operation | Naval Operation |  | 
-65 | GSP stands for- | General System of Preferences | General System of Products | Generalized Stems of Products | Generalized System of Preferences |  | 
-66 | In which year SAARC has been started? | 1984 | 1985 | 1986 | 1987 |  | 
-67 | The name of the third sea port of Bangladesh is- | Cox's Bazar | Payra | Kutubdia | Sonadia |  | 
-68 | Which state of India hosted the first-ever BRICKS- BIMSTEC Outreach Summit? | Goa | Uttar Pradesh | Maharashtra | Rajasthan |  | 
-69 | Which one of the following is not a part of the World Bank? | IBRD | IDA | IMF | IFC |  | 
-70 | 'Where is the head quarter of the World Trade Organization (WTO)? | Switzerland | United States | Mexico | United Kingdom |  | 
-71 | Which country is going to open the largest women's university in the world? | Malaysia | Indonesia | Saudi Arabia | Pakistan |  | 
-72 | Who is the president of Iran? | Mahmoud Ahmadinejad | Ebrahim Raisi | Mohammed Mursi | Hasan Aboutorabi |  | 
-73 | Which SAARC country has the highest literacy rate? | India | Sri Lanka | Maldives | Bangladesh |  | 
-74 | The term' Secondary Market 'is usually used in --- | Share Market | Jute Market | Labor Market | Agricultural Market |  | 
-75 | The Federal reserve is the --- | Central Bank of USA | Ministry of Finance of UK | Central Bank of UK | Ministry of Finance of USA |  | 
-76 | " IPO "stands for― | Internet Public Offering | Investor Public Offering | Initial Private Offering | Initial Public Offering |  | 
-77 | The first edition of Banglapedia was published by -- | Bangla academy | Asiatic society of Bangladesh | Mollik borthers | Onkur prokashoni |  | 
-78 | Which one of the following is the largest export partner of Bangladesh? | South Korea | The EU | The USA | China |  | 
-79 | Accord and Alliance is related with which of the following industry? | Garments industry | Pharmaceutical industry | Jute industry | Shrimp industry |  | 
-80 | Android is a product of- | Apple | Microsoft | Google | Oracle |  | 
-81 | CSR stands for- | Corporate Security Regulation | Company Social Responsibility | Central Social Responsibility | Corporate Social Responsibility |  | 
-82 | Mark Zuckerberg is the founder of: | Twitter | Apple | Facebook | Google |  | 
-83 | What is the number of specialized agricultural bank in Bangladesh? | 3 | 5 | 2 | 1 |  | 
-84 | EPZ of Bangladesh operates under the direct control of: | Bangladesh Bank | DCCI | Ministry of Commerce | ΒΕΡΖΑ |  | 
-85 | The term "Letter of Credit (L/ C)" is usually used in: | Export Import | Share market transaction | Local money transfer | Consumer loan security |  | 
-86 | Rampal Power Plant project is situated in which of the following districts of Bangladesh? | Bagerhat | Khulna | Jessore | Satkhira |  | 
-87 | The first-ever War ship in Bangladesh was built by- | DESH Shipbuilding and Engineering Ltd. | Narayanganj Ship Builders | Khulna Shipyard | Western Marine Shipyard Limited |  | 
-88 | In Bangladesh the ministry responsible for collecting tax is- | Ministry of Finance | Ministry of Tax | Ministry of Trade and Finance | None of the above |  | 
-89 | How many International Airports are there in Bangladesh? | 2 | 3 | 4 | 1 |  | 
-90 | The letter "E" in the word E-Commerce stands for: | Express | Emergency | Essential | Electronic |  | 
-91 | Which of the following sectors is the largest contributor in the GDP of Bangladesh? | Industry | Agriculture | Inward Foreign Remittance | Readymade Garments |  | 
-92 | Which mobile phone service provider launched 5G mobile telephone service in Bangladesh? | Grameen Phone | Banglalink | TeleTalk | City Cell |  | 
-93 | What is the name of the laptop manufactured in Bangladesh? | Techno Bangla | Doel | Shapla | Bangla laptop |  | 
-94 | Which district of Bangladesh is suitable for rubber cultivation? | Netrokona | Mymensingh | Rangamati | Panchagonre |  | 
-95 | Which is the largest coffee growing country of the world? | Ethiopia | Cameroon | Brazil | DR Congo |  | 
-96 | The name of the longest sea beach in the worid is- | Goa | Kuakata | Cox's Bazar | Florida |  | 
-97 | In which year "The Battle of Palashee" was held? | 1557 | 1657 | 1757 | 1857 |  | 
-98 | Who said, "I came, I saw, I conquered"? | Julius Caesar | Abraham Lincoln | Napoleon Bonaparte | Einstein |  | 
-99 | Where is the headquarter of the International Labor Organization (ILO)? | Geneva | London | New york | Tokio |  | 
-100 | The name of EU currency is- | Dollar | Pesso | Euro | Bath |  | 
+1 | কাজী নজরুল ইসলাম কত সালে 'পদ্মভূষণ' উপাধি লাভ করেন? | ১৯৬৫ | ১৯৫০ | ১৯৬০ | ১৯৫৫ | 
+2 | 'দোজখের ওম' আখতারুজ্জমান ইলিয়াসের কোন জাতীয় রচনা? | উপন্যাস | প্ৰবন্ধ | গল্পগ্রন্থ | নাটক | 
+3 | কোনটি কৃৎপ্রত্যয়জাত শব্দ? | শারীরিক | ভোজনীয় | জটিল | পৈতৃক | 
+4 | রবীন্দ্রনাথ ঠাকুরের 'ডাকঘর' কী জাতীয় রচনা? | নাটক | ছোটগল্প | কাব্য | উপন্যাস | 
+5 | কোনগুলো সমাসবদ্ধ পদ? | মেঘলুপ্ত, যৌবনসূর্য | বিদ্যালয়, কীর্তিমান | যৌবনকাল, আকাঙ্ক্ষা | চিরঞ্জীব, প্রত্যুষ | 
+6 | কারক-বিভক্তিযুক্ত পদ শব্দের কোথায় বসে? | প্রথমে | শেষে | বিশেষণের পূর্বে | বিশেষণের পরে | 
+7 | 'শাস্ত্রজ্ঞ তপস্বী' কে এক কথায় কী বলা হয়? | গুরু | আচার্য | ঋষি | উপাধ্যায় | 
+8 | 'প্রশান্তি' শব্দের বিপরীতার্থক শব্দ কোনটি? | শান্তি | নিন্দা | প্রশংসা | অশান্তি | 
+9 | নিচের কোন স্বরবর্ণগুলি ওষ্ঠ্যবর্ণ? | ই ঈ | ও ঔ | উ ঊ | এ ঐ | 
+10 | 'আম-কুড়ানো' কোন সমাস? | ২ য়া তৎপুরুষ | ৩ য়া তৎপুরুষ | ৪ র্থী তৎপুরুষ | ৬ ষ্ঠী তৎপুরুষ | 
+11 | বাংলা লিপির উৎস কী? | সংস্কৃত | চীনা | ব্রাহ্মী | গুহাচিত্র | 
+12 | 'খুব ঠকা ঠকেছি' কোন কারকে কোন বিভক্তি? | করণে শূন্য | কর্মে শূন্য | কর্তায় শূন্য | করণে ৭ মী | 
+13 | 'সূর্য' এর সমার্থক শব্দ কোনগুলি? | তপন, পৃষণ | দিবাকর, নিশাকর | অরুণ, বরুণ | আদিত্য, প্রচেত | 
+14 | ধ্বনি-প্রত্যঙ্গ নয় কোনটি? | মুখ | ঠোঁট | দাঁত | কান | 
+15 | দুটি সমবর্ণের পরিবর্তনকে কী বলে? | সমীভবন | বিষমীভবন | স্বরাগম | স্বরলোপ | 
+16 | শামসুর রাহমান কোন ধরনের কবি? | নাগরিক কবি | প্রকৃতির কবি | গ্রামবাংলার কবি | বিদ্ৰোহী কবি | 
+17 | বাক্যে এক পদের পর অন্য পদ শোনার ইচ্ছাকে কী বলে? | আসত্তি | যোগ্যতা | আকাঙ্ক্ষা | ইচ্ছা | 
+18 | ব্যাকরণের কোন অংশে কারক ও সমাস আলোচিত হয়? | অর্থতত্ত্বে | বাক্যতত্ত্বে ও শব্দতত্ত্বে | শব্দতত্ত্বে | ধ্বনিতত্ত্বে | নতুন ব্যাকরণ অনুসারে, 'কারক' আলোচিত হয় বাক্যতত্ত্বে এবং সমাস ' আলোচিত হয় শব্দতত্ত্বে
+19 | ' কবর 'কোন শ্রেণির কবিতা? | এলিজি | ওড | সনেট | এলিগরি | 
+20 | অভিশ্রুতির ক্ষেত্রে কোন স্বরধ্বনি পরিবর্তিত হয়? | এ ঐ | ই এ | ই উ | ঈ এ | 
+21 | If I were you, I (handle) the situation more carefully. Which of the following verb forms does best complete the above sentence? | Would handle | Handled | Will handle | Would have handled | 
+22 | Identify the imperative sentence. | I shall go to college | Stand up | Matin is singing a song | It is raining | 
+23 | John Keats is a- | poet | dramatist | singer | none | 
+24 | Choose the correct preposition. The police is looking .... the case. | after | up | on | into | 
+25 | No one can ....... that he is clear. | deny | denounce | defy | discard | 
+26 | A fish out of the water means ---- | aimlessly | in an uneasy state | out of danger | rapidly | 
+27 | Which one is correctly spelt? | Barbecue | Barbbecue | Barbeque | Barbique | 
+28 | What kind of noun is 'girl'? | Proper | Collective | Common | Material | 
+29 | 'To be or not be that is the question' is an extract from- | Hamlet | Macbeth | Antry and cleopatra | None | 
+30 | The word 'Wastage' is a/ an ---- | Verb | Adverb | Noun | Adjective | 
+31 | Which one is correctly spelt? | Pillar | Pilar | Piller | Piler | 
+32 | What is the adjective of the word 'blood"? | Blood | Bloodshed | Bloody | Bleeding | 
+33 | She — the dreams of her parents before she passed away. | fulfilled | had fulfilled | fulfilling | fulfills | 
+34 | The cow lives --- grass. | with | on | in | at | 
+35 | What is the antonym of 'Gentle'? | clear | Rude | Harsh | Modest | 
+36 | The idiom 'a hot potato' means- | a current issue | a potato just baked | a burnt potato | an old issue | 
+37 | Choose the correct analogy. Seer: Prophecy- | Mentor: Reward | Sage: Wisdom | Pilgrim: Diligence | Diplomat: Flattery | 
+38 | I took — walking hoping — lose some weight. | to, to | for, to | in, to | to, at | 
+39 | I know the boy who went there. The underlined clause is a/ an- | noun clause | adjective clause | adverbial clause | principal clause | 
+40 | Be sure to ---- as many representatives as possible. | contact | contact on | contact to | contact with | 
+41 | The website receives only a small --- of traffic. | number | stream | amount | hits | 
+42 | She had a child holding on to--- | every hand | both hand | each hands | each hand | 
+43 | “মাছ উড়তে পারে না, পারে কি?”-কোন অনুবাদটি সঠিক? | Fished can't fly, do they? | Fishes can't fly, can they? | Fishes cannot fly, are they? | Fishes cannot fly, isn't it? | 
+44 | The masculine gender of Duck's- | cob | drank | gander | ducking | 
+45 | Choose the correct meaning of the idiom to beg the question- | to refer to | to take for granted | to raise objections | to be discussed | 
+46 | What is the synonym of sacred? | evil | secular | profane | divine | 
+47 | It was not until she --- home when she remembered her appointment with the doctor. | arrives | arrived | had arrived | have arrived | 
+48 | Choose the correct sentence. | Parer is made of wood | Paper is made by wood | Paper is made from wood | Paper is made on wood | 
+49 | "Water was drunk by me" | I drink water | I drank water | I drunk water | I am drinking water | 
+50 | The man is devoid --- common sense. | of | in | from | about | 
+51 | Who has been awarded knighthood title as the only Bangladeshi citizen? | Dr. Muhammad Yunus | Fazle Hasan Abed | Dr. Abdullah Al Muti Sharfuddin | Dr. Zamal Nazrul Islam | 
+52 | Which of the following bodies controls the stock markets of our country? | Bangladesh Bank | Securities & Exchange Commission | Ministry of Finance | Ministry of Commerce | 
+53 | What portion of the Sundarbans does belong to Bangladesh? | 57 % | 62 % | 66 % | 67 % | 
+54 | Who has been elected as the new Secretary General of the United Nations for the next tenure? | Anibal Silva | Vitaly Antonio | Antonio Guterres | Matthew Rycroft | 
+55 | Which one is the first EPZ in Bangladesh? | Mongla Export processing Zone | Savar Export Processing Zone | Chittagong Export Processing Zone | Comilla Export Processing Zone | 
+56 | Which of the followings is the apex body of the private sector business community in Bangladesh? | DCCI | FBCCI | DSE | BGMEA | 
+57 | Which coutry is not a member of European Union? | Italy | Netherlands | Switzerland | Spain | 
+58 | What is the name of the political party in Myanmar headed by Aung San Suu Kyi? | National League for Democracy | Democratic Party of Myanmar | Democratic Restoration Party | National Peoples'Democratic League | 
+59 | The sector that consumes the most natural gas in Bangladesh is- | Transportation | Power | Fertilizer | Household | 
+60 | The first Bangladeshi woman to climb the Mount Everest is- | Nishat Majumder | Wasfia Nazrin | Nishat Nazrin | Wasfia Majumder | 
+61 | Who got SAARC literature prize in 2023? | Anisul Haque | Abdullah Al Mamun | Sheikh Mujibur Rahman | Abdullah Abu Syed | 
+62 | For last 12 years Bangladesh is consistently among the top five countries in the world for the production of- | Sugarcane | Seafood | Inland fresh water fish | Footware | 
+63 | Who is the youngest cricket player of Bangladesh to take 6 wickets in an innings in the debut test match? | Naimur Rahman Durjoy | Shohag Gazi | Mostafizur Rahman | Mehedi Hasan Miraj | 
+64 | Crack Platoon in the liberation war of Bangladesh was entrusted for- | Air operation | Commando operation | Artillery operation | Naval Operation | 
+65 | GSP stands for- | General System of Preferences | General System of Products | Generalized Stems of Products | Generalized System of Preferences | 
+66 | In which year SAARC has been started? | 1984 | 1985 | 1986 | 1987 | 
+67 | The name of the third sea port of Bangladesh is- | Cox's Bazar | Payra | Kutubdia | Sonadia | 
+68 | Which state of India hosted the first-ever BRICKS- BIMSTEC Outreach Summit? | Goa | Uttar Pradesh | Maharashtra | Rajasthan | 
+69 | Which one of the following is not a part of the World Bank? | IBRD | IDA | IMF | IFC | 
+70 | 'Where is the head quarter of the World Trade Organization (WTO)? | Switzerland | United States | Mexico | United Kingdom | 
+71 | Which country is going to open the largest women's university in the world? | Malaysia | Indonesia | Saudi Arabia | Pakistan | 
+72 | Who is the president of Iran? | Mahmoud Ahmadinejad | Ebrahim Raisi | Mohammed Mursi | Hasan Aboutorabi | 
+73 | Which SAARC country has the highest literacy rate? | India | Sri Lanka | Maldives | Bangladesh | 
+74 | The term' Secondary Market 'is usually used in --- | Share Market | Jute Market | Labor Market | Agricultural Market | 
+75 | The Federal reserve is the --- | Central Bank of USA | Ministry of Finance of UK | Central Bank of UK | Ministry of Finance of USA | 
+76 | " IPO "stands for― | Internet Public Offering | Investor Public Offering | Initial Private Offering | Initial Public Offering | 
+77 | The first edition of Banglapedia was published by -- | Bangla academy | Asiatic society of Bangladesh | Mollik borthers | Onkur prokashoni | 
+78 | Which one of the following is the largest export partner of Bangladesh? | South Korea | The EU | The USA | China | 
+79 | Accord and Alliance is related with which of the following industry? | Garments industry | Pharmaceutical industry | Jute industry | Shrimp industry | 
+80 | Android is a product of- | Apple | Microsoft | Google | Oracle | 
+81 | CSR stands for- | Corporate Security Regulation | Company Social Responsibility | Central Social Responsibility | Corporate Social Responsibility | 
+82 | Mark Zuckerberg is the founder of: | Twitter | Apple | Facebook | Google | 
+83 | What is the number of specialized agricultural bank in Bangladesh? | 3 | 5 | 2 | 1 | 
+84 | EPZ of Bangladesh operates under the direct control of: | Bangladesh Bank | DCCI | Ministry of Commerce | ΒΕΡΖΑ | 
+85 | The term "Letter of Credit (L/ C)" is usually used in: | Export Import | Share market transaction | Local money transfer | Consumer loan security | 
+86 | Rampal Power Plant project is situated in which of the following districts of Bangladesh? | Bagerhat | Khulna | Jessore | Satkhira | 
+87 | The first-ever War ship in Bangladesh was built by- | DESH Shipbuilding and Engineering Ltd. | Narayanganj Ship Builders | Khulna Shipyard | Western Marine Shipyard Limited | 
+88 | In Bangladesh the ministry responsible for collecting tax is- | Ministry of Finance | Ministry of Tax | Ministry of Trade and Finance | None of the above | 
+89 | How many International Airports are there in Bangladesh? | 2 | 3 | 4 | 1 | 
+90 | The letter "E" in the word E-Commerce stands for: | Express | Emergency | Essential | Electronic | 
+91 | Which of the following sectors is the largest contributor in the GDP of Bangladesh? | Industry | Agriculture | Inward Foreign Remittance | Readymade Garments | 
+92 | Which mobile phone service provider launched 5G mobile telephone service in Bangladesh? | Grameen Phone | Banglalink | TeleTalk | City Cell | 
+93 | What is the name of the laptop manufactured in Bangladesh? | Techno Bangla | Doel | Shapla | Bangla laptop | 
+94 | Which district of Bangladesh is suitable for rubber cultivation? | Netrokona | Mymensingh | Rangamati | Panchagonre | 
+95 | Which is the largest coffee growing country of the world? | Ethiopia | Cameroon | Brazil | DR Congo | 
+96 | The name of the longest sea beach in the worid is- | Goa | Kuakata | Cox's Bazar | Florida | 
+97 | In which year "The Battle of Palashee" was held? | 1557 | 1657 | 1757 | 1857 | 
+98 | Who said, "I came, I saw, I conquered"? | Julius Caesar | Abraham Lincoln | Napoleon Bonaparte | Einstein | 
+99 | Where is the headquarter of the International Labor Organization (ILO)? | Geneva | London | New york | Tokio | 
+100 | The name of EU currency is- | Dollar | Pesso | Euro | Bath | 

@@ -1,100 +1,100 @@
-1 | 'চাঁদের হাট' বাগধারাটির অর্থ কী? | আনন্দের প্রাচুর্য | দুঃখ | সৌভাগ্য | হতভাগ্য |  | 
-2 | 'সওগাত' পত্রিকার সম্পাদক কে ছিলেন? | শামসুর রাহমান | প্রমথ চৌধুরী | কাজী নজরুল ইসলাম | নাসিরউদ্দীন |  | 
-3 | 'ক্ষমার যোগ্য" এর বাক্য সংকোচন নিচের কোনটি? | ক্ষমাহ | ক্ষমাপ্রার্থী | ক্ষমা | ক্ষমাপ্রদ |  | 
-4 | 'দিন ও রাতের সন্ধিক্ষণ' কে কী বলে? | সকাল | সন্ধ্যা | প্রত্যুষ | গোধূলি |  | 
-5 | মানিক বন্দ্যোপাধ্যায়ের প্রকৃত নাম কী? | মানিক দত্ত | মানিক কুমার বন্দ্যোপাধ্যায় | প্রবোধকুমার বন্দ্যোপাধ্যায় | মানিক সেন |  | 
-6 | চর্যাপদের আদি কবির নাম কী? | কাহ্নপা | ভুসুকুপা | ঢেণ্ডণপা | লুইপা |  | 
-7 | 'তিলে তৈল হয়' কোন কারক? | সম্প্রদান | অপাদান | করণ | অধিকরণ |  | 
-8 | ত্রিভুজ কোন সমাস? | দ্বিগু | দ্বন্দ্ব | কর্মধারয় | অব্যয়ীভাব |  | 
-9 | শৈবাল দিঘিরে বলে উচ্চ করি শির লিখে রাখ এক ফোঁটা দিলাম শিশির এ অংশটুকুর মূল প্রতিপাদ্য কী? | নিরাপদ নীচতা | সন্দেহের কারণ | ক্ষুদ্রের দম্ভ | ভক্তিভাজন |  | 
-10 | বঙ্গবন্ধুকে 'জাতির জনক' উপাধি দেওয়া হয় কবে? | ২৩ ফেব্রুয়ারি ৬৯ | ২৬ মার্চ ৭১ | ১৬ ডিসেম্বর ৭১ | ৩ মার্চ ৭১ |  | 
-11 | 'জঙ্গম' এর বিপরীত শব্দ কোনটি? | অরণ্য | সমুদ্র | স্থাবর | পর্বত |  | 
-12 | 'আমি কি ডরাই সখি ভিখারি রাঘবে'- কোন কারক? | অধিকরণ | অপাদান কারক | সম্প্রদান কারক | কর্তৃকারক |  | 
-13 | ' মাসি-পিসি 'গল্পে কে নির্যাতনের শিকার? | দিগম্বরী | আহ্লাদি | মাতিলদা | কল্যাণী |  | 
-14 | 'আহ্বান' গল্পে বুড়িকে কোন গাছের তলায় কবর দেওয়া হয়? | মাকাললতা দোলানো একটি আমগাছের নিচে | খেজুর গাছের তলায় | তিত্তিরাজ গাছের তলায় | কাঁঠাল গাছের তলায় |  | 
-15 | 'আলপিন, বালতি' কোন জাতীয় শব্দ? | দেশি শব্দ | তদ্ভব শব্দ | তৎসম শব্দ | বিদেশি শব্দ |  | 
-16 | নিচের কোন বানানটি শুদ্ধ? | ঐক্যজন | ঐকতান | ঐক্যতাণ | ঐকতাণ |  | 
-17 | 'অপরিচিতা' গল্পে অনুপমের বন্ধু কে? | শম্ভুনাথ | বিনুদা | হরিশ | কল্যাণী |  | 
-18 | রংপুর অঞ্চলে রেশমকে স্থানীয় ভাষায় কী বলে? | এড়েন্ডা | এন্ডি | রেহি | ভেড়েন্ডা |  | 
-19 | নজরুলের মতে গান্ধীজি শিখিয়েছিলেন- | ভক্তি | পরাবলম্বন | আত্মাবলম্বন | শক্তি |  | 
-20 | 'জাদুঘর' কোন ধরনের শক্তিশালী সংগঠন? | সামাজিক | রাজনৈতিক | অর্থনৈতিক | সাংস্কৃতিক |  | 
-21 | ‘ রেইনকোট 'গল্পটি কত সালে প্রকাশিত হয়? | ১৯৯৫ | ১৯৯৭ | ১৯৯৪ | ১৯৮৫ |  | 
-22 | বঙ্গভাষা সনেট প্রথমে কী নামে লেখা হয়? | কবি-মাতৃভাষা | মাতৃভাষা | মহাভাষার অহঙ্কার | আত্মবিলাপ |  | 
-23 | বিশ্বকবি রবীন্দ্রনাথ ঠাকুরের' বনফুল 'কাব্যগ্রন্থ কত বছর বয়সে প্রকাশিত হয়? | ১২ বছর | ১৫ বছর | ১৬ বছর | ১৮ বছর |  | 
-24 | ‘ রূপসী বাংলার কবি' কে? | জীবনানন্দ দাশ | জসীমউদ্দীন | রবীন্দ্রনাথ ঠাকুর | সুকান্ত ভট্টাচার্য |  | 
-25 | ‘ আবেস্তা 'গ্রন্থ কোন ভাষায় রচিত? | সংস্কৃত | গথিক | লাতিন | জেন্দা |  | 
-26 | ‘ তাহারেই পড়ে মনে' কবিতায় কবিকে আচ্ছন্ন করে- | সোনালি অতীত | বিষাদময় রিক্ততা | শৈশবের স্মৃতি | মধুর বর্তমান |  | 
-27 | 'সেই অস্ত্র' কবিতাটি কোন কাব্যগ্রন্থের অন্তর্ভুক্ত? | বিদীর্ণ দর্পণে মুখ | মানচিত্র | যখন উদ্যত সঙ্গীন | নিজ বাসভূমে |  | 
-28 | বিপদের মুখে আঠারো বছর বয়স থাকে- | দুর্বার | ভয়ঙ্কর | অসহায় | অগ্রণী |  | 
-29 | কর্মজীবনে 'শামসুর রাহমান ছিলেন- | শিক্ষক | সাহিত্য গবেষক | সাংবাদিক | আইনজীবী |  | 
-30 | কোনটি খাঁটি বাংলা উপসর্গ- | না | উপ | দুর | অনা |  | 
-31 | ‘ Phonology' শব্দের অর্থ কী? | বাক্যতত্ত্ব | ধ্বনিতত্ত্ব | রূপতত্ত্ব | অর্থতত্ত্ব |  | 
-32 | To be or not to be ---- | That is the question | That is the matter | That is the issue | That is the subject |  | 
-33 | Time after twilight and before night- | Evening | Dawn | Dusk | Eclipse |  | 
-34 | Opposite gender of tiger- | stallion | bull | doe | tigress |  | 
-35 | Opposite gender of horse- | stallion | pen | mare | sow |  | 
-36 | He ran fast lest he ---- miss the bus | could | may | should | might |  | 
-37 | What is the meaning of 'pass away"? | die | go away | travel | move |  | 
-38 | She is devoid --- common sense | to | of | in | from |  | 
-39 | The Idiom A.B.C means ----- | Letter | Alphabet | Primary knowledge | None |  | 
-40 | Which of the following is correct spelling? | Committee | Comittee | Committee | Commettee |  | 
-41 | Which one is a tragedy? | King lear | The Tempest | Twelfth Night | King John |  | 
-42 | He went to --- and --- | the Canada, USA | Canada, the USA | The Canada, the USA | Canada, USA |  | 
-43 | The word 'Substantiate' is an- | verb | adjective | noun | Adverb |  | 
-44 | What is the noun form of 'deter'- | deterrence | deterrential | detention | detour |  | 
-45 | He can sing better than ---- in his family- | everybody | everyone | anybody | someone |  | 
-46 | Hossain has no interest ---- music | for | in | with | at |  | 
-47 | The man died --- overeating. | by | from | in | at |  | 
-48 | Sakib walks as if he — lame. | is | had been | has | were |  | 
-49 | I have read the book --- you lent me. | Whome | What | Whose | that |  | 
-50 | ‘ Strike while the iron is hot' is an example of- | Noun clause | Adjective clause | Adverbial clause | Subordirate clause |  | 
-51 | I have been living in Dhaka --- 2000. | since | from | after | till |  | 
-52 | I wish I --- a queen. | was | am | are | were |  | 
-53 | The passive voice of "Who has broken the glass?" | Who was broken the glass? | By whom was the glass brokes? | By whom has the glass broken? | By whom has the glass been broken? |  | 
-54 | He told, "Do the work." | He said that do the work. | He requested doing the work. | He asked to do the work. | He told doing the work. |  | 
-55 | I saw — one-eyed man. | a | an | the | no article |  | 
-56 | What is the plural form of the Genus? | genuses | genera | genesis | generous |  | 
-57 | Everybody loves flower,----? | don't they | do they | are not they | does not they |  | 
-58 | Which sentence is correct? | This is a very unique case | This is a unique case | This is an unique case | This is the most unique case |  | 
-59 | Which one is the correct antonym of 'frugal'? | Extraordinary | Spendthrift | Economical | Authentic |  | 
-60 | The word 'Vegetarian' reters to- | plants | animals | mammals | carnivores |  | 
-61 | Aroma means- | Food | Fruits | Colorless | Fragrance |  | 
-62 | Antonym of the word 'Concord' is- | Harmony | Thrifty | Conflict | Scanty |  | 
-63 | The prices of rice are- | raising | risen | rising | raised |  | 
-64 | He is --- punctual --- efficient | neither, but | very, but | either, but | neither, nor |  | 
-65 | Choose the correctly spelt word | Tsunami | Sunami | Suname | Sunamee |  | 
-66 | The trees has been blown --- by the storm | away | up | off | into |  | 
-67 | 'Maiden speech' means- | First speech | Middle speech | Maid servant speech | Final speech |  | 
-68 | Choose the correct tanslation of 'সে খুব ধূর্ত- | He is very intelligent | He is very clever | He is very difficult | He is very sloppy |  | 
-69 | Who said, "I have a dream"? | Nelson Mandela | Sheikh Mujibur Rahman | Mahatma Gandhi | Martin luther king Jr. |  | 
-70 | Which is the higest waterfall in Africa? | Bridal Veil | Howick Fall | Victoria Fall | Tugela Fall |  | 
-71 | Who is the author of 'Man and superman'? | G.B Shaw | Thomas Hardy | Ernest Hemingway | Charles Dickens |  | 
-72 | Which period is known as "The golden age of English Literature"? | The vicorian age | The Elizabethan age | The Restoration age | The Eighteenth century |  | 
-73 | The world's highest mountain is in- | China | India | Nepal | Pakistan |  | 
-74 | What is the capital of Luxembourg? | Althens | Ottawa | Luxembourg | None |  | 
-75 | The Harry potter series is written by- | JK Rowling | KK Rowling | KJ Rowling | None of there |  | 
-76 | Which of the following is the largest Sea Bridge in the world? | Taiwan- Zhuhai-Macau Bridge | Hong kong-Zhihai- taiwan Bridge | Hong kong-Taiwan- Macau Bridge | Hong kong-Zhuhai- Macau Bridge |  | 
-77 | S-400 Messile protection system belongs to- | USA | UK | Russia | ΝΑΤΟ |  | 
-78 | Who is the current UGC Chairman? | Abdul Hamid Advocate | Khud- E-hhuda | Professor Abdul Mannan | Projessor Abdul Momen |  | 
-79 | How many goals are there in SDG? | 15 | 16 | 17 | 18 |  | 
-80 | Awami Muslim League was formed in- | 1948 | 1949 | 1950 | 1952 |  | 
-81 | The Headquarter of IMF is located in- | Geneva | Brussels | Paris | Washington DC. |  | 
-82 | Which is the largest Airport in the world- | Zedda | Istanbul New Airport | Hithro Airport | Dubai Airport |  | 
-83 | NAFTA is stands for- | North American Fast Trade Agneement | North American Free Trade Agreement | North African Fast Trade Agreement | North African Free Trade Agreement |  | 
-84 | The Headquarter of FAO locatede at- | Paris, Franch | Rome, Italy | New york, USA | London, UK |  | 
-85 | Death of Africa called- | liberia | Somalia | Chad | South Africa |  | 
-86 | Which country not use Euro as their currency- | Italy | France | UK | Spain |  | 
-87 | How many International Airport are there in Bangladesh- | 3 | 4 | 2 | 1 |  | 
-88 | ' Bangla Naba barsha 'is Introduuced by emperor- | Akbar | Babor | Shahjahan | Jahangir |  | 
-89 | Who Wrote Long Walk to Freedom- | APJ Abul kalam | Mejor Shikwanto sing | Nelson Mendela | None |  | 
-90 | The kyoto protocol was adopted in- | 1996 | 1997 | 1998 | 2000 |  | 
-91 | Which of the following is not Scandinavian country- | Norway | sweden | Iceland | Switzerland |  | 
-92 | Which of the following country first use EVM? | India | Namibia | USA | UK |  | 
-93 | Which is the top country in oil extraction? | USA | KSA | UAE | Russia |  | 
-94 | Which country is top in the football ranking? | France | Belgium | Brazil | Germany |  | 
-95 | BUP is established in- | 2006 | 2007 | 2008 | 2009 |  | 
-96 | Which is the largest tribe in Bangladesh? | Chakma | Tripura | Marma | Khiang |  | 
-97 | Bengal was first partitioned in- | 1620 | 1905 | 1911 | 1947 |  | 
-98 | Which is the biggest ocean on the earth? | Pacific Ocean | Atlantic | Indian | Arctic |  | 
-99 | Anan Commission was formed for dealing with issues- | Rohingya | Yemen | Syria | Ukraine |  | 
-100 | Total Budget of Bangladesh in 2018 is- | 464,573 crore | 564,573 crore | 364,573 crore | 64,573 crore | Budget in 2023-24 is 7,61,785Crore. | 
+1 | 'চাঁদের হাট' বাগধারাটির অর্থ কী? | আনন্দের প্রাচুর্য | দুঃখ | সৌভাগ্য | হতভাগ্য | 
+2 | 'সওগাত' পত্রিকার সম্পাদক কে ছিলেন? | শামসুর রাহমান | প্রমথ চৌধুরী | কাজী নজরুল ইসলাম | নাসিরউদ্দীন | 
+3 | 'ক্ষমার যোগ্য" এর বাক্য সংকোচন নিচের কোনটি? | ক্ষমাহ | ক্ষমাপ্রার্থী | ক্ষমা | ক্ষমাপ্রদ | 
+4 | 'দিন ও রাতের সন্ধিক্ষণ' কে কী বলে? | সকাল | সন্ধ্যা | প্রত্যুষ | গোধূলি | 
+5 | মানিক বন্দ্যোপাধ্যায়ের প্রকৃত নাম কী? | মানিক দত্ত | মানিক কুমার বন্দ্যোপাধ্যায় | প্রবোধকুমার বন্দ্যোপাধ্যায় | মানিক সেন | 
+6 | চর্যাপদের আদি কবির নাম কী? | কাহ্নপা | ভুসুকুপা | ঢেণ্ডণপা | লুইপা | 
+7 | 'তিলে তৈল হয়' কোন কারক? | সম্প্রদান | অপাদান | করণ | অধিকরণ | 
+8 | ত্রিভুজ কোন সমাস? | দ্বিগু | দ্বন্দ্ব | কর্মধারয় | অব্যয়ীভাব | 
+9 | শৈবাল দিঘিরে বলে উচ্চ করি শির লিখে রাখ এক ফোঁটা দিলাম শিশির এ অংশটুকুর মূল প্রতিপাদ্য কী? | নিরাপদ নীচতা | সন্দেহের কারণ | ক্ষুদ্রের দম্ভ | ভক্তিভাজন | 
+10 | বঙ্গবন্ধুকে 'জাতির জনক' উপাধি দেওয়া হয় কবে? | ২৩ ফেব্রুয়ারি ৬৯ | ২৬ মার্চ ৭১ | ১৬ ডিসেম্বর ৭১ | ৩ মার্চ ৭১ | 
+11 | 'জঙ্গম' এর বিপরীত শব্দ কোনটি? | অরণ্য | সমুদ্র | স্থাবর | পর্বত | 
+12 | 'আমি কি ডরাই সখি ভিখারি রাঘবে'- কোন কারক? | অধিকরণ | অপাদান কারক | সম্প্রদান কারক | কর্তৃকারক | 
+13 | ' মাসি-পিসি 'গল্পে কে নির্যাতনের শিকার? | দিগম্বরী | আহ্লাদি | মাতিলদা | কল্যাণী | 
+14 | 'আহ্বান' গল্পে বুড়িকে কোন গাছের তলায় কবর দেওয়া হয়? | মাকাললতা দোলানো একটি আমগাছের নিচে | খেজুর গাছের তলায় | তিত্তিরাজ গাছের তলায় | কাঁঠাল গাছের তলায় | 
+15 | 'আলপিন, বালতি' কোন জাতীয় শব্দ? | দেশি শব্দ | তদ্ভব শব্দ | তৎসম শব্দ | বিদেশি শব্দ | 
+16 | নিচের কোন বানানটি শুদ্ধ? | ঐক্যজন | ঐকতান | ঐক্যতাণ | ঐকতাণ | 
+17 | 'অপরিচিতা' গল্পে অনুপমের বন্ধু কে? | শম্ভুনাথ | বিনুদা | হরিশ | কল্যাণী | 
+18 | রংপুর অঞ্চলে রেশমকে স্থানীয় ভাষায় কী বলে? | এড়েন্ডা | এন্ডি | রেহি | ভেড়েন্ডা | 
+19 | নজরুলের মতে গান্ধীজি শিখিয়েছিলেন- | ভক্তি | পরাবলম্বন | আত্মাবলম্বন | শক্তি | 
+20 | 'জাদুঘর' কোন ধরনের শক্তিশালী সংগঠন? | সামাজিক | রাজনৈতিক | অর্থনৈতিক | সাংস্কৃতিক | 
+21 | ‘ রেইনকোট 'গল্পটি কত সালে প্রকাশিত হয়? | ১৯৯৫ | ১৯৯৭ | ১৯৯৪ | ১৯৮৫ | 
+22 | বঙ্গভাষা সনেট প্রথমে কী নামে লেখা হয়? | কবি-মাতৃভাষা | মাতৃভাষা | মহাভাষার অহঙ্কার | আত্মবিলাপ | 
+23 | বিশ্বকবি রবীন্দ্রনাথ ঠাকুরের' বনফুল 'কাব্যগ্রন্থ কত বছর বয়সে প্রকাশিত হয়? | ১২ বছর | ১৫ বছর | ১৬ বছর | ১৮ বছর | 
+24 | ‘ রূপসী বাংলার কবি' কে? | জীবনানন্দ দাশ | জসীমউদ্দীন | রবীন্দ্রনাথ ঠাকুর | সুকান্ত ভট্টাচার্য | 
+25 | ‘ আবেস্তা 'গ্রন্থ কোন ভাষায় রচিত? | সংস্কৃত | গথিক | লাতিন | জেন্দা | 
+26 | ‘ তাহারেই পড়ে মনে' কবিতায় কবিকে আচ্ছন্ন করে- | সোনালি অতীত | বিষাদময় রিক্ততা | শৈশবের স্মৃতি | মধুর বর্তমান | 
+27 | 'সেই অস্ত্র' কবিতাটি কোন কাব্যগ্রন্থের অন্তর্ভুক্ত? | বিদীর্ণ দর্পণে মুখ | মানচিত্র | যখন উদ্যত সঙ্গীন | নিজ বাসভূমে | 
+28 | বিপদের মুখে আঠারো বছর বয়স থাকে- | দুর্বার | ভয়ঙ্কর | অসহায় | অগ্রণী | 
+29 | কর্মজীবনে 'শামসুর রাহমান ছিলেন- | শিক্ষক | সাহিত্য গবেষক | সাংবাদিক | আইনজীবী | 
+30 | কোনটি খাঁটি বাংলা উপসর্গ- | না | উপ | দুর | অনা | 
+31 | ‘ Phonology' শব্দের অর্থ কী? | বাক্যতত্ত্ব | ধ্বনিতত্ত্ব | রূপতত্ত্ব | অর্থতত্ত্ব | 
+32 | To be or not to be ---- | That is the question | That is the matter | That is the issue | That is the subject | 
+33 | Time after twilight and before night- | Evening | Dawn | Dusk | Eclipse | 
+34 | Opposite gender of tiger- | stallion | bull | doe | tigress | 
+35 | Opposite gender of horse- | stallion | pen | mare | sow | 
+36 | He ran fast lest he ---- miss the bus | could | may | should | might | 
+37 | What is the meaning of 'pass away"? | die | go away | travel | move | 
+38 | She is devoid --- common sense | to | of | in | from | 
+39 | The Idiom A.B.C means ----- | Letter | Alphabet | Primary knowledge | None | 
+40 | Which of the following is correct spelling? | Committee | Comittee | Committee | Commettee | 
+41 | Which one is a tragedy? | King lear | The Tempest | Twelfth Night | King John | 
+42 | He went to --- and --- | the Canada, USA | Canada, the USA | The Canada, the USA | Canada, USA | 
+43 | The word 'Substantiate' is an- | verb | adjective | noun | Adverb | 
+44 | What is the noun form of 'deter'- | deterrence | deterrential | detention | detour | 
+45 | He can sing better than ---- in his family- | everybody | everyone | anybody | someone | 
+46 | Hossain has no interest ---- music | for | in | with | at | 
+47 | The man died --- overeating. | by | from | in | at | 
+48 | Sakib walks as if he — lame. | is | had been | has | were | 
+49 | I have read the book --- you lent me. | Whome | What | Whose | that | 
+50 | ‘ Strike while the iron is hot' is an example of- | Noun clause | Adjective clause | Adverbial clause | Subordirate clause | 
+51 | I have been living in Dhaka --- 2000. | since | from | after | till | 
+52 | I wish I --- a queen. | was | am | are | were | 
+53 | The passive voice of "Who has broken the glass?" | Who was broken the glass? | By whom was the glass brokes? | By whom has the glass broken? | By whom has the glass been broken? | 
+54 | He told, "Do the work." | He said that do the work. | He requested doing the work. | He asked to do the work. | He told doing the work. | 
+55 | I saw — one-eyed man. | a | an | the | no article | 
+56 | What is the plural form of the Genus? | genuses | genera | genesis | generous | 
+57 | Everybody loves flower,----? | don't they | do they | are not they | does not they | 
+58 | Which sentence is correct? | This is a very unique case | This is a unique case | This is an unique case | This is the most unique case | 
+59 | Which one is the correct antonym of 'frugal'? | Extraordinary | Spendthrift | Economical | Authentic | 
+60 | The word 'Vegetarian' reters to- | plants | animals | mammals | carnivores | 
+61 | Aroma means- | Food | Fruits | Colorless | Fragrance | 
+62 | Antonym of the word 'Concord' is- | Harmony | Thrifty | Conflict | Scanty | 
+63 | The prices of rice are- | raising | risen | rising | raised | 
+64 | He is --- punctual --- efficient | neither, but | very, but | either, but | neither, nor | 
+65 | Choose the correctly spelt word | Tsunami | Sunami | Suname | Sunamee | 
+66 | The trees has been blown --- by the storm | away | up | off | into | 
+67 | 'Maiden speech' means- | First speech | Middle speech | Maid servant speech | Final speech | 
+68 | Choose the correct tanslation of 'সে খুব ধূর্ত- | He is very intelligent | He is very clever | He is very difficult | He is very sloppy | 
+69 | Who said, "I have a dream"? | Nelson Mandela | Sheikh Mujibur Rahman | Mahatma Gandhi | Martin luther king Jr. | 
+70 | Which is the higest waterfall in Africa? | Bridal Veil | Howick Fall | Victoria Fall | Tugela Fall | 
+71 | Who is the author of 'Man and superman'? | G.B Shaw | Thomas Hardy | Ernest Hemingway | Charles Dickens | 
+72 | Which period is known as "The golden age of English Literature"? | The vicorian age | The Elizabethan age | The Restoration age | The Eighteenth century | 
+73 | The world's highest mountain is in- | China | India | Nepal | Pakistan | 
+74 | What is the capital of Luxembourg? | Althens | Ottawa | Luxembourg | None | 
+75 | The Harry potter series is written by- | JK Rowling | KK Rowling | KJ Rowling | None of there | 
+76 | Which of the following is the largest Sea Bridge in the world? | Taiwan- Zhuhai-Macau Bridge | Hong kong-Zhihai- taiwan Bridge | Hong kong-Taiwan- Macau Bridge | Hong kong-Zhuhai- Macau Bridge | 
+77 | S-400 Messile protection system belongs to- | USA | UK | Russia | ΝΑΤΟ | 
+78 | Who is the current UGC Chairman? | Abdul Hamid Advocate | Khud- E-hhuda | Professor Abdul Mannan | Projessor Abdul Momen | 
+79 | How many goals are there in SDG? | 15 | 16 | 17 | 18 | 
+80 | Awami Muslim League was formed in- | 1948 | 1949 | 1950 | 1952 | 
+81 | The Headquarter of IMF is located in- | Geneva | Brussels | Paris | Washington DC. | 
+82 | Which is the largest Airport in the world- | Zedda | Istanbul New Airport | Hithro Airport | Dubai Airport | 
+83 | NAFTA is stands for- | North American Fast Trade Agneement | North American Free Trade Agreement | North African Fast Trade Agreement | North African Free Trade Agreement | 
+84 | The Headquarter of FAO locatede at- | Paris, Franch | Rome, Italy | New york, USA | London, UK | 
+85 | Death of Africa called- | liberia | Somalia | Chad | South Africa | 
+86 | Which country not use Euro as their currency- | Italy | France | UK | Spain | 
+87 | How many International Airport are there in Bangladesh- | 3 | 4 | 2 | 1 | 
+88 | ' Bangla Naba barsha 'is Introduuced by emperor- | Akbar | Babor | Shahjahan | Jahangir | 
+89 | Who Wrote Long Walk to Freedom- | APJ Abul kalam | Mejor Shikwanto sing | Nelson Mendela | None | 
+90 | The kyoto protocol was adopted in- | 1996 | 1997 | 1998 | 2000 | 
+91 | Which of the following is not Scandinavian country- | Norway | sweden | Iceland | Switzerland | 
+92 | Which of the following country first use EVM? | India | Namibia | USA | UK | 
+93 | Which is the top country in oil extraction? | USA | KSA | UAE | Russia | 
+94 | Which country is top in the football ranking? | France | Belgium | Brazil | Germany | 
+95 | BUP is established in- | 2006 | 2007 | 2008 | 2009 | 
+96 | Which is the largest tribe in Bangladesh? | Chakma | Tripura | Marma | Khiang | 
+97 | Bengal was first partitioned in- | 1620 | 1905 | 1911 | 1947 | 
+98 | Which is the biggest ocean on the earth? | Pacific Ocean | Atlantic | Indian | Arctic | 
+99 | Anan Commission was formed for dealing with issues- | Rohingya | Yemen | Syria | Ukraine | 
+100 | Total Budget of Bangladesh in 2018 is- | 464,573 crore | 564,573 crore | 364,573 crore | 64,573 crore | Budget in 2023-24 is 7,61,785Crore.

@@ -1,70 +1,70 @@
-1 | A sudden change in the economic ___ is unlikely to be fair at this time. | Measures | Trend | Throughout | Into |  | 
-2 | Transport steike ia causing serious problems____ the country | Trend | Into | Throughout | Measures |  | 
-3 | He never had and ever will take such strong _____. | Measures | Trend | Into | Throughout |  | 
-4 | He _____ the seene ti our boss | Vanished | Dreamt | Dramaticized | Lost |  | 
-5 | Dinosour, the largest animal, was _____ from the earth 100 years ago. | Vanished | Dramaticized | Dreamt | Lost |  | 
-6 | Dinosour, the largest animal, was _____ from the earth 100 years ago.. | Vanished | Dramaticized | Dreamt | Lost |  | 
-7 | I ____a bad dream last night. | Dreamt | Dramaticized | Lost | Vanished |  | 
-8 | Choose the pair off words that best matches the relationship between: PAIN: SEDATIVE | Comfort: stimulant | Grief: Consolation | Trance: Nurcotic | Ache: Extraction |  | 
-9 | When the book ____,I was Very anxious to know about the sales . | Dropped out | Cleared out | Came out | Broke out |  | 
-10 | This book is _____far the best one he has ever written. | By | To | As | Too |  | 
-11 | The meaning of the word" supportive" is | Active | Dangerous | Helpful | Aggressive |  | 
-12 | It ____ same till 1997. | Lower | Fell/ dropped | Rose/ Increase | Remained same/ No change |  | 
-13 | But in 1998,the number had been _______. | Lower | Fell/ dropped | Rose/ Increase | Remained same/ No change |  | 
-14 | And it ____ in 1999 and finally faced up and downs for the next years. | Lower | Fell/ dropped | Rose/ Increase | Remained same/ No change |  | 
-15 | (Question 12-16) : Fill in the gapes with word from the box based on the imaginary graph below. The graph ____ the comparison of internet use at Redwood Secondary School between boys and girls over 1995 to 2002. | Lower | Fell/ dropped | Rose/ Increase | Shows/ Indicates |  | 
-16 | According to the graph, in 1995, the number of girls was _____ than that of boys. | Shows/ Indicates | Remained same/ No change | Rose/ Increase | Lower |  | 
-17 | 1000 V ব্যাটারীর দুই প্রান্তে একটি ধারক যুক্ত করায় ধারকে 50 J শক্তি সঞ্চিত হলো। ধারকের সঞ্চিত চার্জের পরিমাণ কত? | 10 C | 1 C | $10^{-1}C$ | $10^{-2}C$ |  | 
-18 | স্থির তাপমাত্রায় কোন পরিবাহীর প্রস্থচ্ছেদের ক্ষেত্রফল বৃদ্ধি করলে রোধ- | বৃদ্ধি পাবে | কমে যাবে | অপরিবর্তিত থাকবে | শূন্য হয়ে যাবে |  | 
-19 | $25\;\Omega$ রোধের একটি গ্যালভানোমিটারের সাথে কত রোধের একটি শান্ট যুক্ত করলে মোট প্রবাহমাত্রার 1% গ্যালভানোমিটারের মধ্য দিয়ে যাবে? | $25.3\;\Omega$ | $\frac{25}{99}\;\Omega$ | $\approx4\;\Omega$ | $1\;\Omega$ |  | 
-20 | একটি বিদ্যুৎ পরিবাহী লম্বা সরল তার থেকে 2 cm দূরত্বে চুম্বক ক্ষেত্রের মান $10^{-6}T$হলে তারটির মধ্য দিয়ে প্রবাহিত বিদ্যুৎ এর পরিমাণ কত? | 0.01 A | 0.1 A | 1 A | 10 A |  | 
-21 | তড়িৎ বর্তনীতে আবিষ্ট তড়িৎ প্রবাহের দিক নির্ণয় করা যায় কোন সূত্র দ্বারা? | ফ্যারাডের | নিউটনের | ম্যাক্সওয়েলের | লেঞ্জের |  | 
-22 | পানির প্রতিসরাঙ্ক 1.3 হলে পানিতে আলোর বেগ কত? (শূন্যস্থানে আলোর বেগ $3\;\times\;108\;ms^{-1}$) | $3.0\;x\;10^8\;m/s\;$ | $2.31\;x\;10^8\;m/s\;$ | $2.0\;x\;10^8\;m/s\;$ | $4.4\;x\;10^8\;m/s\;$ |  | 
-23 | ধ্বংসাত্মক ব্যতিচারের জন্য পথ পার্থক্য- | λ | nλ/2 | (2n+1)λ/2 | (n+1)λ/2 |  | 
-24 | স্থির ইলেকট্রনের সমতুল্য শক্তি কত? | 0.51 eV | 0.51 keV | 0.51 MeV | $9.1\times10^{-31}\;eV$ |  | 
-25 | কোনো তেজস্ক্রিয় মৌলের ক্ষয় ধ্রুবকের মান 0.01/s । এর অর্ধায়ু- | 0.693 s | 6.93 s | 69.3 s | 693 s |  | 
-26 | $(10010011.11)_2$ বাইনারি সংখ্যাটির সমতুল্য অক্টাল সংখ্যা হবে - | $(223.3)_8$ | $(223.6)_8$ | $(423.6)_8$ | কোনোটিই নয় |  | 
-27 | আদর্শ কৃষ্ণবস্তু (Black Body) এর শোষণ ক্ষমতা- | 0% | 100% | 50% | 75% |  | 
-28 | $\vert \overrightarrow{\mathbf{A}} \cdot \overrightarrow{\mathbf{B}}\vert =\left\vert  \overrightarrow{\mathbf{A}} \times \overrightarrow{\mathbf{B}} \right\vert $ হলে $\overrightarrow{\mathbf{A}} ও \overrightarrow{\mathbf{B}}$ এর মধ্যকার কোণ (angle) কত? | $\pi$ | $\frac{\pi}{4}$ | $\frac{\pi}{6}$ | $2 \pi$ |  | 
-29 | একটি প্রক্ষেপককে (projectile) X - অক্ষের সাথে $\theta$ কোণে $V_0$ আদিবেগে (initial velocity) শূন্যে নিক্ষেপ করলে এর পাল্লা (range) হবে- | $\mathrm{R}=\frac{\mathrm{v}_0{ }^2 \sin 2 \theta}{\mathrm{g}}$ | $R=\frac{v_0{ }^2 \sin 2 \theta}{2 g}$ | $R=\frac{v_0 \sin 2 \theta}{g}$ | $R=\frac{v_0{ }^2 \sin \theta}{g}$ |  | 
-30 | 100 W ক্ষমতা ও 60% দক্ষতা বিশিষ্ট একটি মোটরের প্রতি সেকেন্ডে সম্পাদিত কাজ নির্ণয় কর। | 70 J | 60 J | 80 J | 40 J |  | 
-31 | বিন্দু ভরের জন্য মহাকর্ষীয় বিভব কোনটি? | $-\frac{G M}{r^2}$ | $-\frac{G M}{r}$ | $\frac{\mathrm{GM}}{\mathrm{r}^2}$ | $\frac{\mathrm{GM}}{\mathrm{r}}$ |  | 
-32 | পানির পৃষ্ঠটান $72\;\times\;10^{-3}\;N/m\;$ । 0.2 mm ব্যাসের নলে পানির আরোহণ হবে- | 14.694 m | $14.694\;\times\;10^{-2}\;m$ | 10.0 cm | 7.347 cm |  | 
-33 | 14°C এ একটি মাধ্যমের চাপ ও তাপমাত্রা উভয়ই 4 গুণ বাড়ানো হলে শব্দের বেগ বাড়বে- | 200% | 114% | 14.6% | 100% |  | 
-34 | একটি আদর্শ গ্যাসের নমুনার তাপমাত্রা 20°C, যদি নমুনাটির চাপ এবং আয়তন দ্বিগুণ করা হয়, তবে পরিবর্তিত তাপমাত্রা কত? | 20°C | 80°C | 900°C | 1200°C |  | 
-35 | নির্দিষ্ট ভরের কোন গ্যাসের আয়তন উল্লেখ করতে কি প্রয়োজন? | চাপ | তাপমাত্রা | চাপ ও তাপমাত্রা | পরম শূন্য তাপমাত্রা |  | 
-36 | k এর কোন মানের জন্য a $=\left[\begin{array}{cc}k-3 & -2 \\ -2 & k-2\end{array}\right]$ ইনভার্টিবল হবে না? | 3 | 2 | $\frac{5 \pm \sqrt{17}}{2}$ | $\frac{5}{2}$ |  | 
-37 | $D=\left\vert \begin{array}{ccc}-a^2 & a b & a c \\ a b & -b^2 & b c \\ a c & b c & -c^2\end{array}\right\vert $ হলে D এর মান কত? | 4abc | abc | $4 a^2 b^2 c^2$ | $\mathrm{a}^2 \mathrm{~b}^2 \mathrm{c}^2$ |  | 
-38 | $\overrightarrow{\mathbf{P}}=5 \hat{i}-3 \hat{j}+2 \hat{k}$ ভেক্টরের উপর $\overrightarrow{\mathrm{Q}}=2 \hat{i}+\hat{j}-2 \hat{k}$ ভেক্টরের অভিক্ষেপ- | $\frac{5}{\sqrt{38}}$ | $\frac{3}{\sqrt{38}}$ | $\frac{2}{\sqrt{38}}$ | $\frac{1}{\sqrt{38}}$ |  | 
-39 | $2 \hat{i}+\hat{j}-\hat{k}, 3 \hat{\mathbf{i}}-2 \hat{\mathbf{k}}+4 \hat{\mathbf{k}}$ এবং $\hat{\mathrm{i}}-3 \hat{\mathrm{j}}+a \hat{k}$ | 2 | 5 | -4 | 3 |  | 
-40 | $a \hat{i}+\frac{1}{2} \hat{j}+\frac{1}{3} \hat{k}$ ভেক্টরটি একক ভেক্টর হলে a এর মান কত? | $\pm \frac{6}{5}$ | $\pm \frac{4}{3}$ | $\pm \frac{\sqrt{23}}{6}$ | $\pm \frac{23}{6}$ |  | 
-41 | কোন বিন্দুর পোলার স্থানাঙ্ক (2, $3 \pi / 2$) হলে বিন্দুটির কার্তেসীয় স্থানাঙ্ক- | (-2, 1) | (0,-2) | (2,0) | (0, 2) |  | 
-42 | y অক্ষ ও (7, 2) থেকে (a, 5) বিন্দুটির দূরত্ব সমান হলে a-এর মান নির্ণয় কর। | $\frac{29}{7}$ একক | $\frac{23}{9}$ একক | $\frac{26}{7}$ একক | $\frac{28}{5}$ একক |  | 
-43 | সরলরেখা 3x + 4y -12 = 0 দ্বারা অক্ষদ্বয়ের মধ্যবর্তী খণ্ডিত অংশের দৈর্ঘ্য | 7 | 5 | 9 | 8 |  | 
-44 | x = 0, x = 4, y = 1 ওy = 5 রেখাগুলো দ্বারা আবদ্ধ এলাকার ক্ষেত্রফল কত বর্গ একক হবে? | 20 | 24 | 15 | 16 |  | 
-45 | x²+y²-x+2y+ 1 = 0 বৃত্তটির ব্যাসার্ধ কত? (B) (C) | 1 | $\frac{3}{2}$ | $\frac{1}{2}$ | 2 |  | 
-46 | k এর মান কত হলে, 3x + 4y = k রেখাটি x²+y² = 10x বৃত্তকে স্পর্শ করবে? | 30 অথবা 10 | 40 অথবা-10 | 30 অথবা 10 | 35 অথবা 10 |  | 
-47 | প্রতিবার প্রথমে এবং শেষে U রেখে CALCULUS শব্দটির অক্ষরগুলোকে কতভাবে সাজানো যাবে? | 180 | 280 | 90 | 360 |  | 
-48 | টেলিফোন ডায়ালে 0 থেকে 9 পর্যন্ত লেখা থাকে। যদি ইসলামী বিশ্ববিদ্যালয়ের টেলিফোনগুলো 5 অঙ্ক বিশিষ্ট হয় তবে ইসলামী বিশ্ববিদ্যালয়ে কত টেলিফোন সংযোগ দেওয়া যাবে; যেখানে । দ্বারা টেলিফোন নম্বর শুরু হইবে না। | $9 \times 10^3$ | $9 \times 10^4$ | $9 \times 10^5$ | $9 \times 10^{-5}$ |  | 
-49 | একটি সভাশেষে প্রত্যেকে অন্যের সাথে করমর্দন করলেন। করমর্দনের সংখ্যা। 66 হলে সভায় কতজন উপস্থিত ছিলেন? | 11 | 12 | 14 | 16 |  | 
-50 | সন্ধ্যা 7 টায় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যে কোণের পরিমাণ কত? | 130° | 210° | 420° | 150° |  | 
-51 | ABC ত্রিভুজের cosA + cosC = sinB হলে ∠C এর মান- | $\frac{\pi}{4}$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$ | $\frac{\pi}{6}$ |  | 
-52 | f(x) = sinx এবং g(x) = x² হলে (fog) (\sqrt{\pi} / 2) এর মান হবে - | $\frac{1}{\sqrt{2}}$ | $\frac{1}{2}$ | $\frac{\sqrt{3}}{2}$ | $\sqrt{2}$ |  | 
-53 | $f(x)=\frac{x}{\left\vert  x \right\vert }$ ফাংশনের বিস্তার কত? | [-1,1] | {-1,1} | [0,) | (0,1] |  | 
-54 | $\lim _{x \rightarrow 0} \frac{e^x-1}{x}=?$ | 1 | -1 | 2 | 3 |  | 
-55 | $\lim _{x \rightarrow \infty} 2^x \sin \frac{y}{2^x}=?$ | y | 0 | 1 | -y |  | 
-56 | $y=\sqrt{x+\sqrt{x+\sqrt{x+\cdots}}}$ হলে, $\frac{d y}{d x}$ এর মান কত? | $\frac{1}{2 y-1}$ | $\frac{x}{1-2 y}$ | $\frac{y}{2 y-1}$ | $\frac{y}{1-2 y}$ |  | 
-57 | $y=x\left(x^2-5\right)$ হলে $\frac{d^3 y}{d x^3}=$ কত? | 6 | 7 | 8 | 9 |  | 
-58 | k এর কোন মানের জন্য y = kx (1-x) বক্ররেখার মূলবিন্দুতে স্পর্শকটি x- অক্ষের সাথে 30° কোণ উৎপন্ন করে? | $\sqrt{3}$ | $\frac{1}{\sqrt{3}}$ | $\frac{\sqrt{3}}{2}$ | 1 |  | 
-59 | $\left.\int \frac{e^x(1+x)}{\cos ^2\left(x e^x\right)}\right) d x=f(x)+c ; f(x)=?$ | $\sin \left(x^x\right)$ | $\tan \left(\mathrm{xe}^{\mathrm{x}}\right)$ | $\cot \left(x \mathrm{e}^x\right)$. | $\sec \left(x e^x\right)$ |  | 
-60 | y² = 16x এবং y = 4x দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল- | $\frac{2}{3} u \mathrm{unit}^2$ | $-\frac{2}{3} u n i t^2$ | $\frac{3}{2} \mathrm{init}^2$ | $\frac{1}{3}$ unit $^2$ |  | 
-61 | -7 < x < -1 কে পরম মান চিহ্নের সাহায্যে প্রকাশ করলে হবে- | $\left\vert  x-7 \right\vert <-1$ | $\left\vert  x+1 \right\vert >-7$ | $\left\vert  x+4 \right\vert >-3$ | $\left\vert  x+4 \right\vert <3$ |  | 
-62 | x = -1+i হলে, x³ + 3x²+4x+7 এর মান- | 6+ i | 8 | 5 | 9+2i |  | 
-63 | যে সমীকরণের মূলগুলো x²- 5x-1= 0 সমীকরণের। 2 মূলগুলো হতে 2 ছোট, তা- | $x^2+x+7=0$ | $x^2-x+7=0$ | $x^2-x-7=0$ | $x^2+x-7=0$ |  | 
-64 | $\left(x^2+\frac{1}{x^2}-2\right)^6$ এর বিস্তৃতিতে বর্জিত পদের মান কত? | 924 | 620 | 12 | 6 |  | 
-65 | $\frac{x}{(1-4 x)(1-5 x)}$ এর বিস্তৃতিতে xʳ এর সহগ (5ʳ + k4ʳ) হলে, k এর মান কত? | 1 | -1 | $\frac{1}{2}$ | $-\frac{1}{2}$ |  | 
-66 | y² = 9x পরাবৃত্তের উপরিস্থিত । বিন্দুর কোটি 12 হলে ঐ বিন্দুর উপকেন্দ্রিক দূরত্ব কত? | 9.50. | 18.25 | 10.5 | 20.25 |  | 
-67 | $\sin ^{-1} x+\sin ^{-1} y=\frac{\pi}{2}$ হলে x²+ y²এর মান কত? | 1 | 2 | 3 | 4 |  | 
-68 | একজন লোক লাঠির একপ্রান্তে বাঁধা একটি বোঝা কাঁধে বহন করছে। বোঝাটির ওজন W এবং লোকটির কাঁধ হতে বোঝাটির ও লোকটির হাতের দূরত্ব যথাক্রমে 1 m এবং 0.5 m, লোকটির কাঁধের উপর চাপ কত? | 3W | 1 W | 1.5 W | 2W |  | 
-69 | 32 ft/s আদিবেগে এবং ভূমির সাথে 30° কোণে একটি বস্তু নিক্ষেপ করা হলো। ইহার ভ্রমণকাল- | 0.5 s | 1s | 1.5 s | 2s |  | 
-70 | 100 থেকে শুরু করে 999 পর্যন্ত সংখ্যাগুলোর মধ্য থেকে একটি পূর্ণসংখ্যা নেয়া হলো। পূর্ণসংখ্যাটির সবগুলো অঙ্ক বিজোড় হওয়ার সম্ভাবনা কত? | $\frac{25}{102}$ | $\frac{5}{36}$ | $\frac{25}{36}$ | $\frac{5}{102}$ |  | 
+1 | A sudden change in the economic ___ is unlikely to be fair at this time. | Measures | Trend | Throughout | Into | 
+2 | Transport steike ia causing serious problems____ the country | Trend | Into | Throughout | Measures | 
+3 | He never had and ever will take such strong _____. | Measures | Trend | Into | Throughout | 
+4 | He _____ the seene ti our boss | Vanished | Dreamt | Dramaticized | Lost | 
+5 | Dinosour, the largest animal, was _____ from the earth 100 years ago. | Vanished | Dramaticized | Dreamt | Lost | 
+6 | Dinosour, the largest animal, was _____ from the earth 100 years ago.. | Vanished | Dramaticized | Dreamt | Lost | 
+7 | I ____a bad dream last night. | Dreamt | Dramaticized | Lost | Vanished | 
+8 | Choose the pair off words that best matches the relationship between: PAIN: SEDATIVE | Comfort: stimulant | Grief: Consolation | Trance: Nurcotic | Ache: Extraction | 
+9 | When the book ____,I was Very anxious to know about the sales . | Dropped out | Cleared out | Came out | Broke out | 
+10 | This book is _____far the best one he has ever written. | By | To | As | Too | 
+11 | The meaning of the word" supportive" is | Active | Dangerous | Helpful | Aggressive | 
+12 | It ____ same till 1997. | Lower | Fell/ dropped | Rose/ Increase | Remained same/ No change | 
+13 | But in 1998,the number had been _______. | Lower | Fell/ dropped | Rose/ Increase | Remained same/ No change | 
+14 | And it ____ in 1999 and finally faced up and downs for the next years. | Lower | Fell/ dropped | Rose/ Increase | Remained same/ No change | 
+15 | (Question 12-16) : Fill in the gapes with word from the box based on the imaginary graph below. The graph ____ the comparison of internet use at Redwood Secondary School between boys and girls over 1995 to 2002. | Lower | Fell/ dropped | Rose/ Increase | Shows/ Indicates | 
+16 | According to the graph, in 1995, the number of girls was _____ than that of boys. | Shows/ Indicates | Remained same/ No change | Rose/ Increase | Lower | 
+17 | 1000 V ব্যাটারীর দুই প্রান্তে একটি ধারক যুক্ত করায় ধারকে 50 J শক্তি সঞ্চিত হলো। ধারকের সঞ্চিত চার্জের পরিমাণ কত? | 10 C | 1 C | $10^{-1}C$ | $10^{-2}C$ | 
+18 | স্থির তাপমাত্রায় কোন পরিবাহীর প্রস্থচ্ছেদের ক্ষেত্রফল বৃদ্ধি করলে রোধ- | বৃদ্ধি পাবে | কমে যাবে | অপরিবর্তিত থাকবে | শূন্য হয়ে যাবে | 
+19 | $25\;\Omega$ রোধের একটি গ্যালভানোমিটারের সাথে কত রোধের একটি শান্ট যুক্ত করলে মোট প্রবাহমাত্রার 1% গ্যালভানোমিটারের মধ্য দিয়ে যাবে? | $25.3\;\Omega$ | $\frac{25}{99}\;\Omega$ | $\approx4\;\Omega$ | $1\;\Omega$ | 
+20 | একটি বিদ্যুৎ পরিবাহী লম্বা সরল তার থেকে 2 cm দূরত্বে চুম্বক ক্ষেত্রের মান $10^{-6}T$হলে তারটির মধ্য দিয়ে প্রবাহিত বিদ্যুৎ এর পরিমাণ কত? | 0.01 A | 0.1 A | 1 A | 10 A | 
+21 | তড়িৎ বর্তনীতে আবিষ্ট তড়িৎ প্রবাহের দিক নির্ণয় করা যায় কোন সূত্র দ্বারা? | ফ্যারাডের | নিউটনের | ম্যাক্সওয়েলের | লেঞ্জের | 
+22 | পানির প্রতিসরাঙ্ক 1.3 হলে পানিতে আলোর বেগ কত? (শূন্যস্থানে আলোর বেগ $3\;\times\;108\;ms^{-1}$) | $3.0\;x\;10^8\;m/s\;$ | $2.31\;x\;10^8\;m/s\;$ | $2.0\;x\;10^8\;m/s\;$ | $4.4\;x\;10^8\;m/s\;$ | 
+23 | ধ্বংসাত্মক ব্যতিচারের জন্য পথ পার্থক্য- | λ | nλ/2 | (2n+1)λ/2 | (n+1)λ/2 | 
+24 | স্থির ইলেকট্রনের সমতুল্য শক্তি কত? | 0.51 eV | 0.51 keV | 0.51 MeV | $9.1\times10^{-31}\;eV$ | 
+25 | কোনো তেজস্ক্রিয় মৌলের ক্ষয় ধ্রুবকের মান 0.01/s। এর অর্ধায়ু- | 0.693 s | 6.93 s | 69.3 s | 693 s | 
+26 | $(10010011.11)_2$ বাইনারি সংখ্যাটির সমতুল্য অক্টাল সংখ্যা হবে - | $(223.3)_8$ | $(223.6)_8$ | $(423.6)_8$ | কোনোটিই নয় | 
+27 | আদর্শ কৃষ্ণবস্তু (Black Body) এর শোষণ ক্ষমতা- | 0% | 100% | 50% | 75% | 
+28 | $\vert \overrightarrow{\mathbf{A}} \cdot \overrightarrow{\mathbf{B}}\vert =\left\vert  \overrightarrow{\mathbf{A}} \times \overrightarrow{\mathbf{B}} \right\vert $ হলে $\overrightarrow{\mathbf{A}} ও \overrightarrow{\mathbf{B}}$ এর মধ্যকার কোণ (angle) কত? | $\pi$ | $\frac{\pi}{4}$ | $\frac{\pi}{6}$ | $2 \pi$ | 
+29 | একটি প্রক্ষেপককে (projectile) X - অক্ষের সাথে $\theta$ কোণে $V_0$ আদিবেগে (initial velocity) শূন্যে নিক্ষেপ করলে এর পাল্লা (range) হবে- | $\mathrm{R}=\frac{\mathrm{v}_0{ }^2 \sin 2 \theta}{\mathrm{g}}$ | $R=\frac{v_0{ }^2 \sin 2 \theta}{2 g}$ | $R=\frac{v_0 \sin 2 \theta}{g}$ | $R=\frac{v_0{ }^2 \sin \theta}{g}$ | 
+30 | 100 W ক্ষমতা ও 60% দক্ষতা বিশিষ্ট একটি মোটরের প্রতি সেকেন্ডে সম্পাদিত কাজ নির্ণয় কর। | 70 J | 60 J | 80 J | 40 J | 
+31 | বিন্দু ভরের জন্য মহাকর্ষীয় বিভব কোনটি? | $-\frac{G M}{r^2}$ | $-\frac{G M}{r}$ | $\frac{\mathrm{GM}}{\mathrm{r}^2}$ | $\frac{\mathrm{GM}}{\mathrm{r}}$ | 
+32 | পানির পৃষ্ঠটান $72\;\times\;10^{-3}\;N/m\;$। 0.2 mm ব্যাসের নলে পানির আরোহণ হবে- | 14.694 m | $14.694\;\times\;10^{-2}\;m$ | 10.0 cm | 7.347 cm | 
+33 | 14°C এ একটি মাধ্যমের চাপ ও তাপমাত্রা উভয়ই 4 গুণ বাড়ানো হলে শব্দের বেগ বাড়বে- | 200% | 114% | 14.6% | 100% | 
+34 | একটি আদর্শ গ্যাসের নমুনার তাপমাত্রা 20°C, যদি নমুনাটির চাপ এবং আয়তন দ্বিগুণ করা হয়, তবে পরিবর্তিত তাপমাত্রা কত? | 20°C | 80°C | 900°C | 1200°C | 
+35 | নির্দিষ্ট ভরের কোন গ্যাসের আয়তন উল্লেখ করতে কি প্রয়োজন? | চাপ | তাপমাত্রা | চাপ ও তাপমাত্রা | পরম শূন্য তাপমাত্রা | 
+36 | k এর কোন মানের জন্য a $=\left[\begin{array}{cc}k-3 & -2 \\ -2 & k-2\end{array}\right]$ ইনভার্টিবল হবে না? | 3 | 2 | $\frac{5 \pm \sqrt{17}}{2}$ | $\frac{5}{2}$ | 
+37 | $D=\left\vert \begin{array}{ccc}-a^2 & a b & a c \\ a b & -b^2 & b c \\ a c & b c & -c^2\end{array}\right\vert $ হলে D এর মান কত? | 4abc | abc | $4 a^2 b^2 c^2$ | $\mathrm{a}^2 \mathrm{~b}^2 \mathrm{c}^2$ | 
+38 | $\overrightarrow{\mathbf{P}}=5 \hat{i}-3 \hat{j}+2 \hat{k}$ ভেক্টরের উপর $\overrightarrow{\mathrm{Q}}=2 \hat{i}+\hat{j}-2 \hat{k}$ ভেক্টরের অভিক্ষেপ- | $\frac{5}{\sqrt{38}}$ | $\frac{3}{\sqrt{38}}$ | $\frac{2}{\sqrt{38}}$ | $\frac{1}{\sqrt{38}}$ | 
+39 | $2 \hat{i}+\hat{j}-\hat{k}, 3 \hat{\mathbf{i}}-2 \hat{\mathbf{k}}+4 \hat{\mathbf{k}}$ এবং $\hat{\mathrm{i}}-3 \hat{\mathrm{j}}+a \hat{k}$ | 2 | 5 | -4 | 3 | 
+40 | $a \hat{i}+\frac{1}{2} \hat{j}+\frac{1}{3} \hat{k}$ ভেক্টরটি একক ভেক্টর হলে a এর মান কত? | $\pm \frac{6}{5}$ | $\pm \frac{4}{3}$ | $\pm \frac{\sqrt{23}}{6}$ | $\pm \frac{23}{6}$ | 
+41 | কোন বিন্দুর পোলার স্থানাঙ্ক (2, $3 \pi / 2$) হলে বিন্দুটির কার্তেসীয় স্থানাঙ্ক- | (-2, 1) | (0,-2) | (2,0) | (0, 2) | 
+42 | y অক্ষ ও (7, 2) থেকে (a, 5) বিন্দুটির দূরত্ব সমান হলে a-এর মান নির্ণয় কর। | $\frac{29}{7}$ একক | $\frac{23}{9}$ একক | $\frac{26}{7}$ একক | $\frac{28}{5}$ একক | 
+43 | সরলরেখা 3x + 4y -12 = 0 দ্বারা অক্ষদ্বয়ের মধ্যবর্তী খণ্ডিত অংশের দৈর্ঘ্য | 7 | 5 | 9 | 8 | 
+44 | x = 0, x = 4, y = 1 ওy = 5 রেখাগুলো দ্বারা আবদ্ধ এলাকার ক্ষেত্রফল কত বর্গ একক হবে? | 20 | 24 | 15 | 16 | 
+45 | x²+y²-x+2y+ 1 = 0 বৃত্তটির ব্যাসার্ধ কত? (B) (C) | 1 | $\frac{3}{2}$ | $\frac{1}{2}$ | 2 | 
+46 | k এর মান কত হলে, 3x + 4y = k রেখাটি x²+y² = 10x বৃত্তকে স্পর্শ করবে? | 30 অথবা 10 | 40 অথবা-10 | 30 অথবা 10 | 35 অথবা 10 | 
+47 | প্রতিবার প্রথমে এবং শেষে U রেখে CALCULUS শব্দটির অক্ষরগুলোকে কতভাবে সাজানো যাবে? | 180 | 280 | 90 | 360 | 
+48 | টেলিফোন ডায়ালে 0 থেকে 9 পর্যন্ত লেখা থাকে। যদি ইসলামী বিশ্ববিদ্যালয়ের টেলিফোনগুলো 5 অঙ্ক বিশিষ্ট হয় তবে ইসলামী বিশ্ববিদ্যালয়ে কত টেলিফোন সংযোগ দেওয়া যাবে; যেখানে। দ্বারা টেলিফোন নম্বর শুরু হইবে না। | $9 \times 10^3$ | $9 \times 10^4$ | $9 \times 10^5$ | $9 \times 10^{-5}$ | 
+49 | একটি সভাশেষে প্রত্যেকে অন্যের সাথে করমর্দন করলেন। করমর্দনের সংখ্যা। 66 হলে সভায় কতজন উপস্থিত ছিলেন? | 11 | 12 | 14 | 16 | 
+50 | সন্ধ্যা 7 টায় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যে কোণের পরিমাণ কত? | 130° | 210° | 420° | 150° | 
+51 | ABC ত্রিভুজের cosA + cosC = sinB হলে ∠C এর মান- | $\frac{\pi}{4}$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$ | $\frac{\pi}{6}$ | 
+52 | f(x) = sinx এবং g(x) = x² হলে (fog) (\sqrt{\pi} / 2) এর মান হবে - | $\frac{1}{\sqrt{2}}$ | $\frac{1}{2}$ | $\frac{\sqrt{3}}{2}$ | $\sqrt{2}$ | 
+53 | $f(x)=\frac{x}{\left\vert  x \right\vert }$ ফাংশনের বিস্তার কত? | [-1,1] | {-1,1} | [0,) | (0,1] | 
+54 | $\lim _{x \rightarrow 0} \frac{e^x-1}{x}=?$ | 1 | -1 | 2 | 3 | 
+55 | $\lim _{x \rightarrow \infty} 2^x \sin \frac{y}{2^x}=?$ | y | 0 | 1 | -y | 
+56 | $y=\sqrt{x+\sqrt{x+\sqrt{x+\cdots}}}$ হলে, $\frac{d y}{d x}$ এর মান কত? | $\frac{1}{2 y-1}$ | $\frac{x}{1-2 y}$ | $\frac{y}{2 y-1}$ | $\frac{y}{1-2 y}$ | 
+57 | $y=x\left(x^2-5\right)$ হলে $\frac{d^3 y}{d x^3}=$ কত? | 6 | 7 | 8 | 9 | 
+58 | k এর কোন মানের জন্য y = kx (1-x) বক্ররেখার মূলবিন্দুতে স্পর্শকটি x- অক্ষের সাথে 30° কোণ উৎপন্ন করে? | $\sqrt{3}$ | $\frac{1}{\sqrt{3}}$ | $\frac{\sqrt{3}}{2}$ | 1 | 
+59 | $\left.\int \frac{e^x(1+x)}{\cos ^2\left(x e^x\right)}\right) d x=f(x)+c ; f(x)=?$ | $\sin \left(x^x\right)$ | $\tan \left(\mathrm{xe}^{\mathrm{x}}\right)$ | $\cot \left(x \mathrm{e}^x\right)$. | $\sec \left(x e^x\right)$ | 
+60 | y² = 16x এবং y = 4x দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল- | $\frac{2}{3} u \mathrm{unit}^2$ | $-\frac{2}{3} u n i t^2$ | $\frac{3}{2} \mathrm{init}^2$ | $\frac{1}{3}$ unit $^2$ | 
+61 | -7 < x < -1 কে পরম মান চিহ্নের সাহায্যে প্রকাশ করলে হবে- | $\left\vert  x-7 \right\vert <-1$ | $\left\vert  x+1 \right\vert >-7$ | $\left\vert  x+4 \right\vert >-3$ | $\left\vert  x+4 \right\vert <3$ | 
+62 | x = -1+i হলে, x³ + 3x²+4x+7 এর মান- | 6+ i | 8 | 5 | 9+2i | 
+63 | যে সমীকরণের মূলগুলো x²- 5x-1= 0 সমীকরণের। 2 মূলগুলো হতে 2 ছোট, তা- | $x^2+x+7=0$ | $x^2-x+7=0$ | $x^2-x-7=0$ | $x^2+x-7=0$ | 
+64 | $\left(x^2+\frac{1}{x^2}-2\right)^6$ এর বিস্তৃতিতে বর্জিত পদের মান কত? | 924 | 620 | 12 | 6 | 
+65 | $\frac{x}{(1-4 x)(1-5 x)}$ এর বিস্তৃতিতে xʳ এর সহগ (5ʳ + k4ʳ) হলে, k এর মান কত? | 1 | -1 | $\frac{1}{2}$ | $-\frac{1}{2}$ | 
+66 | y² = 9x পরাবৃত্তের উপরিস্থিত। বিন্দুর কোটি 12 হলে ঐ বিন্দুর উপকেন্দ্রিক দূরত্ব কত? | 9.50. | 18.25 | 10.5 | 20.25 | 
+67 | $\sin ^{-1} x+\sin ^{-1} y=\frac{\pi}{2}$ হলে x²+ y²এর মান কত? | 1 | 2 | 3 | 4 | 
+68 | একজন লোক লাঠির একপ্রান্তে বাঁধা একটি বোঝা কাঁধে বহন করছে। বোঝাটির ওজন W এবং লোকটির কাঁধ হতে বোঝাটির ও লোকটির হাতের দূরত্ব যথাক্রমে 1 m এবং 0.5 m, লোকটির কাঁধের উপর চাপ কত? | 3W | 1 W | 1.5 W | 2W | 
+69 | 32 ft/s আদিবেগে এবং ভূমির সাথে 30° কোণে একটি বস্তু নিক্ষেপ করা হলো। ইহার ভ্রমণকাল- | 0.5 s | 1s | 1.5 s | 2s | 
+70 | 100 থেকে শুরু করে 999 পর্যন্ত সংখ্যাগুলোর মধ্য থেকে একটি পূর্ণসংখ্যা নেয়া হলো। পূর্ণসংখ্যাটির সবগুলো অঙ্ক বিজোড় হওয়ার সম্ভাবনা কত? | $\frac{25}{102}$ | $\frac{5}{36}$ | $\frac{25}{36}$ | $\frac{5}{102}$ | 

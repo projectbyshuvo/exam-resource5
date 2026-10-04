@@ -1,100 +1,100 @@
-1 | Transform the sentence into negative without changing the meaning: "She tried all plans". | She did not try all plans | She untried all plans | She left no plan untried | She tried no plans |  | 
-2 | He had a bad tooth, so the doctor____________ it out. | cut | pulled | drew | drag |  | 
-3 | Who wrote 'Anna Karenina'? | Leo Tolstoy | Daniel Defoe | Rose Macaulay | D. H. Lawrence |  | 
-4 | Which one is correct? | I forbade him going | I forbade him to go. | I forbade him going. | I forbade him not to go. |  | 
-5 | My sister has just come back from abroad. She seems____________ her trip very much. | to have enjoyed | to enjoy | to be enjoying | enjoying |  | 
-6 | He went to_________ and_____________. | the Canada, USA | Canada, the USA | The Canada, the USA | Canada, USA |  | 
-7 | The idiom "Ten to one" refers to____________. | very likely | be serious | sorrows and happiness | flee |  | 
-8 | A strict vegetarian-. | rarely eats animal products | sometimes eats eggs | never eats any animal products | never eats protein |  | 
-9 | We are going to get new_____________ for the new flat. | furnitures | furniture | farniture | farniture |  | 
-10 | Of the two architects, one is experienced _______. | the others are not | another is not | another is inexperienced | the other is not |  | 
-11 | No man is an island' what does this proverb mean? | Everyone should always be prepared | Your own home is the most comfortable place to live in | Everyone needs help from other people do | It is best to do everything on time |  | 
-12 | The translation of 'আমি তাকে বুঝাতে চেষ্টা করব'- | I will making him to understand | I will try make him understand | I will try to make him to understand | I will try to make him understand. |  | 
-13 | The Diary of a Young Girl' is written by___________. | Otto Frank | James Frank | Anne Frank | Henry Frank |  | 
-14 | A person who uses internet is called - | a convict | a prisoner | an interrogator | netizen |  | 
-15 | A closing speech in a play, often delivered after the completion of the main action, is called- | a monologue | an epilogue | a prologue | a dialogue |  | 
-16 | The adjective of 'time' is___________ . | temporal | timous | timely | temperamental |  | 
-17 | Staying in a hotel costs_____________ renting a room in a dormitory for a week. | twice more than | twice as much as | as much twice as | as much as twice |  | 
-18 | Which is the antonym of HYPOCRITICAL? | considerate | cunning | wise | sincere |  | 
-19 | allegorical' means- | poetry | with timely significance | having symbolic meaning | written in verse |  | 
-20 | Nostalgic is the synonym of - | soothing | temperate | realistic | homesick |  | 
-21 | "To catch off guard" means - | to neglect duty | to substitute a guard | to get someone when he/she is careless | to be on guard |  | 
-22 | Choose the correct relationship: Realist: Quixotic :: | Scholar: Pedantic | Fool: Idiotic | Tormentor: Sympathetic | Idler: Lethargic |  | 
-23 | The war criminal was___________. | hang | hanged | hung | hunged |  | 
-24 | Which word is spelt correctly? | concensus | hiararchy | medieval | posession |  | 
-25 | _____________ is currently available to researchers and physicians who study the indigenous life of Bangladesh. | A little information | Few information | Little information | A few information |  | 
-26 | Today many new____________ of language teaching are being experimented with. | art | skills | techniques | workmanship |  | 
-27 | Humans are the only factors in the ecosystem ______ are responsible for the changes in the ecology. | which | whom | who | what |  | 
-28 | Choose the correct sentence: | Who do the book belongs to? | Who belongs to the book? | Who does the book belong to? | To whom does the book belong to? |  | 
-29 | ___________ amazing song haunted me for a long time. | These | Those | Thus | That |  | 
-30 | Cleopetra was a paragon of beauty' এর বাংলা - | ক্লিওপেট্রা অপরূপ সুন্দরী ছিলেন । | ক্লিওপেট্রা সুন্দরের সঠিক উপমা ছিলেন । | ক্লিওপেট্রা সুন্দরী রমণী ছিলেন । | ক্লিওপেট্রা সুন্দরী ছিলেন । |  | 
-31 | Your courage is “as great as any other person in defending” your country. The underlined phrase can be replaced without changing the meaning by- | as great as any other person | as great as any other persons | great like other person | as great as that of any other person |  | 
-32 | The more we__________ mathematical problems, | solve, the less we get clever | do not solve, the more we get clever | solve, the less we feel shaky | solved, the more we feel shaky |  | 
-33 | If you intend to apply for an advertised position, ______ a professional resume. | it is required for attaching | it is required that you attach | it is required that you to attach | it is requirement you attaching |  | 
-34 | Not until a student has mastered algebra,__________ the principles of geometry, trigonometry and physics. | He can begin to understand | can he begin to understand | he begins to understand | begins to understand |  | 
-35 | We drove_________ the river for an hour___________ turned north before we reached it. | to, and | back, when | towards, but | in, to |  | 
-36 | The intensive search was conducted by the detectives to locate those criminals who_______________,. | have had escaped | had escaped | are escaping | have been escaping |  | 
-37 | Bangabandhu Sheikh Mujibur Rahman Memorial Museum stands as__________ symbol not only of the greatest moments in our history but also as evidence of the darkest moment in________ history of this land. | the,a | a no article | a, the | the, on article |  | 
-38 | Which of the following sentences is correct? | It is more better to be safe than sorry. | It is better to be safer than sorry. | It is better to be safe than more sorry. | It is better to be safe than sorry. |  | 
-39 | Choose the incorrect part: Cans of paint must be shaking to mix the pigments with the medium in which in which they are suspended. | must | shaking | mix | in which |  | 
-40 | An epic is based on__________ performed by a hero. | heroic deeds | a narrative | intervention | trifle subjects |  | 
-41 | Which one was the first foreign bank in Bangladesh? | Standard Chartered | City N. A | HSBC | Arab Bangladesh |  | 
-42 | What was the previous name of Comilla? | Tripura | Nasirabad | Sudharam | Subarnagram |  | 
-43 | Which day is being observed as the 'Mujibnagar Day' in Bangladesh? | 17 April | 4 April | 4 November | 3 December |  | 
-44 | The first Eurpean country to recognize Bangladesh- | East Genmany | West Germany | France | Uk |  | 
-45 | Which one is the world's largest river delta found in Bangladesh? | Ganga | Brahmaputra | Padma | Jamuna |  | 
-46 | What is the ratio of length to width of Bangladesh national flag? | 9:6 | 10:6 | 10:5 | 10:7 |  | 
-47 | Which organization has recognised the 7th March Speech of Bangabandhu Sheikh Mujibur Rahman as part of world's documentary heritage? | INICEF | UNESCO | World Bank | ICAO |  | 
-48 | Which mountain is known as the 'Roof of the World'? | Andes | Himalays | Karakoram | Pamir |  | 
-49 | Mr. Fazle Kabir is the______ Governor of Bangladesh Bank. | 10th | 11th | 12th | None of these |  | 
-50 | Which of the following is the longest river in the world? | Amazon | Mississippi | Nile | None of these |  | 
-51 | Which is the Captial City of Finland? | Oslo | Helsinki | 13russels | Amsterdam |  | 
-52 | Where is the headquarter of European located? | Brussels | Paris | London | Rome |  | 
-53 | Red Cross was established in- | 1863 | 1868 | 1866 | 1861 |  | 
-54 | Taka 10 polymer note was first introduced in Bangladesh in: | 2003 | 2002 | 2001 | 2000 |  | 
-55 | The only rock-mine of Bangladesh is situated in: | Bogra | Dinajpur | Thakurgaon | Rangpur |  | 
-56 | The first player to score 10,000 runs in T20 Cricket is- | AB de Villiers | Chris Gayle | Virat Kohli | Tamim Iqbal |  | 
-57 | The war strategy of Muktibahini is known as- | Mujibnagar strategy | Rajarbag strategy | Teliapara strategy | Muktifouz strategy |  | 
-58 | The national Jute day is on- | 5th March | 6th March | 5th April | 6th April |  | 
-59 | Teletalk recently launched a promotional offer for women is- | Bohnnishikha | Anannya | Aporajita | Shampurna |  | 
-60 | What kind of organization is NATO? | Military | Political | Social | Environmental |  | 
-61 | Where is the mausoleum of Bir Sreshtha Mostafa Kamal? | Akhaura, Brahmanbaria | Muksudpur, Gopalganj | Charfashion, Bhola | Bikrompur, Munshiganj |  | 
-62 | Which organization does regulate the EPZS of Bangladesh? | BEPZA | EPB | BB | DMRA |  | 
-63 | Which of the following is the largest user of gas in Bangladesh? | DESA | BPBD | Households | Fertilizer sectors |  | 
-64 | In which division on Bangladesh has the highest literacy rate? | Dhaka | Barisal | Chittagong | Khulna |  | 
-65 | Mujibnagar situated at- | Chuadanga | Nababganj | Satkhira | Meherpur |  | 
-66 | 21 February was declared as the International Mother Language Day by which organization? | UNESCO | UNICEF | UNIHCR | EU |  | 
-67 | What is the birth day of Bangabandu Sheikh Mujibur Rahman? | 10 Jan | 17 March | 10 Feb | 17 April |  | 
-68 | Scheduled Banks of Bangladesh are regulated under. | Bank Company Act, 1993 | Financial Instutions Act, 1993 | Financial institutions Act, 1993 | Bank Company Act, 1991 |  | 
-69 | When was Value added Tax (VAT) intorduced in Bangladesh? | 1991 | 1992 | 1993 | 1994 |  | 
-70 | In the history of Dhaka, when was it declared captial for the first time? | 1601 | 1610 | 1621 | 1630 |  | 
-71 | বিড়াল' রচনায় কোন যুদ্ধের ইঙ্গিত রয়েছে? | ওয়াটারলু যুদ্ধ | মুক্তিযুদ্ধ | ইরাক যুদ্ধ | পাক-ভারত যুদ্ধ |  | 
-72 | ‘অপর্ণা' রবীন্দ্রনাথ ঠাকুরের কোন নাটকের চরিত্র? | রক্তকরবী | ডাকঘর | বিসর্জন | মুক্তধারা |  | 
-73 | আমার কন্যার গহনা আমি চুরি করিব এ কথা যারা মনে করে তাদের হাতে আমি কন্যা দিতে পারি না' উক্তিটিতে কী প্রকাশ পেয়েছে? | ক্ষেপ | অভিযান | একগুয়েমি | আত্মমর্যাদাবোধ |  | 
-74 | দ্বিগু সমাস নিষ্পন্ন পদটি কোন পদ হয়? | বিশেষ্য | বিশেষণ | কৃদন্ত | সর্বনাম |  | 
-75 | সাম্য' গদ্যগ্রন্থটির রচয়িতা কে? | বঙ্কিমচন্দ্র চট্টোপাধ্যায় | বিভূতিভূষণ বন্দ্যোপাধ্যায় | তারাশঙ্কর বন্দ্যোপাধ্যায় | মানিক বন্দ্যোপাধ্যায় |  | 
-76 | কোন সমাসে ব্যাসবাক্য হয় না? | প্রাদি সমাস | নিত্য সমাস | দ্বন্দ্ব সমাস | অলুক সমাস |  | 
-77 | রবীন্দ্রনাথের মতে, কারা দুঃখ-সুখে নতশিরে শুদ্ধ থাকে? | উপেক্ষিত মানুষেরা | তোষামুদে মানুষেরা | দুর্বলচিত্তের মানুষেরা | সবকটি |  | 
-78 | আজ বাংলাদেশ বনাম শ্রীলঙ্কার খেলা' এই বাক্যটিতে কোন ধরনের অনুসর্গের ব্যবহার করা হয়েছে? | সংস্কৃত অনুসর্গ | বিবর্তিত অনুসর্গ | ফারসি অনুসর্গ - | ক্রিয়াজাত অনুসর্গ |  | 
-79 | কুর্নিশ' শব্দটি ব্যবহৃত হয়েছে কোন গল্পে? | অপরিচিতা | চাষার দুক্ষ | আমার পথ | জীবন ও বৃক্ষ |  | 
-80 | ভাষা-প্রকাশ বাঙ্গালা ব্যাকরণ' গ্রন্থটির রচয়িতা কে? | হরপ্রসাদ শাস্ত্রী | ড. মুহম্মদ শহীদুল্লাহ | ড. সুনীতিকুমার চট্টোপাধ্যায় | আব্দুল হাই |  | 
-81 | বিভীষণের প্রতি মেঘনাদ' কবিতাটি মাইকেল মধুসূদন দত্তের মেঘনাদবধ কাব্যের কোন সর্গ থেকে নেওয়া হয়েছে? | অভিষেকো | বধো | অস্ত্রলাভো | সংক্ৰিয়া |  | 
-82 | শিখর' শব্দটির সমার্থক শব্দ কোনটি? | পানি | পর্বত | শীর্ষদেশ | পাদদেশ |  | 
-83 | আহ্বান' শব্দটির শুদ্ধ উচ্চারণ কোনটি? | আহ্বান | আহো্ববান | আহোবান | আওভান্ |  | 
-84 | Corrigendum' এর বাংলা পরিভাষা- | শুদ্ধিপত্র | অনুরোধপত্র | পুনঃবিজ্ঞাপন | পুনর্বিন্যাস |  | 
-85 | এক কথায় প্রকাশ কর- 'যিনি বিদ্যা লাভ করেছেন'। | বিদ্যার্থী | কৃতবিদ্যা | কৃতবিদ্য | বিদ্যাদর্শী |  | 
-86 | কাজী নজরুল ইসলামের প্রথম প্রকাশিত গ্রন্থের নাম কী ? | সঞ্চয়িতা | ব্যথার দান | বাউণ্ডুলের আত্মকাহিনী | বিদ্রোহী |  | 
-87 | নিচের কোনটি মাইকেল মধুসূদন দত্ত রচিত নাটক? | কৃষ্ণকুমারী | বসন্তকুমারী | নীলদর্পণ | জমিদার দর্পণ |  | 
-88 | ভোটাধিকার' কোন সমাস? | বহুব্রীহি | কর্মধারয় | তৎপুরুষ | দ্বন্দ |  | 
-89 | প্রাগৈতিহাসিক' গল্পটির রচয়িতা কে? | রবীন্দ্রনাথ ঠাকুর | বিভূতিভূষণ বন্দ্যোপাধ্যায় | মানিক বন্দ্যোপাধ্যায় | তারাশঙ্কর বন্দ্যোপাধ্যায় |  | 
-90 | জাদু' শব্দটি কোন ভাষার? | আরবি | ফারসি | উর্দু | হিন্দি |  | 
-91 | ‘অরুণরাঙা' কোন সমাসের উদাহরণ? | উপমান কর্মধারয় | উপমিত কর্মধারয় | রূপক কর্মধারয় | উপপদ তৎপুরুষ |  | 
-92 | জটিল কিংবা যৌগিক বাক্যের ক্ষেত্রে ব্যবহৃত হয়- | কমা | সেমিকোলন | কোলন | হাইফেন |  | 
-93 | সুকান্ত ভট্টাচার্য সম্পাদিত কাব্যগ্রন্থ কোনটি ? | ঘুম নেই | ছাড়পত্র | পূর্বাভাস | আকাল |  | 
-94 | দুধভাতে উৎপাত' গল্পগ্রন্থের রচয়িতা কে? | শওকত ওসমান | আখতারুজ্জামান ইলিয়াস | কাজী নজরুল ইসলাম | হাসান আজিজুল হক |  | 
-95 | কোনটি নিত্য স্ত্রীবাচক শব্দ? | নাটিকা | অর্ধাঙ্গিনী | বিজয়িনী | বেগম |  | 
-96 | সম্মার্জনা' শব্দের অর্থ কী? | সম্মান করা | সম্মাননা | মেজে ঘষে পরিষ্কার করা | সম্মান প্রদর্শন করা |  | 
-97 | বাঁশি' অর্থানুসারে কোন শ্রেণির শব্দ? | যৌগিক শব্দ | যোগরূঢ় শব্দ | রূঢ়ি শব্দ | মৌলিক শব্দ |  | 
-98 | খাতক' শব্দটির বিপরীতার্থক শব্দ কোনটি? | অবিচল | মহাজন | সাকার | নিষ্ঠুর |  | 
-99 | সৈনিক' শব্দের প্রকৃতি-প্রত্যয় নির্ণয় কর : | সেনা + য়িক | সৈন্য + ইক | সেনা + ইক | সৈন্য + য়িক |  | 
-100 | লালসালু' উপন্যাসের কোন চরিত্রটি সন্তান ধারণের উদ্দেশ্যে পীর সাহেবের নিকট থেকে পানিপড়া খেতে চায় ? | আমেনা | রহিমা | জমিলা | তানু বিবি |  | 
+1 | Transform the sentence into negative without changing the meaning: "She tried all plans". | She did not try all plans | She untried all plans | She left no plan untried | She tried no plans | 
+2 | He had a bad tooth, so the doctor____________ it out. | cut | pulled | drew | drag | 
+3 | Who wrote 'Anna Karenina'? | Leo Tolstoy | Daniel Defoe | Rose Macaulay | D. H. Lawrence | 
+4 | Which one is correct? | I forbade him going | I forbade him to go. | I forbade him going. | I forbade him not to go. | 
+5 | My sister has just come back from abroad. She seems____________ her trip very much. | to have enjoyed | to enjoy | to be enjoying | enjoying | 
+6 | He went to_________ and_____________. | the Canada, USA | Canada, the USA | The Canada, the USA | Canada, USA | 
+7 | The idiom "Ten to one" refers to____________. | very likely | be serious | sorrows and happiness | flee | 
+8 | A strict vegetarian-. | rarely eats animal products | sometimes eats eggs | never eats any animal products | never eats protein | 
+9 | We are going to get new_____________ for the new flat. | furnitures | furniture | farniture | farniture | 
+10 | Of the two architects, one is experienced _______. | the others are not | another is not | another is inexperienced | the other is not | 
+11 | No man is an island' what does this proverb mean? | Everyone should always be prepared | Your own home is the most comfortable place to live in | Everyone needs help from other people do | It is best to do everything on time | 
+12 | The translation of 'আমি তাকে বুঝাতে চেষ্টা করব'- | I will making him to understand | I will try make him understand | I will try to make him to understand | I will try to make him understand. | 
+13 | The Diary of a Young Girl' is written by___________. | Otto Frank | James Frank | Anne Frank | Henry Frank | 
+14 | A person who uses internet is called - | a convict | a prisoner | an interrogator | netizen | 
+15 | A closing speech in a play, often delivered after the completion of the main action, is called- | a monologue | an epilogue | a prologue | a dialogue | 
+16 | The adjective of 'time' is___________ . | temporal | timous | timely | temperamental | 
+17 | Staying in a hotel costs_____________ renting a room in a dormitory for a week. | twice more than | twice as much as | as much twice as | as much as twice | 
+18 | Which is the antonym of HYPOCRITICAL? | considerate | cunning | wise | sincere | 
+19 | allegorical' means- | poetry | with timely significance | having symbolic meaning | written in verse | 
+20 | Nostalgic is the synonym of - | soothing | temperate | realistic | homesick | 
+21 | "To catch off guard" means - | to neglect duty | to substitute a guard | to get someone when he/she is careless | to be on guard | 
+22 | Choose the correct relationship: Realist: Quixotic :: | Scholar: Pedantic | Fool: Idiotic | Tormentor: Sympathetic | Idler: Lethargic | 
+23 | The war criminal was___________. | hang | hanged | hung | hunged | 
+24 | Which word is spelt correctly? | concensus | hiararchy | medieval | posession | 
+25 | _____________ is currently available to researchers and physicians who study the indigenous life of Bangladesh. | A little information | Few information | Little information | A few information | 
+26 | Today many new____________ of language teaching are being experimented with. | art | skills | techniques | workmanship | 
+27 | Humans are the only factors in the ecosystem ______ are responsible for the changes in the ecology. | which | whom | who | what | 
+28 | Choose the correct sentence: | Who do the book belongs to? | Who belongs to the book? | Who does the book belong to? | To whom does the book belong to? | 
+29 | ___________ amazing song haunted me for a long time. | These | Those | Thus | That | 
+30 | Cleopetra was a paragon of beauty' এর বাংলা - | ক্লিওপেট্রা অপরূপ সুন্দরী ছিলেন। | ক্লিওপেট্রা সুন্দরের সঠিক উপমা ছিলেন। | ক্লিওপেট্রা সুন্দরী রমণী ছিলেন। | ক্লিওপেট্রা সুন্দরী ছিলেন। | 
+31 | Your courage is “as great as any other person in defending” your country. The underlined phrase can be replaced without changing the meaning by- | as great as any other person | as great as any other persons | great like other person | as great as that of any other person | 
+32 | The more we__________ mathematical problems, | solve, the less we get clever | do not solve, the more we get clever | solve, the less we feel shaky | solved, the more we feel shaky | 
+33 | If you intend to apply for an advertised position, ______ a professional resume. | it is required for attaching | it is required that you attach | it is required that you to attach | it is requirement you attaching | 
+34 | Not until a student has mastered algebra,__________ the principles of geometry, trigonometry and physics. | He can begin to understand | can he begin to understand | he begins to understand | begins to understand | 
+35 | We drove_________ the river for an hour___________ turned north before we reached it. | to, and | back, when | towards, but | in, to | 
+36 | The intensive search was conducted by the detectives to locate those criminals who_______________,. | have had escaped | had escaped | are escaping | have been escaping | 
+37 | Bangabandhu Sheikh Mujibur Rahman Memorial Museum stands as__________ symbol not only of the greatest moments in our history but also as evidence of the darkest moment in________ history of this land. | the,a | a no article | a, the | the, on article | 
+38 | Which of the following sentences is correct? | It is more better to be safe than sorry. | It is better to be safer than sorry. | It is better to be safe than more sorry. | It is better to be safe than sorry. | 
+39 | Choose the incorrect part: Cans of paint must be shaking to mix the pigments with the medium in which in which they are suspended. | must | shaking | mix | in which | 
+40 | An epic is based on__________ performed by a hero. | heroic deeds | a narrative | intervention | trifle subjects | 
+41 | Which one was the first foreign bank in Bangladesh? | Standard Chartered | City N. A | HSBC | Arab Bangladesh | 
+42 | What was the previous name of Comilla? | Tripura | Nasirabad | Sudharam | Subarnagram | 
+43 | Which day is being observed as the 'Mujibnagar Day' in Bangladesh? | 17 April | 4 April | 4 November | 3 December | 
+44 | The first Eurpean country to recognize Bangladesh- | East Genmany | West Germany | France | Uk | 
+45 | Which one is the world's largest river delta found in Bangladesh? | Ganga | Brahmaputra | Padma | Jamuna | 
+46 | What is the ratio of length to width of Bangladesh national flag? | 9:6 | 10:6 | 10:5 | 10:7 | 
+47 | Which organization has recognised the 7th March Speech of Bangabandhu Sheikh Mujibur Rahman as part of world's documentary heritage? | INICEF | UNESCO | World Bank | ICAO | 
+48 | Which mountain is known as the 'Roof of the World'? | Andes | Himalays | Karakoram | Pamir | 
+49 | Mr. Fazle Kabir is the______ Governor of Bangladesh Bank. | 10th | 11th | 12th | None of these | 
+50 | Which of the following is the longest river in the world? | Amazon | Mississippi | Nile | None of these | 
+51 | Which is the Captial City of Finland? | Oslo | Helsinki | 13russels | Amsterdam | 
+52 | Where is the headquarter of European located? | Brussels | Paris | London | Rome | 
+53 | Red Cross was established in- | 1863 | 1868 | 1866 | 1861 | 
+54 | Taka 10 polymer note was first introduced in Bangladesh in: | 2003 | 2002 | 2001 | 2000 | 
+55 | The only rock-mine of Bangladesh is situated in: | Bogra | Dinajpur | Thakurgaon | Rangpur | 
+56 | The first player to score 10,000 runs in T20 Cricket is- | AB de Villiers | Chris Gayle | Virat Kohli | Tamim Iqbal | 
+57 | The war strategy of Muktibahini is known as- | Mujibnagar strategy | Rajarbag strategy | Teliapara strategy | Muktifouz strategy | 
+58 | The national Jute day is on- | 5th March | 6th March | 5th April | 6th April | 
+59 | Teletalk recently launched a promotional offer for women is- | Bohnnishikha | Anannya | Aporajita | Shampurna | 
+60 | What kind of organization is NATO? | Military | Political | Social | Environmental | 
+61 | Where is the mausoleum of Bir Sreshtha Mostafa Kamal? | Akhaura, Brahmanbaria | Muksudpur, Gopalganj | Charfashion, Bhola | Bikrompur, Munshiganj | 
+62 | Which organization does regulate the EPZS of Bangladesh? | BEPZA | EPB | BB | DMRA | 
+63 | Which of the following is the largest user of gas in Bangladesh? | DESA | BPBD | Households | Fertilizer sectors | 
+64 | In which division on Bangladesh has the highest literacy rate? | Dhaka | Barisal | Chittagong | Khulna | 
+65 | Mujibnagar situated at- | Chuadanga | Nababganj | Satkhira | Meherpur | 
+66 | 21 February was declared as the International Mother Language Day by which organization? | UNESCO | UNICEF | UNIHCR | EU | 
+67 | What is the birth day of Bangabandu Sheikh Mujibur Rahman? | 10 Jan | 17 March | 10 Feb | 17 April | 
+68 | Scheduled Banks of Bangladesh are regulated under. | Bank Company Act, 1993 | Financial Instutions Act, 1993 | Financial institutions Act, 1993 | Bank Company Act, 1991 | 
+69 | When was Value added Tax (VAT) intorduced in Bangladesh? | 1991 | 1992 | 1993 | 1994 | 
+70 | In the history of Dhaka, when was it declared captial for the first time? | 1601 | 1610 | 1621 | 1630 | 
+71 | বিড়াল' রচনায় কোন যুদ্ধের ইঙ্গিত রয়েছে? | ওয়াটারলু যুদ্ধ | মুক্তিযুদ্ধ | ইরাক যুদ্ধ | পাক-ভারত যুদ্ধ | 
+72 | ‘অপর্ণা' রবীন্দ্রনাথ ঠাকুরের কোন নাটকের চরিত্র? | রক্তকরবী | ডাকঘর | বিসর্জন | মুক্তধারা | 
+73 | আমার কন্যার গহনা আমি চুরি করিব এ কথা যারা মনে করে তাদের হাতে আমি কন্যা দিতে পারি না' উক্তিটিতে কী প্রকাশ পেয়েছে? | ক্ষেপ | অভিযান | একগুয়েমি | আত্মমর্যাদাবোধ | 
+74 | দ্বিগু সমাস নিষ্পন্ন পদটি কোন পদ হয়? | বিশেষ্য | বিশেষণ | কৃদন্ত | সর্বনাম | 
+75 | সাম্য' গদ্যগ্রন্থটির রচয়িতা কে? | বঙ্কিমচন্দ্র চট্টোপাধ্যায় | বিভূতিভূষণ বন্দ্যোপাধ্যায় | তারাশঙ্কর বন্দ্যোপাধ্যায় | মানিক বন্দ্যোপাধ্যায় | 
+76 | কোন সমাসে ব্যাসবাক্য হয় না? | প্রাদি সমাস | নিত্য সমাস | দ্বন্দ্ব সমাস | অলুক সমাস | 
+77 | রবীন্দ্রনাথের মতে, কারা দুঃখ-সুখে নতশিরে শুদ্ধ থাকে? | উপেক্ষিত মানুষেরা | তোষামুদে মানুষেরা | দুর্বলচিত্তের মানুষেরা | সবকটি | 
+78 | আজ বাংলাদেশ বনাম শ্রীলঙ্কার খেলা' এই বাক্যটিতে কোন ধরনের অনুসর্গের ব্যবহার করা হয়েছে? | সংস্কৃত অনুসর্গ | বিবর্তিত অনুসর্গ | ফারসি অনুসর্গ - | ক্রিয়াজাত অনুসর্গ | 
+79 | কুর্নিশ' শব্দটি ব্যবহৃত হয়েছে কোন গল্পে? | অপরিচিতা | চাষার দুক্ষ | আমার পথ | জীবন ও বৃক্ষ | 
+80 | ভাষা-প্রকাশ বাঙ্গালা ব্যাকরণ' গ্রন্থটির রচয়িতা কে? | হরপ্রসাদ শাস্ত্রী | ড. মুহম্মদ শহীদুল্লাহ | ড. সুনীতিকুমার চট্টোপাধ্যায় | আব্দুল হাই | 
+81 | বিভীষণের প্রতি মেঘনাদ' কবিতাটি মাইকেল মধুসূদন দত্তের মেঘনাদবধ কাব্যের কোন সর্গ থেকে নেওয়া হয়েছে? | অভিষেকো | বধো | অস্ত্রলাভো | সংক্ৰিয়া | 
+82 | শিখর' শব্দটির সমার্থক শব্দ কোনটি? | পানি | পর্বত | শীর্ষদেশ | পাদদেশ | 
+83 | আহ্বান' শব্দটির শুদ্ধ উচ্চারণ কোনটি? | আহ্বান | আহো্ববান | আহোবান | আওভান্ | 
+84 | Corrigendum' এর বাংলা পরিভাষা- | শুদ্ধিপত্র | অনুরোধপত্র | পুনঃবিজ্ঞাপন | পুনর্বিন্যাস | 
+85 | এক কথায় প্রকাশ কর- 'যিনি বিদ্যা লাভ করেছেন'। | বিদ্যার্থী | কৃতবিদ্যা | কৃতবিদ্য | বিদ্যাদর্শী | 
+86 | কাজী নজরুল ইসলামের প্রথম প্রকাশিত গ্রন্থের নাম কী ? | সঞ্চয়িতা | ব্যথার দান | বাউণ্ডুলের আত্মকাহিনী | বিদ্রোহী | 
+87 | নিচের কোনটি মাইকেল মধুসূদন দত্ত রচিত নাটক? | কৃষ্ণকুমারী | বসন্তকুমারী | নীলদর্পণ | জমিদার দর্পণ | 
+88 | ভোটাধিকার' কোন সমাস? | বহুব্রীহি | কর্মধারয় | তৎপুরুষ | দ্বন্দ | 
+89 | প্রাগৈতিহাসিক' গল্পটির রচয়িতা কে? | রবীন্দ্রনাথ ঠাকুর | বিভূতিভূষণ বন্দ্যোপাধ্যায় | মানিক বন্দ্যোপাধ্যায় | তারাশঙ্কর বন্দ্যোপাধ্যায় | 
+90 | জাদু' শব্দটি কোন ভাষার? | আরবি | ফারসি | উর্দু | হিন্দি | 
+91 | ‘অরুণরাঙা' কোন সমাসের উদাহরণ? | উপমান কর্মধারয় | উপমিত কর্মধারয় | রূপক কর্মধারয় | উপপদ তৎপুরুষ | 
+92 | জটিল কিংবা যৌগিক বাক্যের ক্ষেত্রে ব্যবহৃত হয়- | কমা | সেমিকোলন | কোলন | হাইফেন | 
+93 | সুকান্ত ভট্টাচার্য সম্পাদিত কাব্যগ্রন্থ কোনটি ? | ঘুম নেই | ছাড়পত্র | পূর্বাভাস | আকাল | 
+94 | দুধভাতে উৎপাত' গল্পগ্রন্থের রচয়িতা কে? | শওকত ওসমান | আখতারুজ্জামান ইলিয়াস | কাজী নজরুল ইসলাম | হাসান আজিজুল হক | 
+95 | কোনটি নিত্য স্ত্রীবাচক শব্দ? | নাটিকা | অর্ধাঙ্গিনী | বিজয়িনী | বেগম | 
+96 | সম্মার্জনা' শব্দের অর্থ কী? | সম্মান করা | সম্মাননা | মেজে ঘষে পরিষ্কার করা | সম্মান প্রদর্শন করা | 
+97 | বাঁশি' অর্থানুসারে কোন শ্রেণির শব্দ? | যৌগিক শব্দ | যোগরূঢ় শব্দ | রূঢ়ি শব্দ | মৌলিক শব্দ | 
+98 | খাতক' শব্দটির বিপরীতার্থক শব্দ কোনটি? | অবিচল | মহাজন | সাকার | নিষ্ঠুর | 
+99 | সৈনিক' শব্দের প্রকৃতি-প্রত্যয় নির্ণয় কর : | সেনা + য়িক | সৈন্য + ইক | সেনা + ইক | সৈন্য + য়িক | 
+100 | লালসালু' উপন্যাসের কোন চরিত্রটি সন্তান ধারণের উদ্দেশ্যে পীর সাহেবের নিকট থেকে পানিপড়া খেতে চায় ? | আমেনা | রহিমা | জমিলা | তানু বিবি | 
