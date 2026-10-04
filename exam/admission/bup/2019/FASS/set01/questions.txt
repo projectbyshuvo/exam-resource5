@@ -1,0 +1,100 @@
+1 | 'আমি কিংবদন্তির কথা বলছি" এর লেখক কে? | শামসুর রাহমান | সুকান্ত ভট্টাচার্য | আবু জাফর ওবায়দুল্লাহ্ | হাসান হাফিজুর রহমান |  | 
+2 | ' অগ্নি 'এর সমর্থক শব্দ নয় কোনটি? | পাবক | অনল | অলক | শিখা |  | 
+3 | বাংলা ভাষার উৎপত্তি হয়েছে কোন ভাষা থেকে? | পালি | হিন্দি | প্রাকৃত | আসামী |  | 
+4 | সর্বপ্রথম বাংলা ব্যাকরণ রচনা করেন কে? | ড. মুহম্মদ শহীদুল্লাহ্ | ড. সুনীতিকুমার | ন্যাথানিয়েল ব্রাসি হেলহেড | মন্যুয়েল দ্য আসসুম্পসাও |  | 
+5 | কোন শব্দটির পুরুষবাচক হয় না? | বিধবা | পাগল | বুদ্ধিমান | সতী |  | 
+6 | ' সাপের চামড়া 'কে এক কথায় বলে? | অজিন | নির্মোক | শাবক | নির্বোধ |  | 
+7 | ' রাজ্ঞী 'শব্দের সন্ধিবিচ্ছেদ কোনটি? | রাজ + নী | রজী + নী | রাজ + নী | রাজ + নি |  | 
+8 | ‘ এক হাতে তালি বাজে না' এর ঠিক ইংরেজি অনুবাদ কোনটি? | It take two to make a quarrel | It takes two to make quarrel | I have taken two to making quarrel | None of these |  | 
+9 | কাজী নজরুল ইসলাম কোন কবিতা লেখার জন্য কারাবরণ করেছিলেন? | মা | সংগ্ৰাম | রণসঙ্গীত | আনন্দময়ীর আগমনে |  | 
+10 | নিচের কোন বানানটি ঠিক? | দুরবস্থা | দূরঃবস্থা | দুরাবস্থা | দুরাবস্থা |  | 
+11 | কি বললে আমি পাগল 'বাক্যটিতে ঠিক বিরামচিহ্নের ব্যবহার হবে- | কি বললে! -আমি পাগল। | কি বললে, আমি পাগল। | কি বললে? আমি পাগল? | কি বললে, আমি পাগল? |  | 
+12 | ' ক থেকে ড 'পর্যন্ত বর্ণ কয়টি? | ২৩ টি | ২৪ টি | ২৫ টি | ২৬ টি |  | 
+13 | বাংলা ভাষার মৌলিক স্বরধ্বনি কয়টি? | ৮ টি | ৯ টি | ১০ টি | ৭ টি |  | 
+14 | ইচ্ছা'র বিশেষণ নিচের কোনটি? | ইচ্ছা | ঐচ্ছিক | ইচ্ছামূলক | কোনোটিই নয়। |  | 
+15 | যুক্তবর্ণ 'ষ্ণ' এর জন্য কোনটি ঠিক? | ষ + ণ | ষ্ণ+ন | ঞ+ণ | ঞ+ন |  | 
+16 | 'বাবা' কোন ভাষার শব্দ? | ফরাসি | আরবি | তুর্কি | পর্তুগিজ |  | 
+17 | 'মনস্তাপ' এর সন্ধিবিচ্ছেদ কোনটি? | মনোঃ + তাপ | মন + তাপ | মনঃ + তাপ | মনো + তাপ |  | 
+18 | বাক্যের মধ্যে ব্যবহৃত অর্থবোধক প্রতিটি শব্দকে বলা হয় -- | রূপ | বাক্যাংশ | পদ | শব্দাংশ |  | 
+19 | সমাসবদ্ধ পদকে কী বলে? | সমস্তপদ | সমস্যমান পদ | পূর্বপদ | ব্যাসবাক্য |  | 
+20 | 'জজসাহেব' কোন ধরনের সমাস? | দ্বিগু সমাস | কর্মধারয় সমাস | বহুব্রীহি সমাস | নঞ তৎপুরুষ সমাস |  | 
+21 | মৌলিক শব্দ কোনটি? | গোলাপ | আষাঢ় | পরীক্ষা | শিক্ষক |  | 
+22 | 'নৌকা ঘাটে বাধা আছে' কোন কারকে কোন বিভক্তি? | অপাদানে শূন্য | অপাদানে সপ্তমী | অধিকরণে শূন্য | অধিকরণে সপ্তমী |  | 
+23 | ' উদাসীন পথিকের মনের কথা 'গ্রন্থটির লেখক কে? | বঙ্কিমচন্দ্র চট্টোপাধ্যায় | মীর মশাররফ হোসেন | কাজী নজরুল ইসলাম | আলাউদ্দিন আল আজাদ |  | 
+24 | ' The girl is as beautiful as intelligent ' এর সঠিক বাংলা অনুবাদ কি? | মেয়েটি সুন্দর ও বুদ্ধিমতী | মেয়েটি যেমন সুন্দর তেমন বুদ্ধিমতী | মেয়েটি সুন্দর এবং বুদ্ধিমতী | মেয়েটি সুন্দর অথবা বুদ্ধিমতী |  | 
+25 | নিচের কোন বাগধারাটি বিপরীত অর্থে ব্যবহৃত হয়েছে? | আদায়-কাঁচকলায় | দা-কুমড়ো | আকাশ-পাতাল | সাপে-নেউলে |  | 
+26 | বাক্যের অর্থসঙ্গতি ঠিক রাখার জন্য কোনটি দরকার? | আকাঙ্ক্ষা | আসত্তি | যোগ্যতা | কোনোটিই নয় |  | 
+27 | জয় করা হয়েছে এমন- | জয়ী | বিজয়ী | বিজিত | জিজ্ঞাসা |  | 
+28 | 'অনন্ত' এর বিপরীত শব্দ কোনটি? | শান্ত | অন্ত | সান্ত | নিরস্ত |  | 
+29 | যে জমিতে ফসল জন্মায় না- | পতিত | অনুর্বর | বন্ধ্যা | ঊষর |  | 
+30 | যে সন্ধি ব্যাকরণের নিয়ম মনে না তাকে বলা হয়- | ব্যঞ্জনসন্ধি | স্বরসন্ধি | মিশ্রসন্ধি | নিপাতনে সিদ্ধ |  | 
+31 | He was born --- February. | in | on | with | to |  | 
+32 | Which of the following spelling is correct? | Miscellaneous | Miscelleneous | Miscellaneus | Misscellaneous |  | 
+33 | Remedy is way out means- | extremly unconventional | conventional | unconvenntional | None |  | 
+34 | Everybody hates a liar (interrogative) | Every body loves a liar? | Every body lives a liar? | Who does not hate a liar? | Who does not hates a liar? |  | 
+35 | I told him, what is your name? Which of the following is correct? | I asked him, what his name is? | I asked him, what his name was. | I told him, what his name were. | I told him, what was his name. |  | 
+36 | 'I must do it' make it Negative | I do not do it | I can not help doing it | I can not but doing it | I can not do it |  | 
+37 | You --- a pronoun | is | are | will | shall |  | 
+38 | Which of the following sentence is correct? | Two and two make four. | Two and two makes four | Two and two making four. | Two and will make four |  | 
+39 | You, I and he are present. The correct sentence is - | You, I and He are present | You, he and I are present | I, you and He are present | None of these |  | 
+40 | Maiden Speech means | last speech | first speech | middle speech | None of these |  | 
+41 | The synonym of magnanimous is- | Generous | Petty | stingy | weak |  | 
+42 | Seamstress: Scissors | Stenographer: Typewriter | Painter: brush | Lawyer: brief | Carpenter: saw |  | 
+43 | It is you who --- to blame. | likes | were | is | are |  | 
+44 | He is --- M.A. | a | an | (A + B) | No article |  | 
+45 | 'Enough is Enough' means- | No more will be tolerated | Maximum | minimum | None |  | 
+46 | I want to buy ---- Piano but I could not play ---- piano. | a, a | a, no article | No article, a | the, a |  | 
+47 | 'To read between the line' means- | To read every word | To read full sentence | To grasp hidden meaning | None |  | 
+48 | আমার লেখার জন্য কোন কলম নাই। (Translation) | I have no pen to write with. | I have no pen to writing. | I have no pen to write | I have no pen to written. |  | 
+49 | Antonym of 'Transitory' | Permanent | Transient | Momentary | Temporary |  | 
+50 | Which of the following sentence is correct? | Ten miles are a long way | Ten miles is a long way | Ten miles is a lang way | Ten miles is a long way |  | 
+51 | He is --- school since monday | absent from | Present | absent | come |  | 
+52 | He confessed to- | steal | steals | stole | stealing |  | 
+53 | Who is the writer of The Marchant of Venice? | Charles Dickens | Daniel Defoe | Charles Darwin | William Shakespeare |  | 
+54 | Who is the writer of Robinson Crusoe? | William shakespeare | Daniel Defoe | Charles Dickens | Jane Austin |  | 
+55 | 'Bee in your bonet' means- | an upper hand | Dislike | conformity | Indifference |  | 
+56 | I wish I had wings of a bird (Assertive) | If I had a wings of a bird | Would that I could have wings of a bird | Would I have wings of a bird. | None |  | 
+57 | A bolt from the ----. | blue | fine | storm | None |  | 
+58 | The moon gives-shines. | her | it | its | it's |  | 
+59 | ---- Shrabani was tired, She continued to study. | If | Because | As | Although |  | 
+60 | He enjoys his job --- low salary | Althogh | Though | since | Despite |  | 
+61 | She'd not ---- to drive at night. | Want | Can | Loves | Prefer |  | 
+62 | I have a plan ---- it is bad weather. | however | despite | Although | None |  | 
+63 | The word passive implies--- | humble | law-abiding | liberal | submissive |  | 
+64 | 'Panacea' means- | Widespread disase | I land | Fresh | Cure all |  | 
+65 | He divided the money --- the two children. | among | between | in between | over |  | 
+66 | Smoking is addictive ---- expensive. | as well | well | as well as | well as |  | 
+67 | One should be careful about ---- duty. | his | her | one's | the |  | 
+68 | Who is calling me? (Voice change) | By whom am I called? | By whom I am called? | By whom am I being called? | Whom am I called by? |  | 
+69 | The word 'florid' indicates | Flon | foliage | floor | flower |  | 
+70 | Identity the antonym for 'superficial' | Careless | Indifferent | Sufficient | Deep |  | 
+71 | 2-6118-5413-91 What will appropriate for these gap? | 2 | 3 | 15 | 6 |  | 
+72 | 1, 2, 5, 9, 16 ... What is the next number? | 18 | 24 | 33 | 32 |  | 
+73 | What is the normal temperature of Human body? | 36.9 ° C | 36.02 ° C | 35.09 ° C | 98.04 ° C |  | 
+74 | Who was the architech of National Memorial? | Moinul Huq | Mainul Hossain | Hamidur Rahman | Hamiduzzaman |  | 
+75 | Who was the finance minister of Mujibnagar government? | Sheikh Mujibur Rahman | Syed Nazrul Islam | Tajuddin Ahmad | Mansur Ali |  | 
+76 | Which is Called the lungs of the earth? | Taiga | Amazon | Pacific Ocean | Atlantic Ocean |  | 
+77 | What is the biggest Island of the World? | Africa | New guiena | Greenland | Madagascar |  | 
+78 | When was first national flag hoisted? | 10 April, 1971 | 17 April, 1971 | 26 March, 1971 | 2 March, 1971 |  | 
+79 | The publishing year of Bangabandhu's Auto-Biography- | 2010 | 2012 | 2015 | 2018 |  | 
+80 | What is the capital of Fiji? | Lisbon | Baku | Suva | Welington |  | 
+81 | When was the WTO formed? | 1 January, 1994 | 1 January, 1995 | 1 June, 1994 | 1 June, 1995 |  | 
+82 | Who is the FIFA- 2021 best Player of the year? | Ronaldo | Lewandowski | Pogba | Naymar |  | 
+83 | Who invented electricity? | Adison | Alexander Grahambel | Benjamin Fnanklyn | Marconi |  | 
+84 | How many city corporation are there is Bangladesh? | 10 | 11 | 12 | 15 |  | 
+85 | Which foreign citizen took part in the Liberation war of Bangladesh? | Silvio Barlusconi | W. S. Wader land | Ravishankar | Alan Ginsberg |  | 
+86 | Who was the captain of Bangladash team in the opening test match? | Habibul Bashar | Mashrafe bin Mortuza | Naimur Rahman Durjoy | Aminul Hoq |  | 
+87 | What is the full form of BIRDEM? | Bangladesh institute of Research and Rehabilitation for Diabetes, Endocrine and Metabolic Disorders | Bangabandhu institute of Research and Rehabili tatiun for Diabetes, Endocrine and Metabolic disorders | Bangladesh institute of Rehabililitation for Diabetes Endocrire and Metabolic Disrders. | Bangobandhu institute of Rehabilitation for Diabetes Endocrire and Metabolic Disorders. |  | 
+88 | Which layer of of atmosphere contains the ozone layer? | Mesosphere | Stratosphere | Troposphere | Thermosphere |  | 
+89 | Who got the Nobel peace prize- 2019? | Abiy Ahmed Ali | Jawar Mohammed | Lemma Megersa | Zinash Tayachew | Nobel peace prize 2022 got jointly Ales Bialiatski, Memorial and Center for Civil Liberties. | 
+90 | The first enemy free district of Bangladesh? | Dhaka | Chattogram | Jashore | Khulna |  | 
+91 | Which country will host Olympic-2020? | Russia | USA | UK | Japan |  | 
+92 | When was the Gitanzali first published? | 1910 | 1913 | 1905 | 1920 |  | 
+93 | Which sector was the Neval sector during the liberation war of Bangladesh? | 11 | 9 | 10 | 8 |  | 
+94 | How many reserved seat in the Parliament for Women? | 45 | 30 | 100 | 50 |  | 
+95 | Which planet is Closest to the Sun? | Marcury | Earth | Gupiter | Venus |  | 
+96 | What is the acceptable level of Arsenic? | 0.05 | 0.01 | 0.1 | 0.5 |  | 
+97 | Who introduced the Bangali year? | Shahjahan | Akbar | Babur | Humayun |  | 
+98 | Who was the director of Jibon Theke Neya? | Alamgir Kabir | Jahir Rayhan | Nashir Uddin Yousuf | Daniel Defoe |  | 
+99 | A is in the right, then in left what should be his position now? | South | North | Top | Bottom |  | 
+100 | Grand Central Terminal, Park Avenue, New York is the world's | largest railway station | highest railway station | longest railway station | None of the above |  | 

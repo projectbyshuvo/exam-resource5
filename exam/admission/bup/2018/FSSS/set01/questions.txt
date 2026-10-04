@@ -1,0 +1,100 @@
+1 | ট্রয় নগরী কোথায় অবস্থিত? | মিশর | তুরস্কে | গ্রিসে | ইতালিতে |  | 
+2 | বাংলা ভাষায় 'চলিত রীতি'র প্রবর্তন করেন কে? | রাজা রামমোহন রায় | প্রমথ চৌধুরী | ঈশ্বরচন্দ্র বিদ্যাসাগর | রবীন্দ্রনাথ ঠাকুর |  | 
+3 | ভাষার মূল উপাদান কী? | অক্ষর | ধ্বনি | বর্ণ | শব্দ |  | 
+4 | শরৎচন্দ্র চট্টোপাধ্যায়ের প্রথম উপন্যাস নিচের কোনটি? | বিন্দুর ছেলে | রামের সুমতি | বৈকুণ্ঠের উইল | বড়দিদি |  | 
+5 | চর্যাপদের আবিষ্কারক কে? | বড় চন্ডীদাস | কাহ্নপা | লুইপা | হরপ্রসাদ শাস্ত্রী। |  | 
+6 | অমিত্রাক্ষর ছন্দের প্রবর্তক বলা হয় কাকে? | সত্যেন্দ্রনাথ দত্ত | মাইকেল মধুসূদন দত্ত | জীবনানন্দ দাশ | কাজী নজরুল ইসলাম |  | 
+7 | শেষের কবিতা' কোন ধরনের রচনা? | কবিতা | গল্প | উপন্যাস | নাটক |  | 
+8 | নিচের কোন বানানটি শুদ্ধ? | সান্ত্বনা | সান্তনা | শান্তনা | সান্ত্বণা |  | 
+9 | সংস্কৃতি' শব্দের সঠিক সন্ধিবিচ্ছেদ কোনটি? | সং + কৃতি | সম্ + কৃতি | সং + স্মৃতি | সম্ + স্কৃতি |  | 
+10 | জিজ্ঞাসিব জনে জনে' কোন কারক? | সম্প্রদান কারক | কর্ম কারক | কর্তৃকারক | অপাদান কারক |  | 
+11 | ‘উপশহর' শব্দটি কোন সমাস? | দ্বন্দ্ব | দ্বিগু | অব্যয়ীভাব | কর্মধারয় |  | 
+12 | ‘বদমেজাজ’ কোন জাতীয় শব্দ? | বিদেশি উপসর্গ যোগে গঠিত শব্দ | দেশি শব্দ | তৎসম শব্দ | অর্ধ-তৎসম শব্দ |  | 
+13 | ‘লালসালু উপন্যাসের লেখক সৈয়দ ওয়ালীউল্লাহ্ কত সালে জন্মগ্রহণ করেন? | ১৯২০ | ১৯৩০ | ১৯২২ | ১৯৪০ |  | 
+14 | রেইনকোট' গল্পে পিয়নের নাম কি? | নুরুলহুদা | ইসহাক মিয়া | ইলিয়াস | জমিরউদ্দিন |  | 
+15 | ‘একাদশে বৃহস্পতি' বাগধারাটির অর্থ- | অসম্ভব বস্তু | সুসময় | দুঃসময় | গ্রহের ফের |  | 
+16 | ‘অর্নব' এর সমার্থক শব্দ কোনটি? | নদী | সিন্ধু | পর্বত | তটিনী |  | 
+17 | ধাতু'র আরেক নাম- | সিদ্ধধাতু | ক্রিয়া প্রকৃতি | মৌলিক ধাতু | ক্রিয়া |  | 
+18 | বাক্যতত্ত্বের অপর নাম কী? | শব্দক্রম | ধ্বনিক্রম | পদক্রম | অর্থক্রম |  | 
+19 | বুদ্ধির মুক্তি' আন্দোলনের অন্যতম অগ্রনায়ক ছিলেন? | মোতাহের হোসেন চৌধুরী | মুনীর চৌধুরী | প্রমথ চৌধুরী | আহমদ শরীফ |  | 
+20 | ‘শরীর > শরীল' এটি কোন ধরণের ধ্বনি পরিবর্তনের উদাহরণ? | সমীভবণ | সম্প্রকর্ষ | ব্যঞ্জণচ্যুতি | বিষমীভবন |  | 
+21 | ‘বায়ান্নর দিনগুলি' রচনাটিতে শেখ মুজিবুর রহমানের অনশন ভাঙায় কে? | মহিউদ্দিন আহমেদ | ডাক্তার | খয়রাত হোসেন | মোশতাক আহমদ |  | 
+22 | ইন্দ্রকে জয় করেছে যে এর এককথায় প্রকাশ হলো- | ঐন্দ্রজালিক | খজিতেন্দ্রিয় | ইন্দ্রিয় জিৎ | ইন্দ্ৰজিৎ |  | 
+23 | জলধি' কী ধরণের শব্দ? | যোগরূঢ় | রূঢ়ি | যৌগিক | প্রতিশব্দ |  | 
+24 | বাংলা ভাষায় মৌলিক স্বরধ্বনির সংখ্যা কত? | ৭টি | ৯টি | ১১টি | ১৩টি |  | 
+25 | কোন সালে কবি কাজী নজরুল ইসলামকে বাংলাদেশের নাগরিকত্ব দেওয়া হয়? | ১৯৭২ | ১৯৭৩ | ১৯৭৪ | ১৯৭৬ |  | 
+26 | ‘তেইশ নম্বর তৈলচিত্র' কী? | উপন্যাস | চিত্রকর্ম | চলচ্চিত্র | নাটক |  | 
+27 | ‘গর্ভধারিণী' কার লেখা? | সমরেশ মজুমদার | বেগম রোকেয়া | কাজী নজরুল ইসলাম | জসীমউদ্দীন |  | 
+28 | ‘লাপাত্তা' শব্দের ‘লা’ কোন উপসর্গ? | আরবি | ফারসি | সংস্কৃত | বাংলা |  | 
+29 | রবীন্দ্রনাথ ঠাকুর নজরুলকে কোন নাটকটি উৎসর্গ করেন? | ডাকঘর | বসন্ত | তাসের দেশ | শেষের কবিতা |  | 
+30 | ‘অতঃপর কবি এসে জনতার মঞ্চে দাঁড়ালেন - কার লেখা? | রবীন্দ্রনাথ ঠাকুর | সুফিয়া কামাল | নির্মলেন্দু গুণ | সুকান্ত ভট্টাচার্য |  | 
+31 | How many stars are there in the monogram of Bangladesh. | 4 | 5 | 3 | 2 |  | 
+32 | Men and Women are equal' which Article of our Constitution refer it? | Ar-17 | Ar-26 | Ar-27 | Ar-28 |  | 
+33 | When did Mujib Nagar government formed? | 10 April | 17 April | 26 March | 16 December |  | 
+34 | Which is the third sea port of Bangladesh- | Cox's Bazar | Kutubdia | Sonadia | Payra |  | 
+35 | Which is the world's most importing country? | USA | UK | Germany | China |  | 
+36 | Which is the tallest Idol in the world? | Statue of Unity | Statue of liberty | Ushiku Daibutsu | None |  | 
+37 | First captain of Bangladesh Test Cricket team was- | Naimur Rahman Durjoy | Akram Khan | Aminul Islam Bulbul | Khaled Masud |  | 
+38 | How many district of Bangladesh have direct border with India - | 30 | 31 | 32 | 35 |  | 
+39 | Which of the following districts connected with Padma Major Bridge- | Munshiganj,Shariatpur | Vola, Shariatpur | Madaripur, Vola | Shariatpur, Faridpur |  | 
+40 | The 2023 BRICS summit where held in- | Johanneshburg | Chennai | Calcutta | New Delhi |  | 
+41 | Which of the following countries constitute UK? | England, Scotland, N. Ireland | England, N. Ireland, Norway | England, Scotland, Greenland | England, N. Ireland, Iceland |  | 
+42 | What is the previous name of 'Barishal' | Chandradeep | Sudharam | Suvarna Gram | Bikrampur |  | 
+43 | The Head Quarter of Common Wealth is Situated at- | India | UK | China | USA |  | 
+44 | Who is the current Prime Minister of Pakistan? | Nawaj Sharet | Bilwal Bhuttu | Asif Raja Jhardari | Anwar ul Haq |  | 
+45 | Sikha Chironton' located at- | Suhrawardy Udyan | Dhaka Cant | National monument | None |  | 
+46 | Who is the first Female Major General in Bangladesh? | H.M. Ershad | Jiaur Rahman | M.A.G Osmani | Dr. Susane Giti |  | 
+47 | Who called poet of beauty? | Keats | Shelly | Stableman | Dickens |  | 
+48 | Jamal Khashoggi was the citizen of- | USA | UK | KSA | UAE |  | 
+49 | The current total population in Bangladesh is- | 169.83 million | 166.6 million | 150.06 million | 144.08 million |  | 
+50 | Who got Nobel Peace Prize in 2022? | Centre for Civil Liberties | Ales Bialiatski | Memorial | All of the above |  | 
+51 | How many metropolitan area in Bangladesh? | 6 | 7 | 11 | 9 |  | 
+52 | Statue of Democracy' is located in- | USA | UK | Japan | Hong Kong |  | 
+53 | Who is called daughter of the East? | Benozir Bhutto | Aung san soo-chi | Indra Gandhi | Sheikh Hasina |  | 
+54 | Who is the current UN Secretary General? | Antonio Guterres | Ban ki moon | Angus Deaton | Uthand |  | 
+55 | In 100th test match Bangladesh team defeated- | India | Afghanistan | Sri lanka | Pakistan |  | 
+56 | Who is the First Female Judge in India? | Kalpona devi | Momota Bashu | Protive patil | Fatima Bibi |  | 
+57 | When did Bangladesh first discover natural gas? | 1959 | 1955 | 1957 | 1905 |  | 
+58 | When was the national flag hoisted in first time? | March 2,1971 | March 3,1971 | December 16,1971 | March 26,1971 |  | 
+59 | Which of the following country organised FIFA-2022 World Cup? | France | Qatar | Russia | USA |  | 
+60 | Boropukuria' is situated in- | Sylhet | Dinajpur | Rangpur | Meherpur |  | 
+61 | Which one is plural? | New | News | Media | None |  | 
+62 | Who is not a Victorin Poet? | Mathew Arnold | Alexander Pope | Robert Browning | Altred Tennyson |  | 
+63 | ‘Othello’ was written by Shakespeare based on- | Moro | king | Actor | None |  | 
+64 | She________ up her job | has given | had closed | has terminated | has nesigned |  | 
+65 | Which of the following is correct spelling? | Colonel | Connel | Colonnel | Cornele |  | 
+66 | He is trying to give up smoking, _________? | isn't he | is he | won't he | will he |  | 
+67 | Never tell a lie (Change the voice) | Let a lie never be told. | Let not a lie ever be told | Let never lie told | Let not ever be told |  | 
+68 | Which is the correct spelling? | Lieutenant | liftenant | lieyoutanant | lieuteanant |  | 
+69 | Choose the antonym of 'Plaintiff'- | Compainant | Defendant | Sorrowtul | Witress |  | 
+70 | Which one is a correct sentence? | Paper is made of wood | Paper is made from wood | Paper is made by wood | Paper is made on wood |  | 
+71 | You must ___________of Helen keller? | hear | heard | have heard | hearing |  | 
+72 | One of the four sentences, given below is grammatically wrong. Choose the wrong sentence : | The land is belonged to an old lady | They parted from one another suddenly | The leader expressed himself forcibly. | Mother bought me an ice-cream. |  | 
+73 | Cricket enjoys a huge__________ in Bangladesh. | follow on | fallout | follow | following |  | 
+74 | Father said to me, "Do not go there"? | Father told me that I should not go there | Father forbade me not to go there | Father forbade me to go there | None of these |  | 
+75 | He is devoid_________ common sense. | of | from | introduction | at |  | 
+76 | Tiger: Zoology :: Mars:_-------- | Astrology | Cryptology | Astronomy | Teles copy |  | 
+77 | End in smoke' means- | Come to nothing | Catch fire | imagine | Stop smoking |  | 
+78 | The word 'omnivorous' means- | eating all types of food | eating grays and plants only | eating only meat | eating only fruits |  | 
+79 | What is the antonym of Humorous? | Boring | Amusing | Funny | Comic |  | 
+80 | Era has been ill ________ three months. | Since | about | in | for |  | 
+81 | The verb form of 'father' is- | fatherly | fatherhood | father | none |  | 
+82 | If he has time, he___________ us next friday? | visits | will have visited | visited | will visit |  | 
+83 | He had a ________ of fever. | Severe attack | Strong attack | bad attack | Serious attack |  | 
+84 | Choose the correct sentence- | I do not need many furnitures | I need a few furnitures | I do not need some furniture | I need some furniture |  | 
+85 | The synonym of 'franchise' is- | Frankness | Privillege | Utility | Frence |  | 
+86 | The victorian period of English literature- | 1837-1901 | 1830-1870 | 1750-1800 | 1910-1950 |  | 
+87 | Do you know when__________? | the class starts | does the class start | will the class start | is the class |  | 
+88 | The verb 'Succumb' means- | achive | submit | win | conquer |  | 
+89 | The parcel____________ tomorrow | will be delivered | will deliver | will be delivering | will have delivery |  | 
+90 | It_________five days since he missing. | was, has been | was, was | has been, went | has been, is |  | 
+91 | An antonym of 'Precursor' is- | Pioneer | Predecessor | forerunner | Successor |  | 
+92 | The antonym for 'inimical'- | hostile | friendly | indifferent | angny |  | 
+93 | What is the female gender of Stallion? | Bull | Doe | Mare | Cow |  | 
+94 | The adjective of the word 'mountain' is- | mountic | mounting | mountainous | mountainly |  | 
+95 | _________there any nursing schools_______ Dinajpur? | Is, at | Are, on | Was, in | Are, in |  | 
+96 | The synonym for 'Nepotism'___________ | Terrorism | Disposition | reatness | Favouritism |  | 
+97 | Professor Razzak was a scholar______repute. | in | of | after | by |  | 
+98 | An 'apple of discord' means- | a beautiful object | an object of dispute | a favorite thing | a delicious fruit |  | 
+99 | My elder brother is______________ M.A | a | an | none | the |  | 
+100 | আমি আম পছন্দ করি। | I like mango | I would like a mango | I like mangoes | I like the mango |  | 

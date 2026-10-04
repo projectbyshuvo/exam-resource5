@@ -1,0 +1,80 @@
+1 | which has the similar meaning of the word in CAPITAL. TAMPER- | Assist | Interfere | Intimidate | None of these |  | 
+2 | which has the similar meaning of the word in CAPITAL. REPERCUSSION- | Reaction | Restitution | Resistance | Repression |  | 
+3 | which has the similar meaning of the word in CAPITAL. PARTISAN- | Biased | Divided | Particular | Dissident |  | 
+4 | which has the similar meaning of the word in CAPITAL. RESENTMENT- | Fear | Pleasant | Indignation | Panic |  | 
+5 | which has the similar meaning of the word in CAPITAL. PERVASIVE- | Invasive | Residing | Omnipresent | Insidious |  | 
+6 | which has the similar meaning of the word in CAPITAL. ANARCHY- | Era | Partner | Disorder | Spike |  | 
+7 | which has the similar meaning of the word in CAPITAL. THRIVE- | Economical | Pensive | Prosper | Passion |  | 
+8 | which has the similar meaning of the word in CAPITAL. ENCOUNTER- | Concord | Battle | Harmony | Part |  | 
+9 | which has the similar meaning of the word in CAPITAL. ACUMEN- | Keenness | Brilliance | Swiftness | Greediness |  | 
+10 | which has the similar meaning of the word in CAPITAL. PENSIVE- | Thoughtful | Cheerful | Confused | Depressed |  | 
+11 | Sentence Correction After several days' tour, we become convinced that the climate of this deserted island was like Florida in winter. | the climate of this deserted island was like Florida in winter. | the climate of this deserted island was like that of Florida in winter. | the climate of this desert island was like Florida in winter | the climate of this deserted island in winter was like Florida. |  | 
+12 | Sentence Correction If he would have worked harder, he could have gone to the theatre. | If he would have worked | If he worked | If he had worked | after working |  | 
+13 | Sentence Correction If the parent would have shown more interest, the daughterwould have been in college today. | If the parent would have shown more interest | If the parent would had shown more interest | If the parent would have showed more interest | If the parent would have showing more interest |  | 
+14 | Sentence Correction The CEO of Delta phone interviewed several candidates who she thought had the experience and qualifications the position required. | whom she thought | who she thought | which she thought | she thought who |  | 
+15 | Sentence Correction To strive, to seek, to find, and yielding are the heroic Goals of Ulysses in Tennyson's famous poem. | To strive, to seek, to find, and yielding | To strive, to seek, to find, and to yield | To strive, to seek, to find, and not to yield | To strive, to seek, to find, and yet to yield |  | 
+16 | Sentence Correction Economic conditions of the country demand that we areonly cut wages and prices but also reduce inflation-raise tax rates. | that we not only cut wages and prices but also reduce | not only cutting wages and prices but also to reduce | not only to cut wages and prices but also to reduce | not only a cut in wages and prices but also reducing |  | 
+17 | Sentence Correction When the police arrived, the criminal have already escaped. | the criminal has already | The criminal were already | the criminal had already | the criminal was already |  | 
+18 | Sentence Correction The smoking of cigarettes being equally injurious to nonsmokers is rapidly becoming a major concern of public health officials. | The smoking of cigarettes being equally injurious to nonsmokers is | Cigarette smoking being equally injurious to nonsmokers is | The fact that cigarette smoking is equally injurious to nonsmokers are | The fact that cigarettes smoking is equally injurious to nonsmokers is |  | 
+19 | Sentence Correction The teacher distributed answer sheet between the studentsof the class. | The teacher distributed answer sheets between | The teacher distributed answer sheets among | The teacher distributed answer sheets in | The teacher had distributed answer sheets between |  | 
+20 | Sentence Correction If any student has a question, they should raise their handand ask. | they should raise their hand and ask. | he should raise this hand and ask. | they should raise their hands and ask. | he should raise his hands and ask. |  | 
+21 | which one has an opposite meaning of the word in CAPITAL INSTIGATE- | Inhibit | Waive | Random Choice | presume |  | 
+22 | which one has an opposite meaning of the word in CAPITAL ﻿ CONTAMINATION | Miserliness | Purification | Forgetfulness | Prejudice |  | 
+23 | which one has an opposite meaning of the word in CAPITAL ﻿ PEAKED- | Tired | Ruddy | Pointy | None of the above |  | 
+24 | which one has an opposite meaning of the word in CAPITAL ﻿ CONCORD- | Harmony | Thrifty | Subtle | Conflict |  | 
+25 | which one has an opposite meaning of the word in CAPITAL FACILITATE- | Hallow | Hamper | Hurdle | Hide |  | 
+26 | which one has an opposite meaning of the word in CAPITAL TRANSPARENT | Opaque | Manifest | Straight forward | Explicit |  | 
+27 | What is the antonym of the word Monumental ? | Adjacent | Microscopic | Remote | Massive |  | 
+28 | Find the opposite word of :WITTY | Talented | Ingenious | Foolish | Adroit |  | 
+29 | Find the opposite word of ABRIDGE: | Exten | Shorten | Stress | Easy |  | 
+30 | Find the opposite word of RESOLUTION | Resume | Secret | Imperialist | Confusion |  | 
+31 | The acronym BRRI stands for- | British Rural Research Institute | Bangladesh Road and Railway Institute | Bangladesh Rice Research Institute | Bangladesh Rich Research Institution |  | 
+32 | The 2016 BRICS summit were held in which city of India? | Goa | New Delhi | Calcutta | Chennai |  | 
+33 | The world's highest mountain is in- | China | Pakistan | Nepal | India |  | 
+34 | The Capital of Canada is- | Arabian Sea and Red Sea | Red Sea and North Sea | Mediterranean Sea and North sea | Mediterranean Sea and Red Sea |  | 
+35 | The largest Island of the world is -. | Iceland | Greenland | Srilanka | Finland |  | 
+36 | The Nobel Prize in Economics 2016 was won by- | Oliver Hart and Bengt Holmstrom | Oliver Hart and Yoshinori Ohsumi | Yoshinori Ohsumi and Alexievich | Oliver Hart and Angus Deaton |  | 
+37 | The present president of United States, Barack Obama, belongs to - | Democratic Party | Republican Party | Libertarian Party | None of the above |  | 
+38 | 'Yuan' is the currency of | Japan | Myanmar | China | South Korea |  | 
+39 | In Rio Olympics 2016 which country finished at the top of the table with gold medals? | United States | China | Great Britain | Russia |  | 
+40 | When was the flag of Bangladesh hoisted for first time? | March 7, 1971 | March 2, 1971 | March 26, 1971 | April 17, 1971 |  | 
+41 | The Architect of "Shaheed Minar" is- | Munir Chowdhury | Hamidur Rahman | Mainul Hossain | Hamidur Rashid |  | 
+42 | Preamble of the book "Oshomapto Attojiboni" ( অসমাপ্ত আত্নজীবনী) was written by- | Sheikh Mujibur Rahman | Sheikh Hasina Wazed | Sheikh Rehana | Dr. Abul Kalam |  | 
+43 | The number of members of the UN Security Council is- | 5 | 7 | 15 | 21 |  | 
+44 | Since the Independence, which country has provided highest donation to Bangladesh? | USA | Japan | U.K | Kuwait |  | 
+45 | The FIFA World Cup 2018 held in- | Germany | Qatar | Russia | Japan |  | 
+46 | "The pundits' claim Dhaka is amongst the fastest growing city in the world. The population is multiplying in geometric proportions and if the same pundits' are not too smart, which am afraid most of them are not always, the population and the city will soon collapse under their own weights. Do we see the pundits smirk now? However, Dhaka is being inundated by a migrant population flocking in their millions to the beleaguered city, in search of jobs, opportunity of which there is not to much, to beg at the city light, steal, collect tolls, smash cars, you name it. Of course, the city fathers in solemn tones inform us that the law and other situation is better now than what it was even a short while ago. Every once in a while our city fathers and mothers will also took the other way, when it comes to solving the accommodation problems of the teeming millions in the city. There are buildings springing up like mushrooms in this our beloved city, ostensibly to house the multitudes but more often than not to fetch fat rents for the chaps who matter. How it is possible for these building to come up overnight, taxing an already groaning basic facility network like the water, sewerage, and electricity to its breaking point, is a wonder. All these buildings of course cannot be built without permission from the 'relevant authorities' who again cannot give permission without proper assessment. The grotesque structures rising all over the city, without let or hindrance, is a positive environmental hazard of course, because the facilities to go with all these structures are stretched to meet demands. They are already stretched to their limits and no way can go any further. The only problem here comes to be the city authorities who are so blinded with keeping the beggars away so they do not hinder the ""games"", that they do not seem to have the time to anything else. And if they cannot those ugly, big structures mushrooming all over the city, they are in big trouble. It is a dispiriting exercise, this entire effort of trying to make ""them who matter"" see anything they are not interested in seeing. Admittedly, air this seems perhaps funny in print, but in real life, it somehow seems to have lost its humor as the city groans under the continual construction of high rise buildings." The word the author is favoring most in describing the tall structures is: | Week | Bizarre | Tall | Unplanned |  | 
+47 | The passage indicates that the utility services being taxed most by this mushrooming of high buildings are: | Telephone, garbage, water | Telephone, water, sewerage | Water, garbage, sewerage | Electricity, water, sewerage |  | 
+48 | An apt title for this passage is: | Law and order problems in Dhaka | Population increase in Dhaka | High rise on the Dhaka scene | The menace of the Dhaka City |  | 
+49 | The passage implies that the construction of high rise building is fulfilling the following except: | Solving accommodation problems | Has a mushrooming effect | Fetching high rents | Taxing utility services |  | 
+50 | According to the author, people rush to the city for the following reasons except one. Which one? | To steal | To do politics | To work | To collect tolls |  | 
+51 | Analogy FOREST: LION | River: Fish | Leaf: Tree | Soil: Grass | Street: Man |  | 
+52 | Analogy LIABILITY: IMMUNITY | Debit: Credit | Pardon: Amnesty | Real Estate: Property | Fidelity: Honesty |  | 
+53 | Analogy WEALTH: LUXURIOUS | Ticket: Admission | Democracy: Communism | Leader: People | Book: Pages |  | 
+54 | Analogy CAUTION: ACCIDENT | Radar: Collision | Police: Criminal | Worry: Disaster | Sanitation: Health |  | 
+55 | Analogy CUSTOMER: SHOPKEPPER | Patron: Concert | Member: Club | Advocate: Policy. | Client: Lawyer |  | 
+56 | Of the following, which is greater than 1/2 | 2/3 | 4/7 | 4/9 | 5/11 | 1/2=0.521​=0.5 (A) 2/5=0.452​=0.4 (B) 4/7=0.5774​=0.57 (C) 4/9=0.4494​=0.44 (D) 5/11=0.45115​=0.45 | 
+57 | For which of the following lengths of a side of a square would the perimeter be divisible by both 4 and 9 ? | 6 | 7 | 9 | None |  | 
+58 | During a certain chess tournament, each of six players will play with every other player exactly once. Then, how many different matches will be played during the tournament? | 5 | 10 | 15 | 25 | $^6C_2$=$ 6×5 \over 2 $ =15 | 
+59 | If 77:28::55:x, find the value of x- | 20 | 45 | 17 | None |  | 
+60 | What is the volume of a cube with a surface area of 96? | 64 | 16 | 27 | 48 |  | 
+61 | How much money would a man have to invest at the rate of 5% per year, to have Tk. 1470 at the end of the year? | 700 | 1400 | 1462 | 1500 |  | 
+62 | It takes 24 hours for 10 men to make 15 ChristmasC$_2$ How many cakes can be made if 8 men work for 36 hourse? | 12 | 15 | 18 | 24 |  | 
+63 | If the price of pen is discounted by 40%, for Tk. 120 you can buy 4 more pens than you could buy at the original price. How many pens could be bought for Tk. 120 at the original price? | 6 | 8 | 10 | None |  | 
+64 | For what values of ' k ' will the pair of equations 3x+4y=12 and kx+12y=30 not have a unique solution? | 12 | 9 | 3 | 7.5 |  | 
+65 | The length of a rectangle is increased by 20% and width is decreased by 10%. What is the change of area in percentage? | 15% | 8% | 12% | 10% |  | 
+66 | If x=1 and y=−2 then 2x−3y= | -7 | -4 | 5 | 8 |  | 
+67 | A cubical block of metal weighs 6 pounds. How much will another cube of the same metal weigh if its sides are twice as long? | 48 | 32 | 24 | 18 |  | 
+68 | If there of green marbles to red marbles. оrкоt mumentions green are 24 marbles in the box, how in a box is 3:5. mare marbles will be required to make the ration addional (A) 12 to red marbles 1:1? | 6 | 9 | 12 | None |  | 
+69 | In a certain group, 12 of the children average are age 10 and eight are age 15 . What is the average of the ages of all the children in the group? | 9.5 | 10.5 | 11.5 | 12 |  | 
+70 | Three years back, a father was 24 years older than his son. at present the father is 5 times as old as the son. How old will the son be three years from now? | 6 years | 3 years | 9 years | 27 years |  | 
+71 | If the price of an item increases from Tk. 5 to Tk. 8 , the old price is what % of the new price? | 20% | 60$ | 62.50% | 92.50% |  | 
+72 | A trader incurs a loss of 10% from selling an item. If the selling price was Tk. 200 more, he would have made a profit of 15%. What was the cost of the item? | 800 | 720 | 1200 | 900 |  | 
+73 | if x = -1 then ( x$^4$ +x$^3$ +x$^2$ ) = ? | -10 | -4 | zero | 4 |  | 
+74 | How many prime numbers are there between 45 and 72? | 4 | 5 | 6 | 7 |  | 
+75 | 8% of 0.06= ? | 0.048 | 0.48 | 4.8 | 0.0048 |  | 
+76 | if the average of p and q is 7 and r=13, what is the average of p,q and r ? | 10 | 6 | 8 | 9 |  | 
+77 | How many meters of fencing are needed to enclose a circular flower bed the radius of which is 7 meters? | 11 | 22 | 44 | 66 |  | 
+78 | If joe is now x years old and Marie is 6 years older than joe, which of the following gives Marie's age 8 years ago? | x - 14 | x - 6 | x - 2 | 6x - 8 |  | 
+79 | What is the cost in taka to put tiles in a room of x yards long and y yards wide, if the tile costs 10 taka per square foot? | xy | 20xy | 45xy | 90xy |  | 
+80 | The ratio of the number of freshmen to sophomores to juniors to seniors on a College football team is 4:7:6:8. What percent of the team ar sophomores? | 20% | 22% | 24% | 28% |  | 
