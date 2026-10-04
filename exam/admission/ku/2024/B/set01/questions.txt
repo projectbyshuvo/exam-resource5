@@ -31,7 +31,7 @@
 31 | নিশ্চিত ঘটনার সম্ভাবনা কত? | 0 | 0.5 | 1 | 2 |  | 
 32 | 3P ও 2P বলদ্বয়ের লব্ধি R, প্রথম বলটিকে দ্বিগুণ করলে লব্ধির পরিমাণও দ্বিগুণ হয়। বলদ্বয়ের অন্তর্গত কোণের মান কত? | $30^{\circ}$ | $60^{\circ}$ | $120^{\circ}$ | $150^{\circ}$ |  | 
 33 | $\sin ^2 \frac{\pi}{7}+\sin ^2 \frac{5 \pi}{14}+\sin ^2 \frac{8 \pi}{7}+\sin ^2 \frac{9 \pi}{14}$ এর মান কত? | 2 | -2 | -1 | 1 |  | 
-34 | নিচের কোনটি $\left| 2 x+5 \right|<1$ অসমতাটির সমাধান সেট? | $-3 \leq x<-2$ | $-3 | $-3 | $-3 \leq \mathrm{x} \leq-2$ |  | 
+34 | নিচের কোনটি $\left\vert  2 x+5 \right\vert <1$ অসমতাটির সমাধান সেট? | $-3 \leq x<-2$ | $-3 | $-3 | $-3 \leq \mathrm{x} \leq-2$ |  | 
 35 | $\frac{d}{d x}\left(\log _x e\right)=?$ | $\frac{\log _{\mathrm{x}} \mathrm{e}}{\mathrm{x}}$ | $\frac{1}{x \ln x}$ | $-\frac{\ln x}{x}$ | $-\frac{1}{x(\ln x)^2}$ |  | 
 36 | x এর কোন ধনাত্মক মানের জন্য $\mathbf{y}=\mathbf{x}+\mathbf{x}^{-1}$ রেখাটির ঢাল শূন্য হবে? | 2 | 1 | $\sqrt{2}$ | $\frac{1}{2}$ |  | 
 37 | ABCDEF একটি সুষম ষড়ভূজ হলে $\overrightarrow{\mathrm{AB}}+\overrightarrow{\mathrm{AC}}+\overrightarrow{\mathrm{AD}}+\overrightarrow{\mathrm{AE}}+\overrightarrow{\mathrm{AF}}=?$ | $3 \overrightarrow{\mathrm{AD}}$ | $2 \overrightarrow{\mathrm{AD}}$ | $\frac{3}{2} \overrightarrow{\mathrm{AD}}$ | কোনোটিই নয় |  | 
